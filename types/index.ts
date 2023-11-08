@@ -14,7 +14,7 @@ export interface ResultsOutputProps {
 export interface WeekOutputProps {
 	// value: object;
 	index: number;
-	healthSummary: string;
+	healthSummary?: string;
 	strategies: string;
 	weekTitle: string;
 	techniques: Array<string>;
@@ -23,7 +23,7 @@ export interface WeekOutputProps {
 export interface TechniqueCardProps {
 	technique: string;
 	strategies: string;
-	healthSummary: string;
+	healthSummary?: string;
 }
 
 export interface TechniqueQueryResultProps {
