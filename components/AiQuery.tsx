@@ -30,6 +30,7 @@ const AiQuery = () => {
 				method: "POST",
 				body: JSON.stringify({ query, selectedCondition, goals })
 			});
+			console.log(JSON.stringify({ query, selectedCondition, goals }));
 			const json = await result.json();
 			setResult(
 				JSON.parse(
