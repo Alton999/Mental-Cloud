@@ -45,7 +45,10 @@ const TechniqueCard = ({
 			{techniqueQueryResult !== "" && (
 				<div className="w-full">
 					<TechniqueQueryResult
-						techniqueQueryResult={JSON.parse(techniqueQueryResult)}
+						// techniqueQueryResult={JSON.parse(techniqueQueryResult)}
+						definition={JSON.parse(techniqueQueryResult).definition}
+						steps={JSON.parse(techniqueQueryResult).steps}
+						benefit={JSON.parse(techniqueQueryResult).benefit}
 					/>
 				</div>
 			)}

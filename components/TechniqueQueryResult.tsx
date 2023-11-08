@@ -2,13 +2,10 @@ import React from "react";
 import { TechniqueQueryResultProps } from "../types";
 
 const TechniqueQueryResult = ({
-	techniqueQueryResult
+	definition,
+	steps,
+	benefit
 }: TechniqueQueryResultProps) => {
-	const definition = (techniqueQueryResult as TechniqueQueryResultProps)
-		.definition;
-	const steps = (techniqueQueryResult as TechniqueQueryResultProps).steps;
-	const benefit = (techniqueQueryResult as TechniqueQueryResultProps).benefit;
-
 	return (
 		<div className="space-y-3">
 			<p>{definition}</p>

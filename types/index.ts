@@ -8,11 +8,11 @@ export interface ToggleConditionProps {
 
 export interface ResultsOutputProps {
 	results: object;
-	healthStatement: string;
+	healthStatement?: string;
 }
 
 export interface WeekOutputProps {
-	value: object;
+	// value: object;
 	index: number;
 	healthSummary: string;
 	strategies: string;
@@ -27,7 +27,7 @@ export interface TechniqueCardProps {
 }
 
 export interface TechniqueQueryResultProps {
-	techniqueQueryResult: object;
+	// techniqueQueryResult: object;
 	definition: string;
 	steps: Array<string>;
 	benefit: string;

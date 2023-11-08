@@ -1,14 +1,16 @@
 import { WeekOutputProps } from "../types";
 import { TechniqueCard } from ".";
 
-const WeekOutput = ({ value, index, healthSummary }: WeekOutputProps) => {
+const WeekOutput = ({
+	index,
+	healthSummary,
+	weekTitle,
+	strategies,
+	techniques
+}: WeekOutputProps) => {
 	// const [healthSummary, setHealthSummary] = useState("");
 	// const healthStatement = (results as ResultsOutputProps).healthStatement;
 
-	const strategies = (value as WeekOutputProps).strategies;
-	const weekTitle = (value as WeekOutputProps).weekTitle;
-	const techniques = (value as WeekOutputProps).techniques;
-	console.log(value);
 	return (
 		<div
 			className={`space-y-3 px-6 py-4 border-2 border-sky-800 

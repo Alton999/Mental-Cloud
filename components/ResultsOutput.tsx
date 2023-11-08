@@ -18,9 +18,12 @@ const ResultsOutput = ({ results }: ResultsOutputProps) => {
 					key !== "healthStatement" && (
 						<WeekOutput
 							key={key}
-							value={value}
+							// value={value}
 							index={index}
 							healthSummary={healthStatement}
+							weekTitle={value.weekTitle}
+							strategies={value.strategies}
+							techniques={value.techniques}
 						/>
 					)
 			)}
