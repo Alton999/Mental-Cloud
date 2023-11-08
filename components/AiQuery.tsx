@@ -1,5 +1,5 @@
 "use client";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { ToggleCondition, ResultsOutput } from ".";
 
 const AiQuery = () => {
@@ -8,61 +8,7 @@ const AiQuery = () => {
 	const [loading, setLoading] = useState(false);
 	const [selectedCondition, setSelectedCondition] = useState("");
 	const [goals, setGoals] = useState("");
-	// const testingOutput = `
-	// {
-	// 	"healthStatement": "Based on your symptoms of anxiety and how it has been affecting your academic performance and overall well-being, it would be beneficial for you to seek support from a mental health professional, such as a psychologist or therapist. They can provide you with strategies and techniques to manage your anxiety and improve your productivity. Additionally, consider utilizing resources and techniques listed below as part of your healthcare plan.",
 
-	// 	"week1": {
-	// 		"weekTitle": "Understanding Anxiety and Its Effects",
-	// 		"strategies": "Start by gaining a better understanding of anxiety and its impact on your daily life. Educate yourself about the symptoms, triggers, and coping mechanisms associated with anxiety. Keep a journal to track your anxiety patterns and identify any recurring triggers. Begin practicing deep breathing exercises or mindfulness techniques to help reduce anxiety in the moment.",
-	// 		"techniques": [
-	// 			"Deep breathing exercises",
-	// 			"Mindfulness meditation",
-	// 			"Journaling"
-	// 		]
-	// 	},
-
-	// 	"week2": {
-	// 		"weekTitle": "Creating a Calming Environment",
-	// 		"strategies": "Focus on creating a calming environment in your study space. Remove distractions, such as clutter or noise, and organize your materials for better productivity. Experiment with ambient music or nature sounds to create a soothing atmosphere. Establish a study routine that includes breaks for relaxation and self-care activities, like going for walks or practicing hobbies.",
-	// 		"techniques": [
-	// 			"Decluttering your study space",
-	// 			"Using ambient music or nature sounds",
-	// 			"Incorporating regular breaks for relaxation"
-	// 		]
-	// 	},
-
-	// 	"week3": {
-	// 		"weekTitle": "Cognitive Restructuring",
-	// 		"strategies": "Practice cognitive restructuring techniques to challenge and change negative thought patterns that contribute to anxiety. Identify any irrational beliefs or self-doubt associated with your academic performance. Replace negative thoughts with more positive and realistic ones. Write down affirmations or positive statements to remind yourself of your capabilities.",
-	// 		"techniques": [
-	// 			"Identifying negative thought patterns",
-	// 			"Challenging irrational beliefs",
-	// 			"Creating positive affirmations"
-	// 		]
-	// 	},
-
-	// 	"week4": {
-	// 		"weekTitle": "Addressing Perfectionism and Time Management",
-	// 		"strategies": "Reflect on any perfectionistic tendencies that may contribute to your anxiety. Set realistic goals and allow yourself to make mistakes without self-judgment. Develop effective time management skills to better prioritize tasks and reduce feelings of being overwhelmed. Break larger tasks into smaller, manageable steps to enhance productivity.",
-	// 		"techniques": [
-	// 			"Setting realistic goals",
-	// 			"Practicing self-compassion",
-	// 			"Utilizing time management techniques"
-	// 		]
-	// 	},
-
-	// 	"week5": {
-	// 		"weekTitle": "Seeking Support and Maintaining Self-Care",
-	// 		"strategies": "Reach out to a mental health professional to further explore and address your anxiety. Consider therapy sessions to learn additional coping strategies and receive guidance tailored to your specific needs. Prioritize self-care activities, such as exercise, healthy eating, and maintaining social connections. Regularly assess your progress and make adjustments to your healthcare plan as needed.",
-	// 		"techniques": [
-	// 			"Engaging in therapy or counseling",
-	// 			"Prioritizing self-care activities",
-	// 			"Maintaining social connections"
-	// 		]
-	// 	}
-	// }
-	// `;
 	async function createIndexAndEmbeddings() {
 		try {
 			const result = await fetch("/api/setup", {
@@ -85,8 +31,6 @@ const AiQuery = () => {
 				body: JSON.stringify({ query, selectedCondition, goals })
 			});
 			const json = await result.json();
-			// console.log(JSON.stringify(json));
-			// const jsonParse = JSON.parse(json);
 			setResult(
 				JSON.parse(
 					JSON.parse(JSON.stringify(json)).data.replace(/(\r\n|\n|\r)/gm, "")

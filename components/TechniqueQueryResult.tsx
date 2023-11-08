@@ -4,18 +4,23 @@ import { TechniqueQueryResultProps } from "../types";
 const TechniqueQueryResult = ({
 	techniqueQueryResult
 }: TechniqueQueryResultProps) => {
+	const definition = (techniqueQueryResult as TechniqueQueryResultProps)
+		.definition;
+	const steps = (techniqueQueryResult as TechniqueQueryResultProps).steps;
+	const benefit = (techniqueQueryResult as TechniqueQueryResultProps).benefit;
+
 	return (
 		<div className="space-y-3">
-			<p>{techniqueQueryResult.definition}</p>
+			<p>{definition}</p>
 			<div className="space-y-1">
 				<h5 className="font-semibold">Steps:</h5>
 				<ul className="space-y-2 list-decimal ml-6">
-					{techniqueQueryResult.steps.map((step: string, index: number) => (
+					{steps.map((step: string, index: number) => (
 						<li key={index}>{step}</li>
 					))}
 				</ul>
 			</div>
-			<p>{techniqueQueryResult.benefit}</p>
+			<p>{benefit}</p>
 		</div>
 	);
 };

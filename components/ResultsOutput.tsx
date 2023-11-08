@@ -3,6 +3,7 @@ import { WeekOutput } from ".";
 
 const ResultsOutput = ({ results }: ResultsOutputProps) => {
 	console.log(results);
+	const healthStatement = (results as ResultsOutputProps).healthStatement;
 	return (
 		<section className="py-4 bg-white rounded-xl text-sky-900 px-4 space-y-8">
 			<h1 className="text-2xl font-bold">
@@ -10,7 +11,7 @@ const ResultsOutput = ({ results }: ResultsOutputProps) => {
 			</h1>
 			<div className="space-y-3">
 				<h3 className="font-bold text-xl">Health Summary:</h3>
-				<p className="text-lg"> {results.healthStatement}</p>
+				<p className="text-lg"> {healthStatement}</p>
 			</div>
 			{Object.entries(results).map(
 				([key, value], index) =>
@@ -19,7 +20,7 @@ const ResultsOutput = ({ results }: ResultsOutputProps) => {
 							key={key}
 							value={value}
 							index={index}
-							healthSummary={results.healthStatement}
+							healthSummary={healthStatement}
 						/>
 					)
 			)}
