@@ -3,8 +3,12 @@ import Loading from "./Loading";
 import ResultsOutput from "./ResultsOutput";
 import TechniqueCard from "./TechniqueCard";
 import TechniqueQueryResult from "./TechniqueQueryResult";
-import ToggleCondition from "./ToggleCondition";
+import ToggleCondition from "./FormComponents/ToggleCondition";
 import WeekOutput from "./WeekOutput";
+import ConditionInput from "./FormComponents/ConditionInput";
+import DescriptionInput from "./FormComponents/DescriptionInput";
+import GoalsInput from "./FormComponents/GoalsInput";
+import TextInput from "./FormComponents/TextInput";
 
 export {
 	AiQuery,
@@ -13,5 +17,9 @@ export {
 	Loading,
 	TechniqueQueryResult,
 	TechniqueCard,
-	WeekOutput
+	WeekOutput,
+	ConditionInput,
+	DescriptionInput,
+	GoalsInput,
+	TextInput
 };

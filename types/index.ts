@@ -32,3 +32,23 @@ export interface TechniqueQueryResultProps {
 	steps: Array<string>;
 	benefit: string;
 }
+
+export interface ConditionInputProps {
+	selectedCondition: string;
+	setSelectedCondition: React.Dispatch<React.SetStateAction<string>>;
+}
+
+export interface DescriptionInputProps {
+	description: string;
+	setDescription: React.Dispatch<React.SetStateAction<string>>;
+}
+
+export interface GoalsInputProps {
+	goals: string;
+	setGoals: React.Dispatch<React.SetStateAction<string>>;
+}
+
+export interface TextInputProps {
+	handleChange: React.Dispatch<React.SetStateAction<string>>;
+	name: string;
+}

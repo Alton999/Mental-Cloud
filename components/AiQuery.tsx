@@ -1,9 +1,16 @@
 "use client";
 import { useState } from "react";
-import { ToggleCondition, ResultsOutput } from ".";
+import { Tab } from "@headlessui/react";
+import {
+	ToggleCondition,
+	ResultsOutput,
+	ConditionInput,
+	DescriptionInput,
+	GoalsInput
+} from ".";
 
 const AiQuery = () => {
-	const [query, setQuery] = useState("");
+	const [description, setDescription] = useState("");
 	const [result, setResult] = useState(null);
 	const [loading, setLoading] = useState(false);
 	const [selectedCondition, setSelectedCondition] = useState("");
@@ -22,15 +29,14 @@ const AiQuery = () => {
 	}
 
 	async function sendQuery() {
-		if (!query || !selectedCondition) return;
+		if (!description || !selectedCondition) return;
 		setResult(null);
 		setLoading(true);
 		try {
 			const result = await fetch("/api/read", {
 				method: "POST",
-				body: JSON.stringify({ query, selectedCondition, goals })
+				body: JSON.stringify({ description, selectedCondition, goals })
 			});
-			console.log(JSON.stringify({ query, selectedCondition, goals }));
 			const json = await result.json();
 			setResult(
 				JSON.parse(
@@ -51,61 +57,15 @@ const AiQuery = () => {
 		<section>
 			<div>
 				<div className="py-6 w-full space-y-8">
-					<div className="space-y-3">
-						<h2 className="text-lg font-semibold">
-							Which one of these conditions best describes your situation?
-						</h2>
-						<div className="flex gap-12 flex-wrap">
-							<ToggleCondition
-								condition="Anxiety"
-								selectedCondition={selectedCondition}
-								handleToggle={() => setSelectedCondition("Anxiety")}
-							/>
-							<ToggleCondition
-								condition="Depression"
-								selectedCondition={selectedCondition}
-								handleToggle={() => setSelectedCondition("Depression")}
-							/>
-							<ToggleCondition
-								condition="Attention-hyperactivity disorder (ADHD)"
-								selectedCondition={selectedCondition}
-								handleToggle={() =>
-									setSelectedCondition(
-										"Attention-hyperactivity disorder (ADHD)"
-									)
-								}
-							/>
-							<ToggleCondition
-								condition="Eating disorder"
-								selectedCondition={selectedCondition}
-								handleToggle={() => setSelectedCondition("Eating disorder")}
-							/>
-						</div>
-					</div>
-					<div className="space-y-3">
-						<label htmlFor="query" className="font-semibold text-lg">
-							How has this condition affected you? Give a short sentence
-							describing your situation.
-						</label>
-						<input
-							name="query"
-							type="text"
-							className="text-black px-2 py-1 w-full"
-							onChange={(e) => setQuery(e.target.value)}
-						/>
-					</div>
-					<div className="space-y-3">
-						<label htmlFor="goals" className="font-semibold text-lg">
-							What do you want to get out of this health plan? Give a short
-							sentence describing your situation.
-						</label>
-						<input
-							name="goals"
-							type="text"
-							className="text-black px-2 py-1 w-full"
-							onChange={(e) => setGoals(e.target.value)}
-						/>
-					</div>
+					<ConditionInput
+						selectedCondition={selectedCondition}
+						setSelectedCondition={setSelectedCondition}
+					/>
+					<DescriptionInput
+						description={description}
+						setDescription={setDescription}
+					/>
+					<GoalsInput goals={goals} setGoals={setGoals} />
 				</div>
 			</div>
 			<button
@@ -114,12 +74,7 @@ const AiQuery = () => {
 			>
 				{loading ? <p>Asking AI...</p> : <p>Generate</p>}
 			</button>
-			{/* <div>{result && result.healthStatement}</div> */}
-			{/* {result && <div>Result: {}</div>} */}
-			<div>
-				{result && <ResultsOutput results={result} />}
-				{/* <ResultsOutput results={JSON.parse(testingOutput)} /> */}
-			</div>
+			<div>{result && <ResultsOutput results={result} />}</div>
 			<button
 				className="px-7 py-1 bg-white text-black mt-2 mb-2"
 				onClick={createIndexAndEmbeddings}

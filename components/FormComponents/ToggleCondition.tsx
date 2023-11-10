@@ -1,4 +1,4 @@
-import { ToggleConditionProps } from "../types";
+import { ToggleConditionProps } from "../../types";
 
 const ToggleCondition = ({
 	condition,
