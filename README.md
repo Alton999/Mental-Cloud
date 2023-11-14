@@ -1,9 +1,9 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-## Mental Cloud
+# Mental Cloud
 Welcome to the Mental Cloud repository. Here we are aiming to revoluntionaise the mental healthcare industry with the use of AI. Please note this prototype is not intended to replace the need for real life human interactions and professional help.
 
-# Steps to run 
+## Steps to run 
 First you will need to clone the repository
 ```
 git clone https://github.com/Alton999/Mental-Cloud.git
