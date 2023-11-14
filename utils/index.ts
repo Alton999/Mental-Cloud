@@ -81,7 +81,7 @@ export const queryPineconeVectoreStoreAndQueryLLM = async (
 	indexName: any,
 	body: any
 ) => {
-	const customPrompt = `User is having trouble with mental health. The condition they are facing is ${body.selectedCondition}. This is how it has been affecting the user ${body.query}. The user's goals from this health plan is ${body.goals}`;
+	const customPrompt = `User is having trouble with mental health. The condition they are facing is ${body.selectedCondition}. This is how it has been affecting the user ${body.description}. The user's goals from this health plan is ${body.goals}`;
 	console.log(`Querying Pinecone vector store for question: ${customPrompt}`);
 	const index = client.index(indexName);
 	const queryEmbedding = await new OpenAIEmbeddings().embedQuery(customPrompt);
@@ -99,7 +99,7 @@ export const queryPineconeVectoreStoreAndQueryLLM = async (
 		const promptTemplate = `
 			Here is the user's response: ${customPrompt}
 		
-			Provide a roadmap of strategies (on a week-by-week basis) the patient can use to improve in regards to what is going on with them. Start off with something comfortable for the patient to begin with, then gradually provide more strategies for each week. 
+			Provide a roadmap of strategies (on a week-by-week basis) the patient can use to improve in regards to what is going on with them. Start off with something comfortable for the patient to begin with, then gradually provide more strategies for each week. Use the embedded context to provide an accurate response with the relevant strategies and diagnosis.
 			
 			The response needs to be in JSON format. The JSON format should contain the following: 
 			
@@ -111,7 +111,7 @@ export const queryPineconeVectoreStoreAndQueryLLM = async (
 			
 			- weekTitle: Title summary for the week
 			- strategies: A paragraph for strategies laid out in detail. Elaborate on the strategy/strategies in as much detail as possible. 
-			- techniques: List some practical techniques listed in the resources that the patient can use to help them with their mental health. 
+			- techniques: List some practical techniques listed in the resources that the patient can use to help them with their mental health. Give 3 techniques for each week. No additional details are required for the techniques.
 
 			Follow this example template:
 			{
@@ -149,7 +149,9 @@ export const queryTechniques = async (
 	body: any
 ) => {
 	const customPrompt = `
-		Elaborate on this technique ${body.selectedTechnique}. Here is the health summary ${body.healthSummary} and here is the strategy for the week ${body.strategies}
+		Use this context for the explanations:
+		Here is the health summary ${body.healthSummary} and here is the strategy for the week ${body.strategies}
+		Provide a definition for the technique of ${body.selectedTechnique} along with practical steps the user can take to use this technique. 
 	`;
 	console.log(`Querying Pinecone vector store for question: ${customPrompt}`);
 	const index = client.index(indexName);
@@ -165,10 +167,10 @@ export const queryTechniques = async (
 	if (queryResponse.matches.length) {
 		const llm = new ChatOpenAI({ modelName: "gpt-3.5-turbo-16k" });
 		const chain = loadQAMapReduceChain(llm);
-		const promptTemplate = `Here is the query: ${customPrompt}
-			Provide a definition for this technique along with practical steps the patient can take to use this technique. Respond in JSON format, with the following fields: definition, steps as a list of strings and a benefit of following this technique relating back to their condition from the health summary.
+		const promptTemplate = `${customPrompt}
+			Respond in JSON format, with the following fields: definition, 5 steps as a list of strings and a benefit of following this technique relating back to their condition from the health summary. No numbering in lists are required.
 
-			Example template: 
+			Follow this template: 
 			{
 				"definition": "A definition of the technique",
 				"steps": [

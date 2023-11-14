@@ -1,0 +1,1146 @@
+8
+
+Reducing Fear, Anxiety, 
+
+and Avoidance of Internal 
+
+Experience
+
+Reexperiencing and memory work described in the preceding chapter are 
+intended to restructure a core sense of self related to fear and shame 
+developed through traumatic experiences. This pervasive sense of self as worth-
+less or insecure is automatically activated, much like overgeneralized trauma 
+fear responses, as a holistic response to current interpersonal situations that 
+resemble past trauma. This chapter, however, focuses on reducing discrete 
+maladaptive emotions of fear and anxiety that are secondary to underlying 
+thoughts and feelings. These secondary reactions are a major type of emotion 
+(see Chapter 3) that is frequently observed in complex trauma. Working with 
+these types of emotion requires interventions described in this chapter that  
+specifically focus on the obvious and observable underlying cognitive-affective 
+processes. The chapter that follows this one focuses on similar underlying 
+processes related to guilt and shame.
+Fear and anxiety frequently result in avoidance or distancing the self from 
+trauma feelings and memories, which, in turn, interfere with in-session  
+processing and recovery from trauma. Thus, interventions described in this 
+chapter also are aimed at helping clients to allow, explore, and thus make 
+sense of previously avoided emotional experience. This is different from 
+simply admitting to or labeling one's feelings, although those are necessary 
+first steps. Many clients can name their feelings yet do not allow themselves 
+to feel the depth or intensity of those experiences fully. The distinction 
+between admitting feelings and fully allowing their experiential impact was 
+evident in the study described in Chapter 6 on the imaginal confrontation 
+(IC) procedure that asked clients to identify the most helpful aspects of emotion- 
+focused therapy for trauma (EFTT; Holowaty & Paivio, 2012). The aspect  
+clients most frequently identified as helpful was fully allowing painful and 
+threatening feelings and deeply experiencing, for the first time, the damaging 
+impact of childhood abuse and neglect.
+In this chapter, we compare EFTT with other approaches to working with 
+secondary fear-related experience, provide clinical guidelines for distinguishing 
+among the different types of fear observed in trauma therapy, and specify the 
+relevant change processes and goals. In the last half of this chapter, we specify 
+different types of observed experiential avoidance and appropriate intervention 
+for each. These include step-by-step guidelines for helping clients allow 
+emotional pain and a general model of steps to reduce fear and avoidance of 
+internal experience. This model also applies to reducing self-critical processes 
+presented in the chapter that follows.
+PERSPECTIVES ON FEAR, ANXIETY, AND AVOIDANCE: EFTT 
+COMPARED WITH OTHER APPROACHES
+As noted throughout this book, fear, anxiety, and the associated avoidance of 
+trauma-related internal experience are defining features of posttraumatic stress 
+disorder (PTSD) and complex traumatic stress disorders. It also is universally 
+recognized that such avoidance perpetuates disturbance. Thus, helping clients 
+to allow and accept trauma feelings and memories rather than avoid them is an 
+essential ingredient of all successful trauma therapies. For example, dialectical 
+behavior therapy (DBT; Linehan, 1993) for borderline personality disorder 
+(which is strongly associated with a history of child abuse trauma) balances  
+a focus on changing destructive behaviors (e.g., self-harm, substance abuse) 
+with "radical acceptance" of self and validation of the client's feelings and per-
+ceptions. DBT also teaches mindfulness meditation techniques to help clients 
+observe and accept the flow of thoughts and feelings rather than react to or try 
+to change them. Recent cognitive therapy for depression (Segal et al., 2013) and 
+acceptance and commitment therapy (e.g., Hayes et al., 2012) similarly empha-
+size acceptance of distressing internal experience. The promotion of present- 
+centered awareness and nonjudgmental acceptance of internal experience are 
+part and parcel of EFTT. However, although EFTT may incorporate skills 
+training for severe emotion dysregulation, it relies more on therapist 
+empathy to help reduce client distress and focuses more on meaning explo-
+ration rather than simple observation and acceptance of internal experience.
+EFTT also shares features with contemporary psychodynamic approaches to 
+trauma, such as affect phobia therapy (McCullough et al., 2003), that focus on 
+the defensive covering of core affective experience, except that confrontation 
+and interpretation of defensive processes are not part of the EFTT repertoire. Of 
+these psychodynamic approaches, attachment-based models, such as acceler-
+ated experiential dynamic psychotherapy (Fosha, 2021) and mentalization 
+approaches (Levy et al., 2006), are the most compatible with our approach. 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 183
+Thus, the common ground would emphasize the provision of a secure attachment 
+bond and empathic responsiveness to a client's feelings and to reduce defensive 
+avoidance and access core affect.
+Effective trauma therapies described in the preceding chapter also focus 
+specifically on changing the dysfunctional beliefs associated with PTSD and 
+complex PTSD. These include catastrophic expectations about and avoidance 
+of external situations and internal experience. Cognitive behavioral inter-
+ventions typically involve psychoeducation and Socratic questioning to chal-
+lenge such dysfunctional beliefs. However, EFTT interventions, such as gestalt- 
+derived two-chair dialogues, are intended to (a) increase clients' awareness of 
+how their thoughts and feelings contribute to maladaptive fear, anxiety, and 
+avoidance and (b) allow clients to deeply experience, in session, the discom-
+fort of these emotional processes. Such deep experience of discomfort (c) acti-
+vates alternative healthy internal resources (adaptive thoughts, feelings, needs) 
+to counteract these maladaptive processes and helps clients allow disavowed 
+painful experience. Processes like this for allowing emotional pain are described 
+later in this chapter.
+PROCESS DIAGNOSIS: DISTINGUISHING DIFFERENT TYPES OF FEAR 
+AND ANXIETY
+Appropriate intervention in EFTT requires an accurate process diagnosis of 
+different types of fear and anxiety and their associated processing difficulties, 
+according to the typology presented in Chapter 3. These emotion types are 
+described in the subsections that follow.
+Adaptive Fear and Anxiety
+Although fear and anxiety are frequently considered synonymous, they have 
+distinct properties and functions that have implications for therapeutic inter-
+vention, as outlined next.
+Fear
+As a basic emotion, fear is automatically activated in response to a perceived 
+imminent threat of harm and is associated with the action tendencies of fight, 
+flight, or freeze (shut down, play dead) to escape or avoid the danger. Trauma- 
+related problems with this type of adaptive fear concern lack of awareness and 
+concomitant lack of appropriate self-protective response. For example, among 
+child abuse survivors, vulnerability to revictimization is thought to stem, in part, 
+from an inability to recognize or trust one's perceptions concerning danger 
+(Courtois et al., 2020).
+Anxiety
+Anxiety is distinct from fear in that it involves anticipating a potentially harmful 
+or threatening situation rather than being confronted with imminent danger. 
+184 
+Emotion-Focused Therapy for Complex Trauma
+In moderation, anxiety can be adaptive by motivating strategies for coping 
+with an anticipated danger, as in seeking help to avoid an episode of domestic 
+violence. Although its inherent meaning is not a source of difficulty per se, 
+problems with adaptive anxiety occur when it is of high intensity. When this 
+happens, it interferes with information processing, learning, and ultimately, 
+the ability to respond adaptively to the threat.
+Problematic Fear and Anxiety
+Problems with maladaptive fear and anxiety are easily recognized by thera-
+pists and clients alike. Again, distinguishing among different types of these 
+emotions is crucial to effective intervention.
+Primary Maladaptive Fear
+Primary maladaptive fear is an automatically activated and conditioned response 
+to stimuli that have become associated with harm. This is the type of fear 
+classically observed in PTSD reactions. For instance, a refugee from a country 
+with a violent military may experience feelings of terror and panic at the sight 
+of anyone in a uniform. Depending on the individual, this terror may result 
+in rage and aggressive behavior, fleeing the situation, or paralysis. Over time, 
+this fear response can generalize to other stimuli and situations--underregulated 
+anger, avoiding situations, chronic hypervigilance, and overcontrol. From a 
+neurological perspective, this represents a narrowed "window of tolerance" 
+(Porges & Dana, 2018), such that the individual is increasingly reactive to more 
+and more neutral stimuli. The problem here is an overgeneralized fear and 
+avoidance of situations that, in fact, are harmless.
+A Core Sense of Self as Vulnerable or Insecure
+A core sense of self as vulnerable or insecure is a kind of hybrid of primary 
+maladaptive fear or anxiety that is the focus of trauma reexperiencing and 
+memory work described in the preceding chapter. This sense of self is orga-
+nized around experiences of fear, dread, and chronic anticipation of danger 
+that originated in attachment relationships and is activated in current inter-
+personal situations. This pervasive sense of vulnerability is activated as a 
+holistic experience. Although anticipating danger and having catastrophic 
+expectations are both part of this complex self-organization and perpetuate 
+feelings of anxiety, those cognitive processes do not precede or generate its 
+activation. In this sense, the experience of vulnerability is distinct from sec-
+ondary anxiety, and this distinction has implications for differential interven-
+tion. The problem here is that the activation of an insecure or vulnerable 
+sense of self makes people feel fragile, powerless, or victimized and interferes 
+with self-confidence, coping, and the capacity for interpersonal relatedness. 
+People can be hypervigilant, emotionally overcontrolled, and distrusting of 
+others, especially intimate others. However, some individuals also can be chron-
+ically angry, keeping others at a distance.
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 185
+Another important point is that complex trauma in attachment relation-
+ships typically results in both chronic insecurity and feelings of worthlessness 
+and inferiority. Thus, the sense of self is typically organized around experi-
+ences of both fear and shame. Although traumatic experiences of fear on the 
+one hand and shame and self-blame on the other may coexist for an indi-
+vidual, one of these usually dominates as a more salient way of being in the 
+world. Interventions need to target the dominant experience. However, clients 
+dealing with complex trauma will typically suffer the effects of secondary 
+anxiety and avoidance in their efforts to skirt the deeper primary feelings.
+Maladaptive Anxiety
+Maladaptive anxiety
+ is most often defined as a secondary emotional experience 
+because it is preceded and strongly influenced by obvious maladaptive beliefs. 
+These anxiety problems can entail the misattribution of danger and lead to 
+inappropriate avoidance. Anxiety also can be secondary to other painful or 
+threatening feelings, such as anger, neediness, embarrassment, or shame. 
+Traumatized individuals, for example, experience anxiety about the emer-
+gence of feelings, memories, and bodily sensations associated with the trauma 
+(resembling the anticipatory anxiety associated with panic disorder). This is 
+the basis for the avoidance symptoms so characteristic of PTSD. The problem 
+here is that maladaptive anxiety and the subsequent avoidance of trauma 
+material interfere with processing and change. Thus, chronic anxiety needs to 
+be reduced, and the meaning of any underlying emotions needs to be explored.
+Complex Maladaptive Emotion Versus Emotional Pain
+In addition to the different types of fear and anxiety described earlier, emotion- 
+focused therapy has distinguished between complex "bad feelings" and 
+"emotional pain" (Greenberg & Paivio, 1997; Pascual-Leone & Greenberg, 
+2007). These types of experiences are uncomfortable, and people make efforts 
+not to feel them or try to get rid of them. However, for change to occur, they 
+both need to be experienced in session. Even so, they involve different change 
+processes and call for different intervention strategies.
+Complex Maladaptive Emotion
+Feelings of hopelessness, helplessness, desperation, or despair are common 
+among victims of complex trauma. These are complex secondary emotional 
+reactions or products of the activations of core maladaptive emotion schemes 
+or self-organizations. These can be vague feelings causing global distress that 
+need to be regulated, explored, and differentiated, and the underlying issues 
+related to a maladaptive sense of self need to be addressed. In general, changing 
+bad feelings and global distress of this kind involves complex processes that 
+correspond to those outlined earlier in the general model of change and illus-
+trated in Figure 3.1. This includes exploring the cognitive-affective constituents 
+(e.g., shame, sense of self as intrinsically unlovable, fear of others as rejecting, 
+and belief in the inevitability of abandonment) that generate the bad feeling 
+186 
+Emotion-Focused Therapy for Complex Trauma
+and then accessing adaptive emotions and associated healthy resources so 
+that this information can be used to modify the underlying maladaptive emo-
+tion scheme.
+Emotional Pain
+Complex relational trauma also involves intensely painful emotional experi-
+ences related to feeling unwanted, unloved, worthless, or inferior or stemming 
+from the loss of cherished aspects of the self or the loss of or separation from 
+loved ones. This kind of feeling is not "global" in the sense of undifferentiated 
+distress but rather a primary adaptive experience of emotional pain, an over-
+arching embodied assessment of the casualties that have and are being endured. 
+As such, emotional pain differs from basic feelings such as anger or sadness in 
+that it is more complex than any single emotion (Greenberg & Paivio, 1997). This 
+type of emotional pain needs to be allowed to (a) incrementally engage the 
+previously thwarted feeling, (b) acknowledge that damage to the self has 
+occurred, and (c) understand the precise nature of the damage or harm. Only 
+after facing this damage can one integrate this information about the self. 
+Over time, this process of acceptance will lead to a redefinition of the self  
+and the development of new values, concerns, and coping strategies to heal 
+the damage.
+CHANGE PROCESSES AND GOALS
+The overarching objectives for addressing fear, anxiety, and experiential 
+avoidance in EFTT emerge from steps in the general model of change pre-
+sented in Figure 3.1 (Pascual-Leone, 2018). These are to (a) access the under-
+lying maladaptive emotion structure or scheme (i.e., fear, shame); (b) explore 
+the related cognitive, affective, and motivational constituents; (c) support the 
+emergence of other adaptive emotions and associated healthy resources; and 
+(d) use these to modify or transform the maladaptive emotion structure. Of 
+course, at each of these steps, various forms of avoidance may continue to 
+interrupt progress through later steps in the model and block the process of 
+change. So, although all the interventions presented next follow the general 
+model, they address specific blocks that may occur at specific steps in the 
+change process.
+Addressing problems of underregulated fear and anxiety begins, by neces-
+sity, in the first session. However, explicit therapeutic work to reduce fear and 
+anxiety and experiential avoidance generally begins only after a therapist 
+repeatedly observes these processes in session and there have been unsuccessful 
+attempts to bypass the problem. Sometimes the problem can be bypassed, for 
+example, by the therapist's calming response (e.g., "Just breathe--easy. That's 
+right; it's going to be okay") and invitations to allow threatening experience 
+(e.g., "I know you want to push it away, that sense of being unlovable, but 
+would it be okay to just get closer to that experience"), directing attention to 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 187
+the suppressed experience (e.g., "So painful. Stay with that; tell me more"), 
+or through use of evocative empathic responses to increase arousal and access 
+it (e.g., "So scary--all alone with all those painful feelings!"). Although EFTT 
+focuses on reducing the fear and avoidance of both external and internal 
+stimuli, it particularly promotes acceptance of internal experience. This approach 
+to therapy fosters a desire to know, respect, nurture, and protect rather than 
+reject or disavow the part of the self that has been injured. For example,  
+the therapist might say, "It's important what you've been through, Paul-- 
+a profoundly meaningful part of who you are. I want you to learn to embrace 
+and respect that part of yourself rather than pretending to be someone you 
+are not."
+The following intervention principles identified in the general model of 
+emotion-focused therapy (Greenberg & Paivio, 1997) are particularly relevant 
+to work with trauma-related fear. We begin with identifying processes and 
+goals related to the task of managing fear and anxiety, which is a prerequisite 
+for other tasks. Many of these resemble the strategies used in other treatment 
+approaches.
+Gradual Engagement
+The principle of gradual engagement is synonymous with the traditional con-
+struct of gradual exposure, except that it explicitly recognizes and prizes the 
+agency of the client. As discussed in previous chapters, gradual exposure 
+begins with the disclosure of traumatic experiences in early sessions before 
+later in-depth reexperiencing, initially working with less threatening others 
+in the IC procedure or expressing feelings to the therapist. Therapists can also 
+begin by deliberately using less evocative language to access threatening feel-
+ings, such as anger (e.g., "You didn't like" as opposed to "You hated"). This is 
+the construct of successive approximations to the threatening feelings. As a rule, 
+clients decide in what manner and how often they confront trauma material.
+Emotion Regulation of Overwhelming Feelings
+Although the therapeutic relationship is the primary vehicle for emotion reg-
+ulation in EFTT, therapy can also use well-recognized emotion regulation and 
+distress tolerance strategies, such as physical grounding, distraction, or gentle 
+self-talk (e.g., Linehan, 2015; Najavits, 2002), as well as mindfulness-based 
+practices (Kabat-Zinn, 1990). These skills are typically integrated through 
+experiential "hot" learning in the context of aroused feelings in the moment-
+by-moment process of the session, as opposed to "cool" learning in an instruc-
+tional or tutorial context (Greenberg & Paivio, 1997). Whether by way of the 
+relationship or emotion regulation skills, or both, the goal is to help the client 
+manage distress and gradually approach the feared experience (e.g., the ther-
+apist might say, "It's okay. Breathe. That's good. Can you tell me what's so diffi-
+cult?"). During this process, the therapist functions as a secure attachment 
+188 
+Emotion-Focused Therapy for Complex Trauma
+figure, like a soothing parent with a frightened child or serving a similar role 
+as a supportive spouse in emotion-focused therapy for traumatized couples 
+(S. Johnson, 2002).
+Allowing and Owning Painful Experience
+The important aspect of allowing previously disavowed painful experience is 
+the experiential linking of information to the self-narrative. This is the first 
+step toward motivating new ways of being and new resources. For example, 
+Claire (presented in the preceding chapter), whose parents minimized sexual 
+abuse by her brother, eventually accessed intensely painful feelings during 
+the IC procedure ("I feel dirty!"), which quickly shifted to sadness at her loss 
+of innocence and self-respect. The therapist empathically responded to her 
+vulnerability and encouraged Claire to imagine herself in the empty chair and 
+express what she needed as a little girl. This compassion for herself and self-
+soothing quickly shifted to anger at her brother, both of which were new 
+adaptive experiences to help promote healing.
+Facing Adaptive Hopelessness
+Accepting irrevocable loss or damage and the futility of attempts to change 
+circumstances or others is essential to letting go of past traumas, healing, and 
+moving on. Clients need to face the fact that no matter how hard they try, they 
+cannot get back what was lost or get an abusive parent or spouse to change, 
+love them, apologize, acknowledge responsibility, or feel remorse. If one 
+gives up struggling against the irrevocable truth, stops "wishing it were not 
+true," and accepts realistic hopelessness or defeat, this will lead to giving up  
+un  attainable goals or unworkable strategies. This is the principle embodied in 
+the Alcoholics Anonymous Serenity Prayer and the Buddhist and mindfulness 
+principles of nonattachment. Peace and serenity can be attained by accepting 
+life on life's terms and focusing one's energy on working with what is. The goal 
+of EFTT interventions, therefore, is to increase client reflection on this (e.g., the 
+therapist might ask a client, "What's it like to know that you can push, push, 
+push and still not get what you want--desperately hoping that one day he will 
+see the truth?") and their acceptance of the reality of hopeless situations. 
+Acceptance, in this case, must be differentiated from depressive resignation. 
+We return to this topic in Chapter 11 in the context of sadness and grief.
+Symbolization
+Verbal symbolization reduces anxiety because it helps clients make sense of 
+traumatic experiences and gain a sense of control. The capacity to communi-
+cate deeply painful experiences to others also reduces the sense of isolation 
+characteristic of PTSD. The goal of intervention is to help clients articulate not 
+only specific feelings but also the meaning of the feelings and the internal 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 189
+processes that contribute to the experience. For example, the therapist might 
+ask, "What was so hurtful about that for you? I know in a general sense, but 
+it's important to say what exactly was so bad for you." This shift in focus from 
+the general case to that which is particular to the individual is the essence of 
+promoting experiencing.
+Promoting Agency
+The most common action tendency of fear and anxiety is to withdraw from 
+further engagement. Whether adaptive or maladaptive within a particular 
+circumstance, emotional and behavioral avoidance is not typically experi-
+enced as an act of personal agency. One client said candidly, "I feel like I've 
+been running away from this all my life." The experience of personal agency 
+can serve as an antidote to fear and anxiety, where instead of experiencing 
+themselves as reacting in fear, clients come to recognize themselves as active 
+participants in contributing to these experiences.
+Increasing clients' awareness of how they contribute to their own anxiety 
+is necessary for emotion regulation and permanent change. The goal is to 
+help them recognize that it is "I" who is thinking, feeling, needing, wanting, 
+or doing this. If clients experience themselves as generating their feelings, 
+they begin to see how they can change them. Process observations such as 
+"It's as if you have taken over where your parents left off" are in the interest 
+of promoting client awareness of personal agency (for better or for worse) 
+rather than blaming. Again, EFTT interventions promote the "hot" experien-
+tial awareness of agency as processes emerge in session. This is particularly 
+relevant in two-chair dialogues and is discussed further in a later section of 
+this chapter.
+INTERVENTIONS FOR MANAGING ANXIETY AND FEAR
+In the face of evoked trauma material, obvious in-session indicators of under-
+regulated fear and anxiety include panic, dissociation, catastrophic expecta-
+tions about current situations or internal experiences, or overgeneralized fear 
+in current situations. Management and emotion regulation are necessary to 
+promote exploration and understanding, which is the primary focus of EFTT. 
+An example is the client Monica who felt panicky remembering the events 
+following her mother's suicide. In her life, she was unable to attend funerals 
+because of crippling anxiety and dreaded the anniversaries of her mother's 
+death. Client responses such as these are addressed through reexperiencing 
+and repeated imaginal exposure, sometimes in the context of the IC proce-
+dure or in conjunction with two-chair enactments (described later). When 
+necessary, EFTT also uses standard skills training interventions to manage fear 
+and anxiety and achieve appropriate distance from potentially overwhelming 
+emotions (e.g., Linehan, 2015). These include grounding strategies to help 
+190 
+Emotion-Focused Therapy for Complex Trauma
+clients focus on the present reality of their body (e.g., bum on the chair, feet 
+on the floor), regulated belly breathing, muscle relaxation, or distraction to 
+help them focus on details of the external environment (e.g., the color of 
+people's clothes when walking down the street) rather than on thoughts that 
+escalate anxiety.
+To address dissociation, intervention additionally involves processing the 
+experience and providing education about the function of dissociation. The 
+longer term goal is to strengthen the self so that the client can handle a feared 
+experience (e.g., the therapist might say, "We want you to no longer feel like 
+that defenseless little girl, so you don't have to disappear or go away like 
+that"), which also involves developing more adaptive emotion regulation 
+strategies. This is followed by gradual engagement with threatening material. 
+Therapists should not persist with the IC of the perpetrator if, in fact, the per-
+petrator was the stimulus for dissociation. For example, one client psycholog-
+ically escaped during sexual molestation by imagining herself as a "little angel" 
+far removed from the experience. In our view, she would be unable to let this 
+dissociative part of herself go until she felt strong enough to face those feel-
+ings and memories. Successful interventions involved brief confrontations of 
+the perpetrator during IC and accessing and validating her disgust and anger 
+toward him in efforts to strengthen the self. The intervention also included 
+two-chair dialogues between the terrified (and disgusted) little girl and the 
+little angel parts of herself. These strategies finally ended with an imaginary 
+dialogue in which the client thanked the little angel for having protected her 
+all these years and then said goodbye to her, releasing her from that outmoded 
+way of coping.
+The processes of reducing avoidance and accessing self-soothing in EFTT 
+are intimately connected. If we are to ask clients to allow their most fright-
+ening and painful experiences, we must ensure they have the capacity to 
+comfort themselves. This capacity frequently was not developed in insecure 
+attachment relationships. Self-soothing skills, therefore, are taught, shaped, 
+and encouraged in EFTT. It can be particularly helpful to ask clients to imagine 
+what they needed as children when they were afraid or how they would 
+comfort their child or a friend and then apply this to themselves as adults  
+(i.e., the frightened child within). Interventions to promote self-soothing are 
+presented in the following chapter on shame.
+As with all processes, effective intervention to reduce client avoidance of 
+internal experience involves an accurate process diagnosis. The following 
+section specifies the types of experiential avoidance typically observed in EFTT 
+and corresponding intervention strategies.
+Different Types of Avoidance
+We define 
+experiential avoidance
+ broadly as any internal process (distinct from 
+maladaptive behavior such as substance use) that interferes with clients' 
+capacity to access and express the full range of emotion, particularly adaptive 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 191
+emotion. In general, we distinguish between unconscious and conscious pro-
+cesses. Unconscious avoidance processes are observed in some types of low-
+level experiencing, described in Chapter 5. These difficulties accessing internal 
+experience are attributable to skills deficits or learned maladaptive strategies 
+for coping with distress. The difficulties developed through insecure attach-
+ment, which did not provide children with the freedom to attend to and 
+explore their own internal experience. In abusive and neglectful environ-
+ments, children learn to be externally focused and hypervigilant for signs of 
+danger, or they learn that their feelings and perceptions are ignored, not 
+valued, or overtly punished. This externally oriented processing style is evi-
+dent in clients' narrative quality. As described in the preceding chapter on 
+memory work, their storytelling may be externally focused and devoid of 
+emotion (empty story), overly rational and intellectual, or vague and over-
+general or incoherent. The client might also have a limited emotion reper-
+toire, evident in secondary or defensive emotions that preclude exploring 
+more primary experience--for example, chronic anger covering fear or sad-
+ness. These clients typically require deliberate emotion coaching in the form 
+of psychoeducation, direction, and guidance, as described in Chapter 5 in the 
+section on deepening low-level experiencing, before they can begin to approach 
+and allow emotional experience. This process requires patience and persistence 
+over several sessions to gradually deepen experiencing.
+Secondary Emotions Covering Adaptive Emotions
+One form of avoidance consists of a simple sequence in which a primary emo-
+tion is quickly followed by another emotion that functions to regulate, dis-
+tance, or protect the individual from the initial experience. In psychodynamic 
+terms, these are considered defensive emotions. This process can be either 
+conscious and deliberate or unconscious, and the client is unaware of the 
+underlying emotion. In these cases, where one emotion is dominant, clients 
+usually have a limited emotional repertoire. Markers of secondary defensive 
+emotions are evident when the client repeatedly expresses, for example, hurt, 
+sadness, or fear concerning maltreatment but seems to have no access to 
+anger. Alternatively, the client has been deeply hurt but only expresses anger. 
+There may be brief and subtle verbal or nonverbal indicators of the under-
+lying emotion, but this quickly disappears. More complex sequences include 
+the client experiencing primary shame, then expressing secondary anger at 
+being humiliated, followed by feeling guilty or anxious about their anger. All 
+these sequences that involve secondary emotion are typically also mired in 
+global distress because secondary emotion usually also lacks the same depth 
+of specificity of meaning that one finds in primary emotion.
+At markers of secondary emotion covering more primary emotion, the 
+therapist can invite clients to examine what they are feeling (e.g., "Something 
+about her rejection made you feel angry?"). This can open an opportunity to 
+help the client access primary experience--in this case, hurt. Frequently, 
+192 
+Emotion-Focused Therapy for Complex Trauma
+however, intervention also requires the therapist to make explicit process 
+observations and discussions with clients about how a specific experience 
+seems to dominate their repertoire and possibly serves some protective (i.e., 
+defensive) function. This can be accompanied by providing psychoeducation 
+about normal emotional processes--distinguishing between adaptive and mal-
+adaptive emotion, for example--and collaborating on the goal of expanding  
+clients' emotion repertoire.
+For example, a client had a history of anger control problems, and anger 
+dominated his emotional experience. During one session, he expressed anger 
+at his wife for using his abuse as a child against him in arguments. Helpful 
+interventions validated his anger at betrayal and directed his attention to 
+more vulnerable experience (the therapist said, "I hear how angry you are. 
+And at the same time, it must be so hurtful to have her take your trust and 
+use it against you like that"). He then was able to acknowledge that he felt 
+like his wife probably did not love him. This opened the door to exploring 
+how his anger had pushed others away and deprived him of the connection 
+and love he wanted. The therapist used empathic responses to evoke and sup-
+port his sadness, loneliness, and longing for connection and love (e.g., "So, 
+under all that anger is a sad and lonely man, hungry for love and yet pushing 
+others away for fear of being hurt"). Over the course of several sessions, the 
+client was able to acknowledge his more vulnerable experience and receive 
+comfort and support from the therapist. Interventions also validated his need to 
+protect himself and addressed how he could feel safe while expressing vulnera-
+bility outside of the session.
+Conscious and Deliberate Suppression
+Conscious suppression of emotion is readily observed in therapy sessions as 
+clients approach painful or threatening feelings and deliberately pull back. 
+Markers include explicit statements (e.g., "I don't want to cry"), nonverbal 
+self-interruption of emerging experience (e.g., tears well up, and the client 
+deliberately suppresses them), or minimization of pain or harm (e.g., "It 
+could be worse," "My parents tried their best"). From a narrative perspective, 
+this type of client storytelling involves "competing plotlines" (Angus et al., 2019; 
+Paivio & Angus, 2017), indicating an internal conflict between maladaptive 
+suppression and adaptive, although painful, emotional experience. The 
+overall task, described in the following section, is to help clients allow emo-
+tional pain.
+HELPING CLIENTS ALLOW PRIMARY EMOTIONAL EXPERIENCE
+When painful but adaptive emotion is consciously suppressed or overcontrolled, 
+the change process involves helping clients allow this avoided material to access 
+its adaptive information.
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 193
+Addressing Difficulties With Allowing Painful Emotion
+The pain of rejection or loss can feel like it will destroy oneself and thus may 
+be avoided as a deliberate self-protective strategy. Approaching painful emo-
+tion requires gradually overcoming the fear of falling apart or being destroyed 
+by it, followed by a conscious decision to allow and engage it. Activating the 
+pain-producing emotion structure through gradual engagement (exposure) 
+modifies a client's belief that they cannot handle the pain, which is then followed 
+by meaning reconstruction.
+The process of allowing emotional pain in emotion-focused therapy has been 
+studied using analyses of videotaped therapy sessions and clients' descriptions of 
+their experience of allowing previously avoided painful material (Bolger, 1999; 
+Greenberg & Bolger, 2001). Convergence of these findings resulted in the 
+four-phase process outlined next. It should be clear that this is a metatask that, 
+like EFTT itself, may unfold over many sessions and may incorporate and be 
+embedded in other interventions and tasks.
+Approaching
+In the first phase, previously avoided experience is approached and discussed. 
+For example, after several sessions, a client, "John," was encouraged to describe 
+in detail the events surrounding the drug overdose and death of his mother 
+(see the preceding chapter on memory work)--coming home from school 
+and seeing the ambulance and police around his house. Interventions that 
+facilitated the client approaching such painful material included highlighting 
+his strengths, resources, and resilience throughout the therapy process and 
+using emotion regulation strategies. Therapists, above all, need to communi-
+cate compassion for their client's pain and validate how hard it is to approach 
+these feelings (e.g., "It's terrible for a child to feel so alone and afraid. I know 
+it must be so hard to feel that again"). Therapists must also communicate the 
+importance of owning these experiences as part of the self and provide support 
+(e.g., "It's okay, John, let it come. This is so important").
+Allowing
+In the second phase, while reliving a traumatic experience, clients see and 
+accept themselves as having been damaged by the trauma. This can be a 
+threatening experience at first, as clients begin to appreciate the weight of 
+their emotional pain. John saw himself as a defenseless little boy ripped away 
+from his beloved mother when he was placed in an orphanage after her 
+death. This step in the process involves a conscious decision on the part of a 
+client to fully allow the pain of the experience, despite their fear. In this 
+phase, one of the goals is to help clients tolerate the complex set of feelings 
+and realizations that emerge in the process. For John, facing the pain of his 
+mother's death and the subsequent brutality and betrayal he experienced in 
+the orphanage also involved facing his rage and the hopelessness and despair 
+of knowing that he had never received the love and nurturing he needed. He 
+also needed to face and accept his history of coping through substance abuse 
+194 
+Emotion-Focused Therapy for Complex Trauma
+and the wasted years and loss of opportunity and forgive himself. Gradually 
+and with time, therapists' provision of comfort and empathic affirmation are 
+internalized by the client. These internal resources, in turn, help establish 
+stability in the face of what was previously overwhelming and provide access 
+to a more self-affirming stance.
+Exploring
+In the third phase, questions and doubts about the newly acknowledged view 
+of self open the door to self-exploration. This requires helping clients stay 
+with feelings of being shattered, fully acknowledge the harm done to them, 
+identify the cause of damage and the person(s) responsible, and allow the full 
+expression of feelings of anger and sadness about traumatic events. This can 
+be a time to introduce or reintroduce IC or evocative exploration (EE).
+The IC with another client, "Martha," began with expressions of anger 
+toward her husband, who had abandoned her and her four children 30 years 
+earlier ("I hate you. How could anyone be so heartless?"). This activated a 
+shift into deep sobbing and fully experiencing the pain of her sadness and loss 
+for the first time. The therapist's soothing responses (e.g., "So many tears. Let 
+it come") helped Martha sink into her vulnerability and weep for her suf-
+fering. This process also accessed questions about herself that later could be 
+explored:
+CLIENT:
+How could I have put up with his crap for so long?!? Was I so 
+desperate?
+THERAPIST:
+So, you were willing to accept anything he threw your way, 
+desperate for . . .?
+CLIENT:
+His love, I guess. But he never loved me--was always putting 
+me down or going off by himself. I just didn't want to see it.
+THERAPIST:
+Didn't want to face the truth; it was too . . .?
+CLIENT:
+Devastating. I didn't think I could survive, literally. I felt like I 
+might not survive.
+THERAPIST:
+Like your very life depended on him.
+This exploration led to a shift in Martha's view of herself from a vulnerable 
+and victimized young mother to a mature woman who had survived and 
+raised her four children on her own.
+Integrating
+In the fourth and last phase of this process, the painful experience is accepted 
+and integrated into the sense of self. Clients have a clearer view of themselves 
+and how these experiences functioned in their lives. They can clearly express 
+feelings associated with damaging people and events and possibly take responsi-
+bility for contributing to their own pain (e.g., "My anger has pushed others 
+away"). Therapist responses that support this new sense of self (e.g., "It's like 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 195
+your entire life has been defined by that moment--abandoned, terrified, and 
+alone") facilitate an increased sense of personal agency and control rather 
+than victimization. Fully allowing experience also mobilizes the associated 
+needs that challenge maladaptive beliefs associated with the painful state. 
+Knowing one's wants and needs empowers the individual to assert bound-
+aries or seek out support, either internally, in the form of compassion and 
+self-soothing, or interpersonally, from the therapist or others. According to 
+Bolger (1999), this is the process of recognizing "covers" or the maladaptive 
+ways one has hereto avoided pain (e.g., through substance abuse, excessive 
+work, control of others). Therapy can involve a separate process of helping 
+clients gradually make different life choices to address this.
+Case Example: Reducing the Self-interruption of Emotion
+The client Angela (Paivio, 2013), who was exposed to extreme family violence 
+in childhood, initially struggled between a desire to express her feelings--to be 
+free and authentic--and be overcontrolled. The intervention aimed at helping 
+her integrate her authentic emotional experience by allowing pain and accessing 
+self-soothing resources. In the following excerpt, the therapist affirmed her vul-
+nerability in approaching painful memories of herself as a child and validated 
+the client's struggle to suppress her feelings. At the same time, the therapist 
+provided encouragement and support to help Angela relinquish overcontrol, 
+as well as evocative empathy and process directives to activate her painful 
+feelings related to unmet childhood needs.
+THERAPIST:
+Is there a specific memory or event you would like to focus on?
+CLIENT:
+When I picture myself, it's like just a little girl in a dungeon.
+THERAPIST:
+In a dungeon--that's a very sad image.
+CLIENT:
+[
+wipes tear, shrugs shoulders
+] There's worse. [
+minimization
+]
+THERAPIST:
+Yes, there's worse, but it's not a way you want your little girl to 
+be raised, in a dungeon. [
+The client nods her head in agreement
+.] 
+Can you speak from what it was like for you?
+Here, Angela was obviously trying to suppress her tears. The therapist val-
+idated her struggle but focused on bypassing suppression and accessing the 
+healthy side of self. She helped the client express her sadness by specifying all 
+the things she missed out on as a child and empathically responding to those 
+losses.
+THERAPIST:
+I know it's hard--you're trying to hold back--but if you can 
+try and get in touch with that little girl, Angela, in a dungeon. 
+What is she feeling? Lonely?
+CLIENT:
+Helpless--you said it before.
+THERAPIST:
+Helpless, yes, totally helpless--just shut out and helpless and 
+alone.
+196 
+Emotion-Focused Therapy for Complex Trauma
+CLIENT:
+[
+suppressing tears
+] I'm sorry; I don't like to cry.
+THERAPIST:
+I know you don't want to cry, but . . . just a lot of tears for that 
+little girl; she missed out on a lot. [
+The client silently weeps.
+] 
+What did you miss the most, do you think?
+CLIENT:
+[
+wiping tears
+] I think those happy childhood memories--you 
+know--that people talk about.
+THERAPIST:
+Yes, children should be happy, carefree, and have all kinds of 
+happy memories. You got cheated.
+CLIENT:
+My mom and dad, they tried [
+minimization
+].
+THERAPIST:
+They tried, and your strength is in understanding where they 
+are coming from. But it doesn't change the pain that you went 
+through. It's important.
+CLIENT:
+Yes. [
+wiping eyes with a tissue
+]
+THERAPIST:
+You missed out on some precious things.
+Once Angela had allowed the pain of her childhood memories, even momen-
+tarily, she also accessed healthy anger and held her father responsible. The 
+therapist's empathic responses supported and encouraged this new assertive 
+expression. In later sessions, Angela was encouraged to engage IC or EE with 
+her imagined father to integrate this new perspective further.
+General Model of Resolving Intrapersonal Conflict
+Self-interruption is one type of intrapersonal or "self-self" conflict, along with 
+catastrophic expectations, generating anxiety, which is discussed later. (Self- 
+criticism generating guilt or shame is discussed in the following chapter). 
+When emotions are interrupted by client beliefs or injunctions against feelings 
+(e.g., "Anger is a sin," "Crying is feeling sorry for oneself") and catastrophic 
+expectations about emotional experience and expression (e.g., "If I start 
+crying, I will never stop"; "If I get in touch with my anger, I will go crazy or 
+hurt someone"; "If I get in touch with my anger, I will look like my father"), 
+the first step is to provide accurate information about adaptive emotional 
+experience, the negative consequences of suppression, and the process of 
+recovery. Once clients are on board with the value of the task, the next step 
+is to explore and understand the self-interruptive process. Importantly, the 
+self-interruptive process needs to be explored in depth only if the emotional 
+block seems impassable. The general rule of thumb is to bypass working with 
+self-interruption and avoidance if it is possible to do so. If the client can be 
+encouraged to express primary emotion with the support of validation and 
+empathy alone (as was the case with the client Angela, described earlier), the 
+intervention will not be needed.
+The overarching goal is to help the client accept the suppressed emotion, 
+experience it in awareness, and express it. Subgoals are to (a) increase client 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 197
+awareness of how they interrupt their experience or contribute to their fear and 
+anxiety (the thoughts and feelings involved), (b) increase client awareness of 
+the negative experiential consequences of self-interruption, and (c) motivate a 
+desire to allow the interrupted experience. Again, understanding how one's 
+thoughts and feelings contribute to one's experience strengthens the self 
+because it increases agency and control. Although the techniques differ, cog-
+nitive behavior therapy approaches, which many readers will be familiar 
+with, also help clients understand the connection between their maladaptive 
+beliefs and, for example, depression or anxiety. If clients do not understand 
+the connection, they cannot change.
+The following general model presents the process of resolving the intra-
+psychic conflict between a dominant, maladaptive part of self (suppressing, 
+catastrophizing, criticizing) and the subdominant part of self that feels the 
+effect of these maladaptive processes (squashed, afraid, guilty, or shamed). 
+The traditional gestalt (Perls et  al., 1951) conceptualization of the conflict 
+between the "top dog" (the dominant maladaptive part of self) and the 
+"underdog" (the weaker experiencing part that has "no voice") is a simplified 
+but useful framework for understanding this intervention process. For our 
+purposes here, we focus on the conflict between feelings that push for expres-
+sion and the part of the self that squashes that experience. The therapist's job 
+here is to support the underdog, the healthy part of the self that is chronically 
+squashed, and help that part have a voice.
+Chair work for intrapersonal conflict has been studied and refined to specify 
+several distinct steps. Moreover, separate tasks have been formally created for 
+resolving self-criticism, self-interruption, and anxiety (e.g., Elliott & Shahar, 
+2019; Watson & Greenberg, 2017; Watson et al., 2019). We present here a 
+general model (see Figure 8.1) that focuses on commonalities among these 
+different tasks viewed as internal obstacles and, therefore, substeps in the 
+larger task of resolving complex trauma. Many clients find it easier to engage 
+in two-chair dialogues between parts of the self than to imaginarily confront 
+perpetrators in the IC procedure. However, even when clients are unable to 
+engage in two-chair work (e.g., because of performance anxiety), the general 
+model can act as a guide to the intervention process, just as the model of res-
+olution described in Chapter 6 guides the less stressful EE intervention.
+Figure 8.1 presents client processes and interactions between the dominant 
+(top of Figure 8.1) and experiencing parts of self (bottom of Figure 8.1). The 
+following sections describe therapist operations to promote those processes. 
+The focus is on working with self-interruption, which is typically also accom-
+panied by anxiety-producing messages (i.e., it is not safe to feel). As in IC, 
+two-chair interventions involve a reiterative rather than linear process. A case 
+example illustrating this process model follows.
+Collaborate on and Structure the Task
+Following a marker of intrapsychic conflict, the initial step involves identi-
+fying and separating the two sides of the self and establishing contact between 
+them. In the case of the marker for self-interruption, the therapist observes 
+198 
+Emotion-Focused Therapy for Complex Trauma
+PHASE 2
+MARKER
+* 
+Self-criticism
+* 
+Catastrophizing
+* 
+Interruption of
+   feeling
+PHASE 1
+SPECIFY
+negative
+message
+(content and
+quality) 
+INTENSIFY OR
+EXAGGERATE
+negative message
+VALUES AND
+STANDARDS
+SOFTENING
+* 
+Understanding
+* 
+Self-compassion
+* 
+Openness to
+   compromise
+EMOTIONAL
+REACTION
+* 
+Ashamed
+* 
+Afraid
+* 
+Constricted
+PAIN OR
+DISCOMFORT 
+of shame, fear,
+constriction
+HEALTHY
+PROTEST
+NEEDS
+* 
+Support
+* 
+Confidence
+* 
+Free expression
+NEGOTIATE 
+relationship with self
+INTEGRATE
+new sense of self
+FIGURE 8.1.
+ Model of Resolving Intrapersonal Conflict in Phase 2 of Emotion-Focused Therapy for Trauma
+Note.
+ Adapted from 
+Facilitating Emotional Change: The Moment-by-Moment Process
+ (p. 193), by L. S. Greenberg, L. N. Rice, and R. K. Elliott, 1993, Guilford Press. 
+Copyright 1993 by Guilford Press. Adapted with permission.
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 199
+some emerging experience and the client pulling back (e.g., "You got in touch 
+with some anger there, but something happens--somehow it's hard to stay 
+with it") and further observes that this process has occurred repeatedly in 
+therapy (i.e., is not easily bypassed). The client recognizes this pattern, and they 
+agree to engage in the two-chair procedure to understand better and eventually 
+change the maladaptive pattern.
+Structuring the procedure resembles structuring the IC procedure, described 
+in Chapter 6, except the client is enacting an internal dialogue between two 
+parts of the self. We have found it most helpful for clients to sit in their usual 
+chair when they are speaking from the healthy part of self that is being inter-
+rupted or suppressed. This helps them identify with that part of self throughout 
+therapy. They will sit in the opposite chair when speaking from the dominant 
+maladaptive suppressing part of the self.
+Articulate the Negative Message
+It is most naturalistic and effective to begin the dialogue with the client taking 
+the role of the dominant part of the self (top of Figure 8.1). As in the early 
+stage of IC, when the purpose of imagining the negative other is to evoke a 
+response in the self, the purpose at this stage is to evoke a reaction in the part 
+of self that is being suppressed, the healthy experiencing self. Again, analo-
+gous to IC, when psychological contact between the self and imagined other is 
+critical to the success of the intervention, contact between the two sides of self is 
+critical to the success of two-chair enactments. This promotes clients' experien-
+tial awareness of agency and the role they play in the self-interruptive process. 
+Once the client enacts their interruptive (and anxiety-producing) process, 
+they are directed to switch chairs and attend to their internal experience in 
+response to being shut down and threatened (bottom of Figure 8.1).
+Specify and Differentiate the Negative Message
+During the next step, therapists ask clients to elaborate and express their posi-
+tion (top of Figure 8.1) to the suppressed and/or frightened experiencing part 
+of the self (e.g., "Don't say anything because you will look weak," "Don't say 
+anything because you will be taken advantage of"). This is the specific content 
+of the dominant negative message. Clients should also be encouraged to pay 
+attention to their vocal quality, the implied warning, or domination. This 
+increases client awareness of the specific imagined dangers--in this case, of 
+speaking up (bottom of Figure 8.1) and the negative impact this has on self.
+Intensify the Negative Message
+Once the specific negative message is identified, intensification interventions 
+(top of Figure 8.1) by the therapist and evocative empathy can be used to exag-
+gerate this message (e.g., "Never, under any circumstances, show your feelings; 
+keep them tightly bottled up inside"). Clients could be encouraged to attend 
+to bodily experience and affect directed toward the experiencing self (gestures 
+of warning, demanding, pressuring) or enact how they stop themselves from 
+200 
+Emotion-Focused Therapy for Complex Trauma
+feeling and expressing "their truth" (e.g., "It is almost like you literally stop 
+yourself from speaking, isn't it? Can you try doing that on purpose--see how 
+it works? What is it like if you put your hand over your own mouth as you 
+try to speak?"). Such enactments are sometimes contrived, but they bring to 
+awareness the agency a client has in actively holding themselves back. They 
+also are intended to evoke a response in the experiencing self (bottom of 
+Figure 8.1).
+The therapist then asks the client to switch to the experiencing chair (bottom 
+of Figure 8.1), directs their attention to the negative impact and discomfort of 
+the self-interruptive message, and communicates this to the dominant other 
+(e.g., "Stay with that, tell this other part of yourself how it feels when he 
+shuts you down. Tell him about the effect this has on you"). In one creative 
+example using enactment and embodied experience, a client said she "pushed 
+her feelings to the side." The therapist encouraged her to enact pushing her 
+feelings (in a backpack) further and further to the side until she was eventually 
+crouching under a table. This elicited client discomfort and an expressed desire 
+to get out--the next step in the resolution process.
+Such enactments are expressions of tacit and implicit processes of how 
+people may be constricting or prohibiting their feelings. Making that process 
+palpable and deliberate is a key aspect of bringing the unhealthy process into 
+awareness. Notice that cognitive approaches focus on catastrophic expecta-
+tions, which has some affinity here, but the process of self-interruption and 
+inhibition typically involves a process that is deeper than the words or beliefs. 
+There is frequently also a preverbal and body-based component to staving off 
+one's feelings.
+Elicit Healthy Protest and Needs
+Increased experiential awareness of the negative impact and discomfort of 
+squashing or scaring the self (e.g., tension, difficulty breathing, collapse into 
+powerlessness) elicits mixed feelings in a client. While part of the experience 
+is painful and aversive, it typically also elicits a healthy defensive protest 
+(bottom of Figure 8.1). The therapist's task at this point in the task is to iden-
+tify and promote these latter reactions to mobilize healthy strivings for self- 
+expression, which challenge maladaptive self-interruption This process resembles 
+cognitive interventions intended to increase awareness of irrational beliefs 
+about the dangerousness of internal experience. However, rather than 
+emerging from a top-down rational or logical process (as in a cognitive 
+approach), the challenges in EFTT are generated bottom up, emerging from 
+the client experiencing the impact of squashing oneself in the session. Further, 
+while a cognitive approach typically looks for "evidence against" to clarify the 
+"rational truth" for clients, an emotion-focused approach emphasizes the 
+aversive affective reaction to being squashed, an entirely different way of 
+mobilizing assertion.
+The client is encouraged to present the perspective of the experiencing self: 
+"Make her see how important it is to express yourself" (bottom of Figure 8.1). 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 201
+The therapist supports the client's emerging felt need and encourages them to 
+express feelings and associated needs to other parts of the self.
+Access Values and Standards
+The client then switches chairs and responds to expressed needs from the 
+dominant part of the self (top of Figure 8.1). This step is critical because it 
+involves identifying and articulating the core concerns that have motivated 
+self-interruption. This part of the self may express fear of change or annihila-
+tion, and negative messages shift to represent healthy values and standards--
+for example, efforts to protect the self (e.g., "You need me; I am afraid if you 
+open up, you won't be able to handle it," or "I am afraid if you open up, you 
+will get hurt"). This interaction between the two parts of the self is repeated 
+until both parts understand the perspective of the other.
+Promote Self-Understanding and Negotiate a New Interaction
+In hearing and appreciating the perspective and needs of the experiencing self, 
+the dominant negative part of the self presents their perspective from a softer, 
+more vulnerable stance (top of Figure 8.1). The experiencing self, in turn, begins 
+to appreciate the core concerns that drive the other part of the self (bottom of 
+Figure  8.1), and they negotiate a new interaction--ways to honor adaptive 
+needs for expression, as well as values and standards (e.g., "I know you are 
+trying to protect me, but it's not working anymore. It would be better if you let 
+me . . . at least try"). The other side of the self agrees to offer new positive 
+messages and support the client in their desire for more adaptive behavior.
+In working with clients experiencing complex trauma, however, this is when 
+it frequently becomes clear that the client does not know how to be supportive 
+toward themself and requires instruction. The therapist works with the client to 
+help identify exactly what encouraging and supportive messages would be 
+more helpful coming from the dominant part of the self (e.g., "You will be okay; 
+I think you are strong enough to handle this, or you can ask someone for help"). 
+This involves experiencing the impact of different potential supportive messages 
+to see which one feels best for the individual client. The dominant part of the self 
+agrees to try this new supportive behavior in the future.
+Reintroduce IC or EE
+Because interrupted feelings in EFTT frequently concern perpetrators of 
+harm, in this final step, it might be a good time to reintroduce the IC proce-
+dure (or EE alternative) and help the client express previously inhibited feel-
+ings to this imagined other (or to the therapist, in the case of EE). Once the 
+client can fully express and explore the meaning of these feelings, the task 
+shifts, and the client moves on to resolving issues with perpetrators. This is 
+carried forward in the third phase of EFTT.
+Case Example of Self-Interruption in the Context of IC
+An example of working with self-interruptive processes occurred with the 
+client, Lynne, who had difficulty confronting her emotionally abusive mother 
+202 
+Emotion-Focused Therapy for Complex Trauma
+in IC (Paivio, 2016). She disclosed anger at her mother's abuse, but immedi-
+ately on introduction, the IC evoked fear and difficulties continuing. This 
+illustrates the power of the IC to activate the core trauma-related emotion 
+scheme. The therapist validated her fear and provided the process observation 
+that "Mother has power to shut you down, even though she is not here." She 
+then briefly explored Lynne's fear and provided encouragement and support 
+to push through the block.
+THERAPIST:
+What holds you back?
+CLIENT:
+I don't know. It's just intimidating to say out loud because it 
+makes it more real.
+THERAPIST:
+Ah, yes, saying it out loud makes it more real. But your expe-
+riences ARE real. What you have to say is powerful, important.
+CLIENT:
+Yes [
+laughs shyly
+].
+THERAPIST:
+I will be here to help; there are no rules. Are you willing to try?
+These responses helped Lynne access anger at her mother's abuse, but again, 
+she quickly shut down, interrupting her experience: "I draw a blank, feel like 
+I am pushing it away." This indicated that self-interruption could not easily be 
+bypassed and was a marker for intervention to explore and reduce the self- 
+interruptive process.
+The therapist identified the struggle between parts of the self (marker)-- 
+"Yes, so many deep feelings, but part of you is pushing it away"--and switched 
+to a two-chair dialogue to explore the conflict and help her allow healthy anger 
+and sadness. The following excerpt illustrates the therapist's process direc-
+tives to access the negative messages of the dominant part of the self and 
+evocative empathy to exaggerate the negative message and potentially evoke 
+an adaptive reaction.
+THERAPIST:
+What do you say to this part of you that feels? How do you push 
+it away?
+CLIENT:
+Don't go there . . . pretend it didn't happen.
+THERAPIST:
+Pretend, be a phony [
+exaggerate, intensify
+]. Why tell her why she 
+should not go there?
+CLIENT:
+It's scary.
+THERAPIST:
+Scary. Tell her the bad things that will happen if she expresses 
+her feelings [
+elicits specificity
+].
+CLIENT:
+You will feel weak . . . it scares me that she will know what I 
+am saying here.
+THERAPIST:
+So, do not speak your truth.
+CLIENT:
+It's too hard; easier to pretend.
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 203
+The following excerpt again illustrates an intervention to intensify the nega-
+tive messages to evoke a reaction, alternative adaptive feelings and needs in the 
+experiencing self, then helping the client express this new experience and per-
+spective to the interrupting part of the self.
+THERAPIST:
+You don't want to feel vulnerable. So, don't let it out. Never 
+open up about your feelings [
+exaggerate, intensify
+].
+CLIENT:
+It sounds awful!
+THERAPIST:
+So, the other part of you says it sounds awful. Switch chairs. 
+Tell her what's awful about never speaking your truth.
+CLIENT:
+It doesn't make sense to not talk about it, bottling it up.
+THERAPIST:
+Maybe tell her the benefits of talking about it [
+seeking specificity 
+about healthy protest
+].
+CLIENT:
+You will get it off your chest.
+THERAPIST:
+How does it feel to bottle up? [
+integrate embodied affect into healthy 
+protest
+]
+CLIENT:
+I don't like feeling all tense and bottled up. I want to get it off 
+my chest.
+THERAPIST:
+How would that feel to get it off your chest?
+CLIENT:
+I would feel lighter.
+THERAPIST:
+Lighter. Can you feel that now? [
+hand on chest; enhancing emo-
+tional awareness
+]
+CLIENT:
+[
+brief silence, attending inward
+] Yes, it's a relief. [
+tears in eyes
+]
+THERAPIST:
+So, it touches you; better to express. Are you okay to go back 
+to your mother?
+The emergence of a desire for authentic expression is a marker for switching 
+back to IC with the mother and encouraging the expression of previously 
+interrupted anger. When Lynne again shuts down and admits she "went 
+numb, zoned out," the therapist encouraged her to recall a specific event with 
+her mother--an autobiographical memory--to deepen her emotional engage-
+ment. Lynne recalled an incident in which the mother cruelly insulted and 
+degraded her younger sister, called her fat, and insisted she eat out of the  
+dog bowl.
+THERAPIST:
+So insulting!
+CLIENT:
+It is!
+THERAPIST:
+Tell Mom how you feel remembering that incident.
+CLIENT:
+You have no right to talk to her that way . . .
+204 
+Emotion-Focused Therapy for Complex Trauma
+THERAPIST:
+So damaging.
+CLIENT:
+Yes, it's so damaging . . . you should want the best for your  
+kids . . . plain and simple, you are a bully.
+The therapist supported her increased assertiveness and promoted an increased 
+sense of entitlement to unmet needs.
+In processing the therapy experience at the end of the session, the therapist 
+asked how Lynne wanted to go forward: "What if she bullies you again?" 
+Lynne acknowledged she had a lot more to say and did not want to keep living 
+in the past; she wanted to be herself: "I won't let her bully me anymore." This 
+was the beginning of an increased ability to express authentic feelings and 
+needs to construct a stronger sense of self. With clients like Lynne, working 
+through self-interruptive processes and reengagement in IC can typically con-
+tinue over several sessions.
+Catastrophic Expectations About External Situations
+Self-interruption can involve implicit or explicit catastrophic expectations about 
+internal experience. These can be directly challenged by providing informa-
+tion about the nature of emotional experience and worked with in two-chair 
+dialogues. Experiences of trauma frequently result in unrealistic beliefs, not 
+only about internal experience but also about the dangers of situations and 
+consequent avoidance of these situations. In cases of complex PTSD, these 
+perceived dangers and beliefs are frequently interpersonal (e.g., "I will get 
+hurt," "I will be abandoned," "I will lose my sense of self"). The model of 
+resolving intrapersonal conflicts described earlier can also be applied to 
+reducing catastrophic expectations and anxiety about external situations 
+whereby therapists ask clients to specify and understand how they make 
+themselves afraid.
+For example, during Phase 2 of therapy with the client Martha, described 
+earlier, who had been abandoned by her husband, the focus shifted from her 
+past issues to the conflict between wanting companionship and the fear of 
+beginning another intimate relationship. From the dominant, fear-producing 
+part of herself, Martha was asked to specify anticipated dangers that prevented 
+her from entering a new relationship ("You will become too needy and 
+dependent, put up with anything, be devastated by another rejection"). This 
+process activated the core emotion structure in the experiencing part of the 
+self in the other chair--pain and devastation at abandonment and the belief 
+that her neediness caused her abandonment and pain. Therapist interven-
+tions validated her need to protect herself and, at the same time, highlighted 
+and exaggerated her anticipated dangers (e.g., "So you can't trust yourself--
+you will be so needy you will settle for anything; you will be blind to signs of 
+danger; you will be destroyed, so you better not get involved"). The therapist 
+then encouraged her to attend to her response to these internally generated 
+warnings. It is important to note that these therapist highlights and 
+Reducing Fear, Anxiety, and Avoidance of Internal Experience
+ 205
+exaggerations are not delivered as confrontations but rather as empathic reflec-
+tions of implicit meaning.
+As a result, this elicited sadness at the prospect of remaining alone for the 
+rest of her life made Martha more aware of a desire for companionship and 
+intimacy. Interventions supported the emergence of these healthy resources 
+("Say more about how important companionship is to you"), which, in turn, 
+accessed challenges to catastrophic expectations ("Why should I be a lonely 
+old woman? I am not the vulnerable young mother I used to be. I've learned 
+a lot in 30 years"). The therapist supported this self-affirming stance.
+Challenges can always emerge for the therapist when using the interven-
+tions for fear, anxiety, and avoidance, as described in this chapter (e.g., healthy 
+protest does not spontaneously emerge). These are similar challenges to those 
+that emerge when working with guilt, shame, and self-blame. We discuss dif-
+ficulties when working with fear and shame at the end of the next chapter.

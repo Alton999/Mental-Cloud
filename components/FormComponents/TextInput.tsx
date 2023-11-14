@@ -1,14 +1,13 @@
-import React from "react";
 import { TextInputProps } from "../../types";
 
 const TextInput = ({ handleChange, name }: TextInputProps) => {
 	return (
 		<textarea
 			name={name}
-			// type="text"
 			id={name}
-			className="text-black p-2 w-full text-sm "
+			className=" p-2 w-full bg-transparent border-2 border-sky-200 rounded-xl text-lg"
 			onChange={(e) => handleChange(e.target.value)}
+			rows={4}
 		/>
 	);
 };

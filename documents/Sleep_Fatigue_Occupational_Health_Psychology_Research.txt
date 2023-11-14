@@ -1,0 +1,665 @@
+12
+
+Sleep and Fatigue in 
+
+Occupational Health 
+
+Psychology Research
+Larissa K. Barber and Christopher J. Budnick
+Sleep is an important activity that affects how people function in their  
+day-to-day lives. Without good sleep, at work we can be emotionally reac-
+tive, unfocused, and unable to perform well (Banks & Dinges, 2007; Zohar 
+et al., 2005). For this reason, researchers have been building a case for why 
+companies should be interested in how employee sleep impacts job behaviors 
+due to fatigue (Barnes & Watson, 2019; Mullins et al., 2014). Sleep issues are 
+the most influential cause of work fatigue, especially 24 to 48 hours before 
+employee work shifts (Dawson & McCulloch, 2005; Techera et al., 2016). Poor 
+sleep is implicated in a diverse set of work problems, such as poorer work per-
+formance, unsafe work behaviors, lower work engagement, and more inten-
+tions to leave the organization (Henderson & Horan, 2021; Litwiller et al., 2017)
+In this chapter, we cover sleep and fatigue from an occupational health 
+psychology (OHP) perspective with an emphasis on psychological processes 
+among employees in field research (for reviews on physiological sleep pro-
+cesses, see Carskadon & Dement, 2005; Techera et al., 2016). We first provide 
+an overview of common applied assessments of work fatigue and sleep con-
+cepts in organizational research. We then examine organizational strategies 
+for addressing employee sleep and work fatigue issues, including organiza-
+tional risk factors detrimental to sleep managing work fatigue arising from 
+poor sleep during nonwork hours. We also discuss considerations for future 
+research in each area.
+UNDERSTANDING SLEEP AND WORK FATIGUE IN ORGANIZATIONAL 
+
+RESEARCH
+Applied research in organizations often emphasizes psychological processes 
+when studying work fatigue and sleep from an OHP perspective. This section 
+covers common conceptualizations and assessments of work fatigue and sleep, 
+as well as the link between them.
+Conceptualizing and Assessing Work Fatigue
+Work fatigue is important to organizations, as it is one of the top three drivers 
+of health care and productivity costs, right behind back/neck pain and depres-
+sion (Loeppke et al., 2007). Meta-analysis research also shows higher work 
+fatigue is associated with lower job performance in terms of in-role tasks, 
+helping others at work, and customer satisfaction (Taris, 2006). It is therefore 
+of no surprise that fatigue is a key concept in many occupational stress theo-
+ries linking work demands to performance and long-term well-being.
+The concept of work fatigue represents a low-energy state of exhaustion or 
+tiredness that reduces one's capacity to function well on the job (Frone & 
+Tidwell, 2015). As a psychophysiological state, it contains a mix of low phys-
+iological energy but also includes a lack of motivational effort (Meijman & 
+Mulder, 1998; Zijlstra et al., 2014). In other words, fatigue cannot be solely 
+understood as a lack of physical energy or ability to exert effort; it is essen-
+tially an emotionally driven psychological state that results in reduced moti-
+vation to allocate remaining energy to work goals and tasks (see Hockey, 
+2013). This framing is important for applied researchers in OHP because it is 
+often practically difficult to disentangle physiological ability for workers to 
+exert effort (i.e., what an employee can do) from motivational preferences to 
+conserve their energy (i.e., what an employee is willing to do) when observing 
+behavioral work outcomes associated with fatigue.
+Many researchers conceptualize work fatigue as a short-term stress response 
+(i.e., acute strain) arising from work demands, an expected part of the stress 
+process that rest and recovery can overcome. However, long-term or chronic 
+work fatigue that occurs with prolonged exposure to work demands without 
+sufficient recovery is often of concern for long-term employee health and 
+well-being (Meijman & Mulder, 1998; Van Dijk & Swaen, 2003). For example, 
+meta-analysis research shows that work fatigue is associated with more errors, 
+injuries, and physical illness (Techera et al., 2016). A longitudinal research review 
+suggests that work fatigue increases sickness absences over time (Sagherian  
+et al., 2019) and is central to many poor well-being outcomes associated with 
+stress, such as work burnout and depression (Van Dijk & Swaen, 2003).
+Work fatigue is assessed with self-report measures that range from general 
+experiences of fatigue adapted from state mood or affective well-being measures 
+(e.g., Michielsen et al., 2003; van Hooff et al., 2007) to multidimensional 
+approaches assessing typical fatigue experiences at the end of the workday (see 
+Table 12.1). For example, one measure distinguishes between acute and chronic 
+Sleep and Fatigue in Occupational Health Psychology Research 
+231
+fatigue (Windwood et al., 2005). Another multidimensional approach distin-
+guishes between physical, mental, and emotional aspects of extreme tiredness 
+and low functional capacity at the end of the workday (Frone & Tidwell, 2015). 
+Specifically, work fatigue can manifest as difficulties engaging in physical work 
+tasks, problems concentrating on mental tasks, and challenges with managing 
+emotions arising from interacting with others at work.
+Approaches to conceptualizing and measuring work fatigue often overlap 
+with other commonly studied strain concepts in occupational health research. 
+One similar concept is the work exhaustion or emotional exhaustion compo-
+nents of work burnout. Chronic fatigue or exhaustion is a critical component 
+of work burnout, with other work attitudes or beliefs such as low professional 
+efficacy and cynicism (Maslach et al., 1996) or disengagement (Demerouti 
+et al., 2003) included as a holistic assessment of the work burnout syndrome. 
+Yet other burnout measures focus only on general work exhaustion (e.g., 
+Kristensen et al., 2005) and multidimensional aspects of exhaustion (phys-
+ical, cognitive, and emotional; e.g., Shirom & Melamed, 2006) have stronger 
+similarities to work fatigue.
+Conceptualizing and Assessing Employee Sleep in Organizational 
+
+Research
+Sleep is a complex and dynamic process during which individuals display a 
+reversible state of disengagement from their surroundings (Carskadon & 
+Dement, 2005). Sleep seems critical for replenishing physiological and cogni-
+tive functions needed to regulate how we think, feel, and behave (Barnes, 
+TABLE 12.1.
+ Work Fatigue Measurement Examples in Occupational Health 
+Psychology
+General fatigue
+Multidimensional fatigue
+The Fatigue Assessment Scale
+(Michielsen et al., 2003)
+* Mentally, I feel exhausted.
+* I am bothered by fatigue.
+Three-dimensional work fatigue inventory
+(Frone & Tidwell, 2015)
+* Physical--I feel physically exhausted at the end of the 
+workday.
+* Mental--I feel mentally worn out at the end of the 
+workday.
+* Emotional--I want to emotionally shut down at the 
+end of the workday.
+Single-Item Fatigue Measure
+(Van Hooff et al., 2007)
+* How fatigued do you 
+currently feel?
+The occupational fatigue exhaustion/recovery scale
+(Winwood et al., 2005)
+* Chronic work fatigue--I often feel at the end of my 
+rope with work.
+* Acute work fatigue--I have plenty of reserve energy 
+when I need it.
+* Recovery between work periods--I don't get enough 
+time between work shifts to recover my energy fully.
+Note.
+ Examples are not intended to be comprehensive.
+232 
+Barber and Budnick
+2012; Gordon et al., 2017). Ultimately a physiological process, much basic 
+sleep research explores sleep "cycles." These include different sleep stages (e.g., 
+rapid eye movement) within nightly sleep experiences and aspects of the 
+daily sleep/wake cycle (circadian rhythms) that explain alertness variations 
+over a 24-hour period (Carskadon & Dement, 2005).
+Applied occupational health research, however, often focuses on three key 
+sleep proxies used to infer whether individuals experienced a productive or 
+replenishing sleep process (see Table 12.2). These include sleep duration 
+(sleep quantity), the number of disturbances during sleep (sleep quality), and 
+the desire to fall asleep (sleepiness). Popular self-report questionnaires that 
+include both sleep-quality (often one item) and sleep-quantity assessments 
+(one item and multi-item) are the Karolinska Sleep Diary and the Pittsburgh 
+Sleep Quality Index. Sleepiness can be measured with multiple items using 
+the Epworth Sleepiness Scale or one item using the Stanford Sleepiness Scale 
+(for a review of these and other measures, see Pilcher et al., 2012).
+For sleep quality and quantity during nonwork hours, wrist-worn actig-
+raphy devices that measure movements are used to assess sleep objectively 
+(Sadeh, 2011). Applied researchers have widely adopted actigraphy, as these 
+wearable devices can be implemented in field research (see Eatough et al., 
+2016) and appear to approximate sleep patterns well compared with the gold 
+standard of polysomnography assessment. Polysomnography requires a sleep 
+lab to assess multiple physiological sleep indicators such as electrical brain 
+wave activity, oxygen levels and breathing, blood pressure, and physical 
+movements (for an overview, see Van de Water et al., 2011). The Multiple 
+TABLE 12.2.
+ Sleep Measurement Examples in Occupational Health Psychology
+Sleep quantity
+Sleep quality
+Sleepiness
+Definition
+Amount of sleep
+Disturbances to sleep
+Desire to sleep
+Objective 
+assessment 
+example
+Actigraphy Data
+(Sadeh, 2011)
+Total sleep duration
+Actigraphy Data
+(Sadeh, 2011)
+Sleep efficiency (ratio 
+of time asleep 
+compared to time 
+in bed), number 
+and length of sleep 
+awakenings
+Multiple Sleep 
+Latency Test
+(Carskadon et al., 
+1986)
+Sleep laboratory 
+assessment using 
+polysomnography 
+that assesses time 
+to fall asleep
+Subjective 
+assessment 
+example
+Pittsburgh Sleep 
+Quality Index
+(Buysse et al., 1989)
+How many hours of 
+actual sleep do 
+you get at night?
+Karolinka Sleep Diary
+(Akerstedt et al., 1994)
+How well did you 
+sleep?
+Epworth Sleepiness 
+Scale
+(Johns, 1991)
+How likely are you to 
+nod off or fall 
+asleep in the 
+following situations, 
+in contrast to 
+feeling just tired?
+Note.
+ Examples are not intended to be comprehensive (for more information, see Pilcher et al., 2012).
+Sleep and Fatigue in Occupational Health Psychology Research 
+233
+Sleep Latency Test is also an objective measure of sleepiness conducted in a 
+sleep laboratory using polysomnography (Carskadon et al., 1986).
+Meta-analyses of employee samples show that overall (i.e., combining 
+objective and subjective assessments) these sleep aspects' different operation-
+alizations are rather distinct with low intercorrelations. Sleep quality and 
+quantity only have a small but significant relationship (
+r 
+= 
+.16), and sleepiness 
+has similar correlations in the negative direction with both sleep quantity and 
+quality (Litwiller et al., 2017). Objective and subjective sleep-quantity mea-
+sures are also more strongly associated with each other than sleep-quality 
+measures (Litwiller et al., 2017).
+Of special note, sleepiness is often confused with fatigue given both overlap 
+with the colloquial use of the term "tired" (Shen et al., 2006). Yet sleepiness 
+captures the subjective experience of drowsiness whereas fatigue represents a 
+diminished capacity to exert effort. Although both can certainly co-occur, 
+fatigued individuals can recover with periods of rest or relaxation while staying 
+awake whereas those who are sleepy need to fulfill a drive to fall asleep. There-
+fore, applied researchers must determine whether they are more interested in 
+indicators of sleep quantity or quality during workers' previous sleep period(s) 
+or their subjective feelings of sleepiness during their waking hours either before 
+or during work. The former approach asks about past sleep behaviors whereas 
+the latter assesses the current desire to fall asleep.
+The Link Between Sleep and Work Fatigue
+In occupational health research, sleep is considered a key recovery process 
+(Akerstedt et al., 2009; Sonnentag, 2018). The concept of work recovery 
+is important for understanding how employees can manage ongoing work 
+demands that require sustained effort or exertion. Prolonged exertion on 
+physical, mental, and emotional tasks lead to temporary states of fatigue that 
+can be reversed with periods of rest. Although many different nonwork activ-
+ities can contribute to work recovery (e.g., psychological detachment, physical 
+relaxation, leisure activities), sleep is the most critical given it is a basic, phys-
+iological drive critical for brain functioning (Sonnentag, 2018). Therefore, better 
+sleep can reduce work fatigue through both physiological processes related to 
+neurological processing and felt energy needed for motivation.
+The sleep-work fatigue link appears consistent across applied sleep measure-
+ment strategies, although the relationship's exact strength may somewhat vary 
+(Litwiller et al., 2017). Fatigue is more strongly associated with sleep quality 
+than sleep quantity, especially when using multi-item rather than single-item 
+measures. This may be due to individual sleep need differences that make it 
+difficult to use overall sleep duration as a useful proxy for sufficient sleep in 
+some research designs. The "8 hours of sleep a day" recommendation is often 
+seen as misguided given that there is considerable variation in sleep need that 
+can range from 6 to more than 9 hours (Ferrara & De Gennaro, 2001). Daily diary 
+method approaches can somewhat circumvent this issue, as deviations in sleep 
+duration can be compared to average levels within each person.
+234 
+Barber and Budnick
+Additionally, subjective sleep-quality measures more strongly relate to 
+fatigue than objective ones; the reverse is true for sleep quantity (Litwiller 
+et al., 2017). However, relatively few studies have objectively measured sleep 
+quality and quantity. In fact, most organizational research examining sleep 
+and fatigue focuses on self-report sleep-quality measures.
+Future Considerations for Studying the Sleep and Fatigue Link in 
+
+Organizations
+Current approaches in applied research may benefit from further exploration 
+of nuances involved in sleep and fatigue measurement. A few example con-
+siderations are noted in this section.
+Other Fatigue Conceptualizations
+A newer fatigue-related concept in OHP studies, adopted from social psychology 
+research, is 
+ego depletion
+ (or self-control depletion; e.g., Baumeister, 2002). This 
+idea describes reduced efforts to engage in acts of self-control (i.e., resisting 
+impulses, making decisions, regulating thoughts/emotions/behaviors) following 
+initial exertion. Some consider the term 
+depletion
+ a slight misnomer because 
+rest or incentives can reverse this temporary state (Masicampo et al., 2014). 
+Researchers have thus argued for the term 
+self-regulatory fatigue
+ (Evans et al., 
+2016), a specific short-term mental fatigue that occurs after exerting self-control 
+(Inzlicht et  al., 2014). Indeed, self-regulatory fatigue self-report measures 
+include items approximating mental, physical, and emotional fatigue in addition 
+to motivation deficits concerning upcoming effortful tasks (also in the general 
+fatigue concept, see Meijman & Mulder, 1998). Fatigue and self-regulatory 
+fatigue measures are rarely included in the same study to evaluate their distinc-
+tions. One exception found that state self-regulatory fatigue was strongly associ-
+ated with general state fatigue (
+r 
+= 
+.70) and similarly related to state sleepiness 
+and sleep loss (Barber & Budnick, 2015).
+Self-regulatory fatigue is still a compelling area of study; it is strongly related 
+to poor sleep among employees and is an explanatory mechanism between 
+sleep and work behaviors (Barnes et al., 2015; Christian & Ellis, 2011). How-
+ever, future work would benefit from distinguishing between work fatigue and 
+self-regulatory fatigue at work given that the latter is typically contrasted only 
+with negative affect. Negative affect measures lump together low activated states 
+with fatigue (e.g., sadness) and even highly activated emotions (e.g., hostility, 
+anger). Further differentiating among affective reactions and assessing multi-
+dimensional work fatigue aspects (physical, cognitive, and emotional compo-
+nents; Frone & Tidwell, 2015) would help establish if self-regulatory fatigue is a 
+unique concept and measurement approach in the work fatigue literature.
+Other Sleep Conceptualizations
+The dual process model of sleep suggests two primary physiological influences 
+on sleep behavior and sleepiness (Borbely et al., 2016). Usually, organizational 
+sleep researchers draw from the homeostatic process perspective of sleep, which 
+Sleep and Fatigue in Occupational Health Psychology Research 
+235
+assumes sleep pressure (Process S), or the drive to fall asleep, increases 
+linearly during the day accompanied by declining energy and functioning. 
+Sleep periods are then a restorative process related to this sleep drive, with 
+better sleep leading to improved work outcomes due to less fatigue. From this 
+perspective, sleep quantity and quality are behavioral proxies for assessing 
+this nightly restorative process, and sleepiness most directly measures the 
+drive to fall asleep. However, there is a second circadian process of alertness that 
+fluctuates over the course of the day (Process C). This perspective suggests that 
+our energy and functioning may depend on our position in this cycle. Therefore, 
+sleep's impact on fatigue and performance may also depend on a circadian  
+mismatch based on the time of day and an individual's sleep/wake cycle.
+One approach to examining circadian mismatches is assessing 
+chronotype
+,  
+or individual differences in worker sleep/wake cycle preferences that may 
+conflict with the timing of work demands. Early chronotypes (morning types) 
+sleep/awaken early and are most alert in the morning, whereas late chrono-
+types (evening types) sleep/awaken late and are most alert in the afternoon or 
+evening (Kim & Kim, 2020). Most researchers rely on self-report instruments 
+to assess chronotypes in field research, as objective approaches involve invasive 
+physiological measures of core body temperature or melatonin levels (Baron & 
+Reid, 2014). Fortunately, validated self-report questionnaires are also available, 
+such as the Morningness-Eveningness Questionnaire and its reduced version 
+(the five-item rMEQ amenable to field research), Composite Scale of Morning-
+ness, Preference Scale, Munich Chronotype Questionnaire, and the Morningness- 
+Eveningness-Stability-Scale (for a review, see Kim & Kim, 2020).
+Other Objective Measurement Strategies for Field Research
+Objective measures are often prized in organizational and occupational health 
+research given the documented limitations of self-report data (Eatough & 
+Spector, 2013). However, objective measures are not without disadvantages; 
+they can also produce biased information due to issues with training on pro-
+cedures, measurement calibration, participant compliance, and participants' 
+reactivity to being monitored with devices (Eatough et al., 2016; Ganster 
+et al., 2018). Strategies incorporating wrist-worn actigraphy measures are often 
+useful for field research given they can be worn for many days and capture 
+evening sleep parameters as well as other movements throughout the day 
+(Eatough et al., 2016; Sadeh, 2011). Medical-grade devices validated against 
+polysomnography in laboratory studies are particularly important, as com-
+mercially available options on smartphones or other wearable devices may 
+not produce reliable data. It is critical that inferences we make in research 
+regarding the distinctions between subjective versus objective measures of 
+sleep are not driven by methodological artifacts.
+Yet some newer technologies targeting fitness crowds may be promising. 
+Recent work compared a commercial smartwatch (Samsung) and a smartring 
+(Oura) to a medical-grade actigraphy device (Asgari Mehrabadi, 2020). Although 
+the commercial devices performed adequately compared with actigraphy, 
+actigraphy was still more accurate (followed by the ring, with the smartwatch 
+236 
+Barber and Budnick
+being lowest). Other work suggests a commercial wrist-worn activity tracker 
+(i.e., Fitbit) estimates sleep parameters well compared with polysomnography 
+(de Zambotti et al., 2018). Future validation studies comparing commercial to 
+medical-grade devices like the actigraph could provide valuable information 
+about more commonly available real-time data sources.
+PRIMARY AND SECONDARY INTERVENTION STRATEGIES FOR SLEEP 
+
+AND WORK FATIGUE
+This section reviews key intervention strategies for addressing sleep and work 
+fatigue issues in organizations. These strategies may include improving sleep 
+by altering aspects of the work environment or mitigating work fatigue after 
+sleep problem have already occurred.
+Addressing Sleep-Related Organizational Risk Factors
+Various aspects of the work environment have a powerful influence on 
+employee sleep. Therefore, identifying, targeting, and reducing organizational 
+risk factors that affect employee sleep can be a critical primary intervention 
+approach to combating sleep-related work fatigue (see Figure  12.1). First, 
+organizations can consider reducing work demands--aspects of the work 
+environment that require sustained effort in terms of physical, mental, or 
+emotional tasks (Bakker & Demerouti, 2017). In addition to leading to work 
+fatigue and long-term health and well-being outcomes, many work demands 
+are anticipated to also affect sleep through emotional, cognitive, and behav-
+ioral processes. For example, work demands can interfere with sleep through 
+negative emotional activation (tension, anxiety) and work-related cognitions 
+(rumination) in the evening that make it difficult to fall asleep at bedtime 
+Primary Intervention Point
+Work characteristics affecting sleep
+Work demands
+Work resources
+Work design
+Secondary Intervention Point
+Coping strategies for poor sleep
+Sleep hygiene education
+Fatigue management programs
+Poor sleep
+Work fatigue
+FIGURE 12.1. Sleep and Work Fatigue Intervention Approaches
+Sleep and Fatigue in Occupational Health Psychology Research 
+237
+(Sonnentag, 2018). Additionally, some research has implicated behavioral 
+processes related to managing time. Workers may "borrow" from sleep time 
+during periods of longer work hours given that time is a limited resource (Barnes 
+et al., 2012).
+Surprisingly, meta-analytic work in organizational studies indicates that 
+workload is only modestly, but consistently, associated with poorer sleep-
+quality (including sleep disturbances) and sleep-quantity measures (Litwiller 
+et al., 2017; Nixon et al., 2011). Focusing on hours worked, however, appears 
+to produce different results depending on the sleep measurement approach. 
+There is a fairly weak relationship between hours worked and sleep quality, 
+but more hours worked does have a moderate relationship with lower sleep 
+quantity. However, intervention work in this area does show improvement 
+on both sleep indicators using employees from a variety of worksites and 
+sectors (i.e., social services, technical services, care and welfare, and call center 
+managers/administrators). When reducing work time by 25% while keeping 
+pay steady, sleep quality and duration improved 18 months later (Schiller 
+et al., 2017). Employees also reported reduced sleepiness, stress, and worries 
+or stress at bedtime on workdays.
+Work resources may be another critical intervention point for sleep. Work 
+resources are generally considered to be motivational aspects of the work 
+environment that help people manage work demands. In occupational health 
+theories, resources typically include psychosocial factors such as perceived 
+control over work time or job autonomy, supervisor support, and fair work 
+environments (Bakker & Demerouti, 2017). The mechanisms by which work 
+resources might affect sleep would likely differ based on the type of resource 
+offered. For example, job autonomy could help employees coordinate work 
+around their preferred schedules. Having control over work processes might 
+also help employees reduce frustration or work more efficiently, addressing 
+negative emotional or cognitive activation issues and work-time interference 
+problems mentioned earlier (Barnes et al., 2012; Sonnentag, 2018). Perceived 
+control is modestly associated with better sleep quality in meta-analysis 
+research, but not sleep quantity (Litwiller et al., 2017). Poor schedule control 
+may be especially relevant given that unpredictable schedules (even when 
+accounting for shift work) are strongly related to negative sleep-quality indi-
+cators (Harknett et al., 2020). Although subsequent research will elucidate 
+these relationships further, there is some evidence for control or autonomy 
+benefiting employee sleep.
+Although social support is also a key work resource that can reduce work 
+demands and experiences of strains arising from demands (Viswesvaran et al., 
+1999), surprisingly, meta-analysis findings suggest that work support in 
+general is unrelated to employees' sleep quality or quantity (Litwiller et al., 
+2017). However, the specific types of social support, especially from leaders, may 
+be most critical. For example, one intervention used both family-supportive 
+supervisor behavior (a more targeted and specific measurement) and per-
+sonal control over work time to improve both employee sleep quality and 
+quantity (Olson et al., 2015). A similar intervention improved objective and 
+238 
+Barber and Budnick
+subjective sleep duration among information technology workers (Crain 
+et  al., 2019). Training leaders on interactional justice--treating employees 
+with dignity and respect--also appears to improve employee sleep based on 
+intervention work (Greenberg, 2006). Another longitudinal study from Fin-
+land suggests that sleep may explain the relationship between organizational 
+justice and employee health (Elovainio et al., 2003).
+Combining leader influence with specific forms of support has resulted in 
+the idea of sleep leadership. Sleep leadership encapsulates supervisor behav-
+iors that seek to improve employees' sleep, such as showing concern for healthy 
+sleep habits as well as role modeling and discussing effective sleep practices. 
+Deployed military members in high-risk occupations show improved sleep 
+with sleep leadership even when accounting for general leadership style 
+(Gunia et al., 2015). More recently, a large study using actigraph measure-
+ments reported that higher employee ratings of family-supportive supervisor 
+behavior were unexpectedly associated with shortened objective sleep time, 
+but higher sleep leadership did predict less sleep disturbance and sleep-related 
+impairment. Alternatively, supervisors' self-ratings of family-supportive super-
+visor behaviors did significantly predict better employee sleep hygiene and 
+less sleep-related employee impairment (Sianoja et al., 2020).
+Work-design or work-organization issues can also be a key organizational 
+risk factor for sleep. Most applied studies of work-design issues surrounding 
+sleep and fatigue have focused on nonstandard work schedules, especially shift 
+work. Sleep problems often arise from circadian issues related to working night 
+shifts (i.e., mismatch in typical sleep/wake cycle with daylight) and irregular 
+shifts that make it difficult to adhere to a stable sleep schedule (Akerstedt, 
+2003). Intervention work in this area suggests a few adjustments to shift-
+work characteristics can be effective for reducing sleep issues and fatigue 
+(among other negative well-being indicators). These strategies include using 
+faster rotations with fewer consecutive days working the night shift, forward 
+rotations that move from early shifts followed by later shifts, as well as allowing 
+some control over self-scheduling shifts in terms of timing or rest days (Bambra 
+et al., 2008).
+Last, it is important to consider ethical issues related to both sleep measure-
+ment and sleep interventions. Workers may feel coerced into providing personal 
+health information that affects their privacy in the workplace (i.e., "paycheck 
+vulnerability"; Rose & Pietri, 2002). Therefore, protecting employee confidenti-
+ality and choice to participate freely is critical. Additionally, researchers need to 
+consider all potential sleep harm risks and side effects in field research, as well as 
+maximizing benefits for all employees who participate (Barber, 2017).
+Addressing Sleep-Related Fatigue Issues in Organizations
+Organizations can also help employees cope with sleep's negative impact on 
+work fatigue using fatigue management programs (also known as fatigue 
+training or fatigue education). These programs often include a mix of educa-
+tional activities about sleep and strategies for minimizing fatigue due to poor 
+Sleep and Fatigue in Occupational Health Psychology Research 
+239
+sleep, which is a secondary intervention point in the sleep and fatigue process 
+(see Figure 12.1). They often target occupational settings with some level of 
+unavoidable sleep disruption, such as transcontinental flight crews, nurses, 
+medical residents, and other positions entailing irregular shifts or demanding 
+hours. Meta-analytic results suggest fatigue training improves patient/personal 
+safety, acute fatigue ratings, and sleep quality while reducing stress and burnout 
+(Barger et al., 2018). Other systematic reviews of these programs show alertness, 
+reaction time, sleep knowledge, and error prevention improvements (Redeker 
+et al., 2019).
+Programs that also include sleep hygiene education represent a primary pre-
+vention strategy oriented toward directly addressing poor sleep habits that may 
+contribute to sleep problems (i.e., an individual behavior risk factor approach 
+to improving sleep rather than the organizational risk approach discussed in 
+the prior section). However, secondary prevention strategies that focus on 
+managing fatigue arising from poor sleep are also a key component of these 
+programs. Common training elements include work environment counter-
+measures focused on physical surroundings, napping, and caffeine use.
+Creating the right conditions in the work environment can help employees 
+manage fatigue. Broadly, organizations might focus on increasing employees' 
+arousal levels to facilitate increased alertness when sleepiness or fatigue is 
+high. One strategy is adjusting lighting levels. Increasing light intensity during 
+night shifts helps individuals match their circadian cycles to the work environ-
+ment. However, this approach might also have drawbacks in terms of subse-
+quently disrupted sleep, and studies have predominantly focused on shift 
+workers (Bonnefond et al., 2004; Hilditch et al., 2016). Noise can also improve 
+alertness levels. White noise and pink noise (i.e., static noise) can improve alert-
+ness, but too high intensity noise could result in hearing damage or other nega-
+tive outcomes (Bonnefond et al., 2004). Both light and noise effects on employee 
+alertness are not well understood in field work (Bonnefond et al., 2004; Hilditch 
+et al., 2016), thus creating a valuable opportunity for future research.
+Providing employees opportunities to nap may also be useful for coping 
+with fatigue from poor sleep. Shift workers exhibit better vigilance after a 
+shift involving a 20-minute nap, although there were no effects of that nap 
+on subjective sleepiness, fatigue, sleep duration, or sleep quality (Purnell et al., 
+2002). Yet other work suggests otherwise: medical interns working overnight 
+increased their total sleep duration and reduce overall fatigue when on a nap 
+schedule compared with a standard schedule (Arora et al., 2006). More recent 
+reviews confirm such findings, suggesting that scheduled naps during work 
+shifts improved performance and decreased fatigue for shift workers (Martin- 
+Gill et al., 2018). Still, most work on naps has focused on shift workers, leaving 
+much room for future research on daytime worker fatigue and performance, 
+as well as the potential impact of naps on subsequent evening sleep behaviors 
+and next-day fatigue.
+Last, many fatigue management programs include pharmacological inter-
+ventions, or drug use related to stimulants that increase alertness. Such strat-
+egies are often fraught with ethical concerns that need to balance individual 
+240 
+Barber and Budnick
+health with relative errors in high-risk occupations, given that many of these 
+medications can be habit-forming (Bonnet et al., 2005; Russo, 2007). There-
+fore, many programs focus on caffeine use and low-dose patterns that will be 
+maximally effective for fatigue without creating future sleep or other health 
+issues. Caffeine use can improve alertness and performance even with doses 
+as low as 75 to 150 milligrams for well-rested individuals and 200 to 600 mil-
+ligrams after one or more nights of sleep loss. Importantly, caffeine is unlikely 
+to seriously disrupt sleep if sleep onset occurs 8 or more hours after consump-
+tion, although frequent consumption poses the risk of increased tolerance and 
+potential withdrawal effects (Bonnet et al., 2005). Meta-analysis research also 
+suggests that caffeine buffers against behavioral fatigue among shift workers 
+but can also negatively affect subsequent sleep (Temple et al., 2018). Therefore, 
+caffeine may be an effective short-term solution that is counter productive for 
+improving sleep and fatigue in the long run.
+Future Considerations for Addressing Sleep and Fatigue in 
+
+Organizational Research
+We have learned much about how to improve sleep from intervention research 
+related to organizational risk factors and fatigue management strategies. Other 
+examples of exciting future directions we can take based on initial findings are 
+discussed in this section.
+Technological Aspects of Work-Design Risk Factors
+Technological aspects of work design are also producing both nonstandard work 
+schedules (unpredictability) and continuous work access (connectivity) with 
+important implications for worker sleep. The traditional notion of a work shift 
+may be disappearing with more online access to work. Constant access to others 
+using electronic communications has facilitated workers' switching between 
+work and home tasks quickly throughout the day (Kossek, 2016). In particular, 
+using electronic devices to monitor and respond to work communications during 
+nonwork hours has important implications for sleep. After-hours work commu-
+nications through electronic devices (e.g., smartphones, computers) undermine 
+sleep quality (Lanaj et al., 2014; Schieman & Young, 2013), and elicit pressure 
+to respond immediately to work-related messages during both work and non-
+work hours (Barber & Santuzzi, 2015). Studies point to issues surrounding 
+heightened social expectations or norms for connectivity in the organization as 
+risk factors that could serve as an intervention point, as well as individual tactics 
+that might help protect sleep (Barber & Jenkins, 2014; Barber & Santuzzi, 2015). 
+However, we still need intervention work to determine how to address sleep 
+issues arising from high work connectivity while balancing electronic communi-
+cation's benefits and costs.
+Motivational Perspectives on Fatigue Management
+Fatigue management strategies, to date, appear to mostly emphasize physical 
+work environment factors (e.g., light, temperature) and physiological processes 
+Sleep and Fatigue in Occupational Health Psychology Research 
+241
+(e.g., napping, caffeine). However, psychosocial work environment factors and 
+psycho logical processes related to motivation may also be worth investigating. 
+Evidence suggests that at least some aspects of fatigue might be motivational 
+in nature, especially in nonclinical settings (i.e., no clinical disorders in sleep 
+or fatigue). Early laboratory research demonstrated an "incentive effect" with 
+respect to sleep and behavioral indicators of fatigue (Haslam, 1983; Horne & 
+Pettitt, 1985; Wilkinson, 1964). Even sleep-deprived individuals could com-
+pensate for short periods of poor sleep under some environmental reward 
+conditions, like better pay or more interesting tasks. A similar pattern in self- 
+regulation research indicates incentives can help manage self-regulatory 
+fatigue (Masicampo et al., 2014). For example, perceptions of control and 
+rewarding work among nurses during a 12-hour shift were more predictive  
+of lower levels of fatigue than workload demands or the physical energy 
+expended based on an activity monitor (Johnston et al., 2019). Similarly, it is 
+worth investigating whether fatigue arising from relatively minor deviations 
+in good sleep quantity or quality can be overcome with work environment 
+changes that increase interest and attention (e.g., rewarding social interaction 
+or meaningful/engaging tasks).
+Individual Vulnerability to Fatigue From Poor Sleep
+People may differ on their vulnerability to fatigue from sleep issues. Individual 
+vulnerabilities to sleep issues and effects on fatigue have also not yet received 
+much attention in applied research on sleep in organizations outside of clinical 
+sleep disorders and tolerance for shift work (Saksvik et al., 2011). For example, 
+some organizational research has targeted sleep apnea treatments to improve 
+sleep quality, and subsequently work exhaustion (Carleton & Barling, 2020). 
+Cognitive behavior therapy treatments for workers also appear to reduce nega-
+tive affect (which includes fatigue), which subsequently predicts both helpful 
+and counterproductive behavior at work (Barnes et al., 2017). Additionally, 
+research on shift-work tolerance often focuses on demographic factors (age, 
+gender) and circadian rhythm factors (morningness/eveningness, rigidity/
+flexibility). Yet demographic factors such as age, gender, and marital status 
+tend not to be associated with worker sleep issues in applied research overall 
+(Litwiller et al., 2017).
+Understanding worker preferences about sleep timing (chronotypes) may 
+be useful given people with later sleep/wake cycles (i.e., eveningness) report 
+more work exhaustion/burnout (Walerian
+'
+czyk et al., 2020). Yet aside from 
+research demonstrating negative effects of circadian mismatches and rotating 
+shift work's contribution to shift-work disorder (for a review, see Wickwire 
+et al., 2017), less applied research in organizations examines circadian effects 
+on nonshift workers' daily fatigue or performance. Still, researchers propose 
+that evening chronotypes may struggle with work demands that are outside 
+their preferred cycle, often referred to as circadian misalignment (i.e., social 
+jetlag or sleep debt; Wittmann et al., 2006). For example, shifts that are 
+aligned with employee chronotypes help employees sleep better in terms of 
+both quality and quantity (Juda et al., 2013). Other work finds that evening 
+242 
+Barber and Budnick
+types, unstable daily activity and sleep levels, and work habit differences each 
+contribute to weekday sleep debt (Goto et al., 2021). Moreover, evening types 
+were at an increased risk of sleep and psychological problems during the 
+COVID-19 lockdown in Italy compared with morning types (Salfi et al., 2021). 
+Thus, poor sleep quantity and quality may impact worker fatigue the most 
+when employees are working outside their preferred sleep/wake cycles.
+CONCLUSION
+Applied organizational research has provided compelling evidence for why 
+organizations should be concerned about employee sleep and fatigue--both 
+of which have detrimental impacts on employee health and performance. 
+Measuring sleep and fatigue in applied research can be challenging, but there 
+are promising strategies for exploring these issues in complex and dynamic 
+work settings outside of the controlled laboratory environment. Future occupa-
+tional health research is needed to tease apart nuances in sleep and fatigue 
+conceptualization as well as assessment strategies that can enhance or under-
+mine the observed link between them in field studies. Additionally, research 
+suggests organizations have major roles to play in reducing sleep and fatigue 
+issues among their workers. These roles include intervening on organiza-
+tional risk factors that contribute to worker sleep problems, and helping 
+employees manage fatigue at work when they inevitably encounter sleep 
+issues. We hope to see more applied intervention research in a variety of 
+occupational settings (outside of shift work) that tackle work environment 
+changes and fatigue management strategies that could help employees sleep 
+well and be well.

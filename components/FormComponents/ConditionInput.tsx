@@ -11,7 +11,7 @@ const ConditionInput = ({
 			<h2 className="text-lg font-semibold">
 				Which one of these conditions best describes your situation?
 			</h2>
-			<div className="flex gap-12 flex-wrap">
+			<div className="flex flex-wrap gap-12 justify-between">
 				{conditionInputs.map((condition) => (
 					<ToggleCondition
 						key={condition}

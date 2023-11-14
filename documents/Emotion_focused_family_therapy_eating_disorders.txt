@@ -1,0 +1,817 @@
+7
+http://dx.doi.org/10.1037/0000166-008
+Emotion-Focused Family Therapy: A Transdiagnostic Model for Caregiver-Focused 
+Interventions
+, by A. Lafrance, K. A. Henderson, and S. Mayman
+Copyright (c) 2020 by the American Psychological Association. All rights reserved.
+EMOTION-FOCUSED FAMILY 
+
+THERAPY FOR EATING 
+
+DISORDERS
+Managing family life can be difficult enough without the added stress of  
+supporting a child with an eating disorder. Developing the ability to notice 
+and respond appropriately to emotions--hers and my own--has diffused 
+many stressful situations at the dinner table. It's truly making the difference 
+in her recovery.
+--Caregiver
+Eating disorders (EDs) are debilitating illnesses that are associated with the 
+highest mortality rate of all mental disorders (Arcelus, Mitchell, Wales, & 
+Nielsen, 2011). In the 
+Diagnostic and Statistical Manual of Mental Disorders
+(5th ed.; American Psychiatric Association, 2013) and the International Clas-
+sification of Diseases (World Health Organization, 2018), a number of feed-
+ing and EDs are listed, including anorexia nervosa (AN), bulimia nervosa 
+(BN), and binge eating disorder (BED). These disorders are characterized 
+by problematic patterns of food intake, low self-esteem and poor or dis-
+torted body image (American Psychiatric Association, 2013). EDs are also 
+ * Emotion-Focused Family Therapy
+highly comorbid with mood and anxiety disorders, as well as substance mis-
+use (Hudson, Hiripi, Pope, & Kessler, 2007). The lifetime prevalence of EDs 
+is 0.9% for AN; 1.5% BN; and 2.8% for BED in women and 0.3%, 0.5%, and 
+0.2%, respectively, in men (Hudson, Hiripi, Pope, & Kessler, 2007).
+EDs are known to affect every system of the body (Katzman & Findlay, 
+2011; Mehler, 2018), and the course of the illness can negatively impact 
+one's emotional, cognitive, and social development (Klump, Bulik, Kaye, 
+Treasure, & Tyson, 2009). Although various interventions have been used 
+to treat adolescent and adult EDs with varied levels of success, many indi-
+viduals affected do not respond to existing therapies, and relapse rates are 
+high (Halmi, 2009, 2013; Hay, Touyz, & Sud, 2012; Zipfel et al., 2014). 
+For these reasons, novel treatment and adaptations to existing treatments 
+are required (Halmi, 2013). As mentioned in the Introduction to this book, 
+emotion-focused family therapy (EFFT) was developed in response to this 
+need, first as an adjunct to family-based treatment for children and adoles-
+cents with EDs (Lafrance Robinson, Dolhanty, & Greenberg, 2015) and later 
+as a stand-alone treatment for EDs across the lifespan (Stillar et al., 2016). 
+As such, the application of EFFT is far more nuanced in this treatment con-
+text, and therefore, we dedicate this chapter to highlighting its use in EDs. 
+In addition, readers are encouraged to view the following as a detailed and 
+integrated example of the application of EFFT. The lessons we've learned by 
+treating individuals with eating disorders, such as the importance of care-
+giver involvement, the role of emotion processing in the development and 
+maintenance of mental illness, and the way in which illness severity can 
+increase the likelihood of emotional blocks, are easily applicable across other 
+mental health disorders. It is what EDs have in common with other mental 
+health disorders, rather than the differences that exist between them, that 
+has allowed for such a rapid expansion of EFFT transdiagnostically.
+HISTORY OF FAMILY INVOLVEMENT IN EDS
+Historically, family factors have been regarded as causal in the develop-
+ment of EDs. For instance, family enmeshment, an emotional style char-
+acterized by a lack of personal and emotional boundaries, was often cited 
+as a problem within families of affected individuals (Haworth-Hoeppner, 
+2000; Minuchin, 1970). In line with this conceptualization of illness, paren-
+tal blame was a common practice among professionals and treatment fre-
+quently involved increasing ED patients' individuation from their families. At 
+its extreme, parents were excluded from treatment or separated from their 
+EFFT for Eating Disorders * 
+121
+child for extended periods of time (Munn, Smeltzer, Smeltzer, & Westin, 
+2010). These practices came to be referred to as 
+parentectomies
+ (Harper, 
+1983). Now various lines of research have confirmed that EDs can develop 
+in a wide range of family contexts and that there is no specific family style 
+that predicts their development (Le Grange, Lock, Loeb, & Nicholls, 2010). 
+In fact, some of the problematic patterns of behavior observed within fami-
+lies of an affected child are now understood as reactions to the presence of a 
+life-threatening and often chronic illness (Whitney & Eisler, 2009).
+ED treatment that excludes families (parents, spouses, other caregivers)  
+does not reflect the reality of the lives of many of those suffering. Many 
+individuals with EDs are tightly connected to, and often dependent on, 
+their families. Children, adolescents, and adults with chronic EDs are often 
+delayed in their social or emotional development (or both), which results 
+in needs that differ from their peers. Finally, ED families experience con-
+siderable strain as a result of their loved one's illness and can benefit from 
+support to disentangle themselves from the effects of the ED. Families 
+also provide an opportunity to extend treatment efforts beyond the office 
+to effect lasting behavioral and emotional change. As such, in contrast to 
+previous practices, and with the support of parent advocate groups such 
+as F.E.A.S.T (Families Empowered and Supporting Treatment of Eating 
+Disorders), contemporary approaches to ED treatment have evolved to 
+include families as active supports in the recovery process. Recent research 
+outcomes have demonstrated the benefits of carer involvement, including 
+improved outcomes for both those with an ED and their family members 
+(Couturier, Kimber, & Szatmari, 2013; Goddard, Macdonald, & Treasure,  
+2011; Lafrance Robinson, Dolhanty, Stillar, Henderson, & Mayman, 2016). 
+The most well-known of these family-oriented treatment protocols include 
+family-based treatment (Lock & Le Grange, 2015), the New Maudsley  
+method (Treasure, Schmidt, & Macdonald, 2010), and EFFT for EDs (Lafrance 
+Robinson et al., 2016).
+FAMILY INVOLVEMENT IN ED TREATMENT
+Family-based treatment (Lock & Le Grange, 2015) is the most widely 
+accepted outpatient family therapy for child and adolescent EDs. It has 
+the most research evidence and has been adapted to more intensive levels 
+of care (e.g., day treatment; Girz, Robinson, Foroughe, Jasper, & Boachie, 
+2013) and extended beyond childhood and adolescence to support transition 
+age youth (Dimitropoulos et al., 2015, 2018). In its standard form, family- 
+122
+ * Emotion-Focused Family Therapy
+based treatment is a manualized treatment that involves three phases of 
+treatment. Throughout each phase, clinicians and caregivers work together 
+as a multidisciplinary team (Lock & Le Grange, 2015; Lock, Le Grange, 
+Agras, & Dare, 2000). In the first phase of treatment, clinicians focus on 
+empowering carers to take action against their child's ED through a focus on 
+renourishment and symptom interruption in the home setting (Lock et al., 
+2000). Following steady weight gain and symptom management, clinicians 
+support caregivers to work toward returning control over eating to their 
+child in a developmentally appropriate manner, while maintaining a focus 
+on their physical health. It is also in this second phase that previously set-
+aside adolescent issues (e.g., puberty, peers, sexuality) thought to influence 
+symptoms are reintroduced into the therapy. Finally, in the third phase of 
+treatment, the team reviews central issues of adolescence, including the 
+development of age-appropriate autonomy, the development of appropriate 
+parental boundaries, and the need for the parents to refocus their caregiving 
+roles in response to their child's evolving needs.
+Although the involvement of caregivers in the treatment of children and 
+adolescents has become standard practice, adult interventions are most often 
+individually focused. The New Maudsley method is a noteworthy excep-
+tion in that carers are systematically recruited as partners in care across 
+the lifespan (Treasure, Schmidt, & Macdonald, 2010). Rooted in part in  
+the cognitive interpersonal maintenance model (Goddard, Macdonald, 
+Sepulveda, et al., 2011; Schmidt & Treasure, 2006; Treasure & Schmidt, 
+2013), the New Maudsley method uses psychoeducation to support caregivers 
+to identify and transform potential maintenance patterns or traits. Carers are 
+also taught 
+collaborative care skills
+, including the principles and techniques 
+of motivational interviewing, to support change in their loved one. The New 
+Maudsley method also takes into consideration the developmental stage of 
+the affected individual to determine the specifics of carer involvement.
+EFFT FOR EDS
+It is in part thanks to the developers of family-based treatment and the New 
+Maudsley method that caregivers are now being recruited as treatment 
+allies, closing the book on parentectomies. These treatment models brought 
+essential and novel approaches to the treatment of EDs and were quickly 
+integrated into clinical programs around the world. EFFT was designed to 
+build on the strengths of these approaches and introduce additional com-
+ponents that could benefit sufferers, caregivers, and clinicians. For exam-
+ple, the spirit of Phase 1 of family-based treatment is integrated within the 
+EFFT for Eating Disorders * 
+123
+behavior-coaching module in that caregivers are empowered to support the 
+normalization of eating patterns and interrupt ED symptoms. The animal 
+metaphors from the New Maudsley method are incorporated to assist care-
+givers in the identification of problematic patterns of responses to their loved 
+one's symptoms. Throughout treatment, caregivers are also provided with 
+skills training, and the role of emotion is brought to the forefront with a focus 
+on emotion coaching, therapeutic apologies, and the processing of caregiver 
+and clinician emotion blocks. We believe that EFFT's emphasis on core emo-
+tional and relational processes and its transdiagnostic application across 
+the lifespan represent important contributions to the developing field of ED 
+treatment. We urge readers to note, however, that, similar to other models 
+of ED treatment, the EFFT clinician or therapist is not meant to act as a sole 
+treatment provider but rather a member of a multidisciplinary team that, at 
+minimum, includes a medical professional and other allied health and men-
+tal practitioners such as a psychiatrist, dietitian, occupational therapist, and 
+others, if relevant.
+Caregiver Psychoeducation and Empowerment
+Before introducing the modules of EFFT, carers are first provided with psy-
+choeducation on a number of ED-related topics including their causes (e.g., 
+an interplay of risks and stressors, including genetics, temperamental fac-
+tors, patterns of emotional avoidance, life stressors, sociocultural factors), 
+functions (coping, emotional avoidance), and consequences (physical, psy-
+chological, social). Although a full discussion of the psychoeducational con-
+tent is beyond the scope of this chapter, caregivers should come away with 
+the understanding that although EDs are seemingly about food, weight, and 
+shape, they are complex disorders that serve many functions, one of which 
+is to regulate stress and distress. Our clients with EDs frequently describe 
+the manner in which their symptoms serve to mask and numb their feel-
+ings. When they resist the temptation to engage in symptoms, many report 
+experiencing a surge of overwhelming emotion. We therefore encourage 
+caregivers to conceptualize EDs as emotion management disorders, where 
+starving numbs, bingeing soothes, and purging provides relief (Dolhanty & 
+Greenberg, 2007).
+We also liken symptoms to 
+emotion converters
+. Whether consciously or 
+not, individuals with EDs convert the experience of emotions such as fear, 
+anger, sadness, and shame to "feeling fat" or to urges to binge, purge, or 
+overexercise. It is as though the narrow focus on weight, shape, and food 
+converts painful emotions into a bodily experience that sufferers can then 
+manage with symptoms. It is for these reasons that we are firm in our belief 
+124
+ * Emotion-Focused Family Therapy
+that ED recovery should involve equal emphasis on symptom management 
+and support to build capacity in the processing of emotions. As such, care-
+givers are empowered to take on an active role in their loved one's recovery 
+by increasing their involvement in behavior coaching and emotion coach-
+ing, including a therapeutic apology if warranted. Given that each of these 
+modules are explained in detail in previous chapters, special considerations 
+related to the application of these modules in the context of EDs are high-
+lighted, along with clinical illustrations.
+Behavior Coaching
+The value of behavior coaching in EDs cannot be overemphasized. A basic 
+underlying principle of this module, and one that is borrowed from family- 
+based treatment (Lock & Le Grange, 2015), is that for an individual strug-
+gling with an ED, food is medicine. Nutrition is essential to prevent, reduce, 
+or reverse medical complications and to support normal cognitive and emo-
+tional functioning. If necessary, carers are informed that ED symptoms can 
+be difficult to give up and can prove fatal over time (Reijonen, Pratt, Patel, 
+& Greydanus, 2003; Von Holle et al., 2008) to help mobilize them to regard 
+food as medicine.
+1
+ The behavior-coaching module of EFFT thus involves 
+equipping caregivers with practical meal-support strategies, as well as spe-
+cific tools to support the interruption of behaviors such as purging, bingeing, 
+and compulsive exercising. Caregivers engage in this "training" in individual 
+or group settings, as if they were clinical staff newly hired in an ED program. 
+The material is delivered using the same methods and techniques used to 
+train hospital staff around the world.
+Meal Support
+Meal support
+ refers to the act of offering structure, encouragement, and 
+reassurance to an individual completing a snack or meal. It is an incred-
+ibly valuable intervention during the renourishment phase of treatment, 
+especially if the affected individual's fear of weight gain is intense, and the 
+temptation to restrict or engage in symptoms is strong. In many cases, meal 
+1
+It is important to inform caregivers of loved ones who have eaten very little over 
+a long period of time that there could be a risk of developing 
+refeeding syndrome
+, 
+a potentially fatal condition in medically compromised individuals. If increases in 
+nutrition occur too rapidly, electrolyte levels such as phosphorous, magnesium, 
+and calcium can drop and cause cardiac, respiratory, or circulatory system 
+failures (Boachie & Jasper, 2011). Thus, it is critical that increases occur slowly 
+and incrementally and with the support of a physician in a position to monitor 
+medical stability and needs.
+EFFT for Eating Disorders * 
+125
+support can also alleviate the guilt that individuals working toward recovery 
+often experience in response to their harsh inner critic or ED voice. In other 
+words, the involvement of others can serve as a distraction from their critic 
+or allow the individual with ED to eat because they "have to." In its most 
+structured form, carers are involved in preparing and serving meals, includ-
+ing making decisions about the amount and variety of food consumed. That 
+being said, this degree of structure may not be possible for all caregivers or 
+appropriate for all individuals with EDs. As such, in EFFT, the specifics of 
+meal support are developed according to the loved one's chronological and 
+developmental age, stage of illness, and individual circumstances, as well as 
+the needs of the individual's caregivers. For example, caregivers of children 
+or adolescents will be supported to take responsibility for supervision and 
+support during all meals, while caregivers of adults who live away may visit 
+for extended periods of time to offer support or provide meal support via 
+video calls. Regardless of the approach, clinicians should work collabora-
+tively with the family to find ways to help make meals go as smoothly as 
+possible, encouraging them to draw on their caregiving instincts to inform 
+implementation. Following is an example of such an exchange between a 
+clinician and carer:
+CLINICIAN: 
+ So, you're telling me that you're struggling right now with get-
+ting your daughter to complete her meals. What do you think 
+you could change in your approach to help her to eat more?
+CARER: 
+Well the eating is so slow, and she seems to take forever. It's like 
+she's not even there during the meal. She's so shut down, and I 
+can tell she's in pain.
+CLINICIAN: 
+ Of course, it would be hard to push when you see her hurting. 
+I'm wondering if there is anything you could do make the meals 
+a bit easier on her without reducing the amount of food she's 
+expected to eat?
+CARER: 
+Maybe if she had some distraction . . .
+CLINICIAN: 
+ Distraction can be a great way to reduce distress during meals. 
+Any ideas about what might work best for your daughter?
+CARER: 
+She used to love documentaries. We used to watch them together 
+all the time. Maybe we can watch TV during meals for a while, 
+to get her mind off the pain.
+CLINICIAN: 
+ That's a great idea. Anything else that you think might be  
+helpful?
+126
+ * Emotion-Focused Family Therapy
+CARER: 
+I don't know . . . I guess I keep thinking back to when she was 
+little and felt sick. She always asked me to rub her back, and 
+it made her feel better. But she's a bit old for that, and things 
+have been pretty tense between us.
+CLINICIAN: 
+ So you're thinking this could be soothing for her. But it sounds 
+like your gut is also telling you that you might want to check with 
+her to see if that kind of comfort could be welcome right now.
+CARER: 
+Yeah, it might be worth asking . . . There are times when she 
+doesn't want to be touched, but not always. Maybe I could 
+invite her to snuggle on the couch as a start, until the worst of 
+it passes.
+In this example, the clinician takes care to remind the caregiver of the 
+need for her loved one to increase her caloric intake, while encouraging her 
+to draw on her instincts to individualize the support according to her daugh-
+ter's unique needs. This collaborative approach instills confidence in the 
+caregivers and serves to recognize the expertise of all members of the treat-
+ment team. Should the caregivers struggle to identify possible solutions to 
+the challenges they face, the EFFT clinician offers suggestions from which to 
+choose based on the successes of other families with whom they've worked.
+Finally, when supporting a loved one to gain weight, caregivers are 
+encouraged to work on the goals of increasing both the amount and variety 
+of foods consumed. Caregivers must also have a clear understanding of 
+the loved one's "safe" and "scary foods" to work on increasing intake while 
+also reintroducing feared foods. These include those deemed by their loved 
+one as "unhealthy," as research suggests that relapse is more likely when 
+individuals follow a diet limited in variety (Schebendach et al., 2008). To 
+do so, caregivers and their loved ones can work together to develop a fear 
+hierarchy, similar to a process of graduated exposure used to treat spe-
+cific phobias (Kendall, 1994). Caregivers support the expansion of variety 
+by introducing the least feared foods and moving up to the most feared 
+foods. This allows the affected individual to systematically extinguish fears 
+and develop a more neutral relationship with food. They do the same with 
+respect to eating in front of others, and in different settings, such as at school 
+or in restaurants. Thus, the overarching goal of this phase is to support care-
+givers to support their loved one to eat without rigid rules about what, when, 
+and how to eat (Satter, 2000).
+Bingeing
+Episodes of bingeing will naturally decrease in frequency when caregivers 
+encourage the intake of regular meals throughout the day. Eating food at 
+EFFT for Eating Disorders * 
+127
+regular intervals stabilizes blood sugar levels and lessens the urge to eat in a 
+chaotic or uncontrolled way. "Trigger" foods can be identified and removed 
+from the loved one's home, knowing that these will need to be reintroduced 
+later in treatment so that normalized eating can occur. Caregivers can also 
+decrease opportunities for bingeing via contact and connection during 
+the times of the day when their loved one feels most vulnerable. In these 
+moments, caregivers can support loved ones to use skills such as urge surf-
+ing and distraction techniques to manage impulses to binge.
+Purging
+Individuals with EDs who purge will greatly benefit from the support of 
+others to break the cycle of behavior, whether they purge through vomit-
+ing or other methods. The most common form of behavioral support for 
+purging involves supervision postmeals, including supervision of bathroom 
+use for up to 2 hours. Supervision is usually coupled with support around 
+the management of urges, including efforts to distract the loved one from 
+associated distress. This type of support is best offered in person, although 
+many carers have reported great success using telephone or video calls and 
+text messages.
+Caregivers should also be made aware that purging through vomiting 
+can occur in other areas (e.g., in showers and garbage bins), and they are 
+encouraged to remain vigilant of these possibilities. When discussing and 
+addressing purging symptoms, caregivers are guided to maintain a neutral 
+yet supportive stance to create an open line of communication. It is also 
+important to note that individuals who have never purged but who are in 
+the process of being renourished can be at higher risk of 
+symptom shifting
+, 
+especially if they are in distress and desperate for relief. (Symptom shifting 
+refers to a process in which individuals shift their pattern of symptoms--for 
+example, from food restriction to bingeing and purging.)
+Problematic Patterns of Exercise
+Individuals with EDs who overexercise can put themselves at risk for seri-
+ous medical issues. These complications can include electrolyte imbalances, 
+injuries, and cardiac events (Attia, 2010). Excessive exercise is also associ-
+ated with longer treatment duration (Solenberger, 2001). As a result, care-
+givers of individuals who are medically unstable, underweight, or engaged 
+in compulsive patterns of exercise are guided to support their loved one to 
+cease or reduce physical activity for a period of time. Caregivers may need 
+to provide supervision and distraction in places and at times when the urges 
+to exercise are strongest and be aware of other forms of "activity" that may 
+be occurring (e.g., leg shaking, stomach crunches, and any other excessive 
+128
+ * Emotion-Focused Family Therapy
+movement aimed at burning calories) as these may significantly affect health 
+and weight. Once the return to physical activity has been deemed medically 
+and psychologically safe, caregivers can support their loved one to resume 
+engagement in activities in a way that is separate from the influence of the 
+ED. This might mean that caregivers help their loved ones to participate in 
+new lower risk activities and support them to increase their compensatory 
+nutritional intake, as appropriate.
+The Role of Intensive Treatment
+Although carers can support their loved one in the home setting as part of 
+outpatient treatment, there are times when their loved one may require a 
+more contained and intensive therapeutic environment due to the severity 
+of the illness or the need for medical monitoring. In these cases, caregivers 
+may need to focus on supporting their loved one to navigate an admission 
+to hospital as a behavioral coaching task. The EFFT clinician may also advo-
+cate on behalf of the caregivers to be involved in the partial hospitalization, 
+inpatient, or residential treatment in some way. If this is not possible, EFFT 
+clinicians urge caregivers to recognize the importance of their role leading 
+up to admission and postdischarge. They may also seek the support of an 
+EFFT clinician while their loved one is in treatment to better prepare for the 
+transition to the home environment.
+In addition to the techniques already described, several publicly available 
+resources can further inform caregivers' efforts to support their loved one's 
+behavioral recovery from an ED (see Appendix N). Regardless of the strat-
+egies employed, caregivers are guided to move flexibly between empathy 
+and encouragement, compassion and firmness, validation and limit-setting 
+when providing meal support and working to interrupt symptoms. To do 
+so, care givers are also equipped with the skills of emotion coaching to 
+respond to emotions that often arise during the renourishment and symp-
+tom interruption phase in a way that is loving and productive. In other 
+words, these modules work together to increase the effectiveness of the 
+behavioral interventions.
+Emotion Coaching
+There are multiple ways in which emotion coaching can enhance the recov-
+ery process for individuals with EDs and their families. As stated in Chap-
+ter 2, this volume, this emotion-coaching framework can lead to increases 
+in cognitive flexibility and connection. Therefore, when caregivers attend 
+to their loved one in this way, possible outcomes include a decrease in 
+EFFT for Eating Disorders * 
+129
+resistance to ED interventions (including resistance to having their family 
+involved in structured ways) and an increase in the effectiveness of care-
+giver-led interventions (meal support and the interruption of symptoms). 
+It can also promote a strengthening of the caregiver-loved one relationship, 
+making it more likely that the loved one will seek out the caregiver for  
+support. Most importantly, however, emotion-coaching serves to facilitate 
+the internalization of emotion-processing skills among those with an ED,  
+making it easier for them to resist the temptation to engage in symptoms 
+when experiencing distress. We next describe some of the more practical 
+uses of emotion coaching in the context of EFFT for EDs.
+Emotion Coaching and Caregiver Involvement
+When carers can empathize and connect with their loved ones' pain and 
+validate their experiences, including their resistance to intervention and 
+support, loved ones will be more likely to trust and accept the support 
+offered by their caregivers. This style of emotional support can also serve 
+as a powerful buffer against an angry ED voice "warning" sufferers not to 
+believe in those trying to help them in their recovery. Among adult clients, 
+resistance to caregiver involvement may be particularly strong because the 
+level of support required often feels developmentally awkward and generates 
+feelings of shame and resentment. Following is an illustration of the power 
+of emotion coaching based on a real-life example of its use in the context of 
+adult ED treatment.
+LOVED ONE: 
+ I don't want your help, and I don't need it. Please just leave 
+me alone.
+CAREGIVER: 
+ I don't blame you for not wanting my help. You don't want me 
+to see you hurting, and I can only imagine how much shame 
+you must feel that I even know about what's going on.
+LOVED ONE: 
+ Seriously, I'm fine, it's going to be fine, and I can figure this 
+out myself.
+CAREGIVER: 
+ I believe you will be fine. But I also believe that you don't 
+want my help because you're afraid that I will think less of 
+you.
+LOVED ONE: 
+ No--that's not it. I know you love me, but I also know that 
+you're already stressed out with your own life. We both know 
+your health isn't great, and there's no chance I am going to put 
+even more stress on you. I could never live with myself if you 
+had another heart attack.
+130
+ * Emotion-Focused Family Therapy
+CAREGIVER: 
+ Okay, I get it now. I can understand you wouldn't want to be 
+burdened with the guilt if something happened to me. And so 
+I don't blame you for trying to push your mom and me away. 
+I didn't realize why until now, and the truth is, I would prob-
+ably feel the same way if I were you. That being said, I am 
+your dad and I can't stand on the sidelines knowing you are 
+struggling. That would be far worse. Let me make you a prom-
+ise. I promise that if I feel stressed or worn down, I will take 
+a break to take care of myself. I will even schedule an extra 
+appointment with the cardiologist to reassure you. Sound like 
+a plan?
+LOVED ONE: 
+ Fine. As long as you keep your promise and we revisit the 
+terms every once in a while.
+This exchange illustrates the ways in which the spirit of emotion coaching 
+can serve to decrease resistance to support, even when caregivers' attempts 
+to validate their loved one miss the mark. In fact, inspired attempts, regard-
+less of their accuracy, can convey to loved ones that their caregivers are 
+invested in understanding their perspective, thereby increasing the overall 
+trust between carers and those with an ED. This increased trust and connec-
+tion often helps loved ones to reveal the fears and motives underlying their 
+treatment refusal or hesitation to involve caregivers in treatment, creating 
+openings for a new path forward.
+Emotion Coaching for Meal Support and Symptom Interruption
+It is not unusual in the early phases of treatment for loved ones to react to 
+meal support and symptom interruption with uncharacteristic displays of 
+despondence, anxiety, anger, and even violence. We have heard too many 
+reports from parents who described that when they insisted that their child 
+complete a meal, plates went flying. They were not prepared to respond to 
+this level of anger and anguish. As such, it is vital that clinicians teach care-
+givers emotion coaching strategies so that they can respond effectively to 
+their loved one's reactions that surface before, during, or after meal times. 
+Here is an example of emotion coaching in the context of meal support.
+LOVED ONE
+:
+ (points to a slice of cake) There is no way I am eating that.
+CAREGIVER: 
+ I thought you might say that. When I put myself in your shoes, 
+I had the exact same thought. You haven't eaten a pastry in 
+ages, and I can imagine that you'd feel terrified of overdoing 
+it. The fear of bingeing is so strong. It feels too risky to even 
+try one bite.
+EFFT for Eating Disorders * 
+131
+LOVED ONE: 
+ I'm serious. There's no chance. I don't ever want to be fat ever 
+again. Don't make me eat this. It's not even healthy.
+CAREGIVER: 
+ I'm sorry, honey. I understand now how scary it was when 
+things were out of control. I don't blame you for feeling ner-
+vous. You've been in this pattern for so long. Remember, you 
+have my support. I will be with you for every bite, and I will 
+stay with you until the urges for symptoms pass. Let's start 
+with the first one.
+Collectively, we have more than 40 years of experience working on the 
+front line of ED treatment, providing meal support to people in inpatient 
+and partial hospitalization settings, and supervising other clinicians to 
+do the same. We also have years of experience supporting caregivers of 
+children, adolescents, and adults with EDs in the context of family-based 
+treatment and EFFT. Although we acknowledge that emotion coaching 
+does not yield the desired outcomes 100% of the time, we can say with 
+conviction that, in our experience, this technique is by far the most effec-
+tive strategy to support sufferers to "eat one more bite." It is a tool we 
+hope will be used more often, and as an alternative to some of the more 
+coercive or punitive practices sometimes employed out of desperation. 
+Although we are in support of firm limits, we believe they must be coupled 
+with the steps of emotion coaching to maximize the effectiveness of meal 
+support and symptom interruption strategies and to minimize distress 
+for all involved.
+Emotion Coaching for Cognitive Symptoms of EDs
+We have found that for clinicians and carers alike, it can be extremely dif-
+ficult to resist the urge to reassure, correct with logic, or ignore ED-related 
+comments. Individuals with EDs often express the desire to be sick, to never 
+eat again, or even to die. These statements are incredibly hard to validate 
+for caregivers because they can provoke strong fear reactions. When sup-
+porting caregivers to respond to these types of statements, it is important 
+to underline that validation is separate from agreement. Using the struc-
+ture of emotion coaching, caregivers might respond to their loved one who 
+expresses a wish to remain ill forever in the following way:
+Of course you want to be sick. Everything inside you tells you that being sick 
+makes it so that you are deserving of our affection. I can imagine that you'd be 
+terrified to be well again, just in case you lost our love and support.
+Although their loved one's pain won't be resolved, the validation efforts 
+will make it so that they are more receptive to support, whether emotional 
+132
+ * Emotion-Focused Family Therapy
+(e.g., reassurance) or practical (e.g., setting limits regarding the completion 
+of a meal).
+Carers can also use the steps of emotion coaching to respond to loved 
+one's expression of body image disturbances, whether the loved one is 
+emaciated, in the normal weight range, overweight, or obese. The follow-
+ing illustrates a possible exchange between a woman struggling with an 
+ED and her husband:
+MICHELLE:
+ I'm not going out today. I feel so gross. I can't show anyone this 
+fat, disgusting body.
+AHMED: 
+I can only imagine how hard it is to feel so uncomfortable in 
+your own body. Like you want to climb out of your own skin to 
+escape the feeling. I could see how you might feel like there's 
+something wrong with you or that you might feel scared about 
+how others might see you.
+MICHELLE: 
+ Yes! I don't want to go!
+AHMED: 
+I get it. The eating disorder is convincing. It must be so heavy 
+to have to carry that burden all day, every day. It sounds 
+exhausting.
+MICHELLE: 
+ It is exhausting. I am exhausted, and I just don't know who to 
+trust.
+AHMED: 
+No wonder you feel conflicted. I know we can get through this 
+feeling together. I'll tell you what, why don't we snuggle up on 
+the couch and watch a show, and we'll try again in 30 minutes. 
+Let's take some pressure off of you.
+MICHELLE: 
+ Okay. Thanks, love.
+Although it takes practice, this type of exchange will be far more effec-
+tive than typical responses to "I feel/look/am fat," which usually involve 
+reassurance or attempts to correct the individual's experience of her or his 
+self. We remind carers that in EFFT, "fat is a feeling" and a projection of 
+negative affect onto the body. Therefore, the caregiver is guided to attend 
+to the loved one's surface feelings (e.g., feeling fat), followed by the vali-
+dation of deeper experiences of vulnerability or emotional pain.
+Therapeutic Apologies
+As discussed in Chapter 4, therapeutic apologies is a module in EFFT that 
+is applicable when self-blame is high in either the sufferer or the caregiver. 
+EFFT for Eating Disorders * 
+133
+Individuals with EDs typically report an extremely strong self-critic making 
+this intervention especially relevant. The ED self-critic often takes the form 
+of a powerful, even abusive, internal voice (Dolhanty & Greenberg, 2007) 
+that convinces sufferers that they are fat, ugly, and unworthy--and, in more 
+extreme cases, that they are better off dead. The intensely negative emo-
+tions that result serves to fuel the guilt and shame so many sufferers already 
+experience for the pain "they are causing their family." Many sufferers blame 
+themselves for having developed the ED in the first place, especially if they 
+recall a turning point in their lives when they "chose" to restrict or purge  
+the first time. In these instances, a therapeutic caregiver-led apology 
+can be used for lifting this self-blame to reduce its impact on help-seeking 
+behaviors and treatment progress.
+We also encourage the use of this intervention as a means of strengthen-
+ing the carer-loved one relationship. Whether or not the relationship is or 
+has been under strain, doing so will maximize the healing power of caregiv-
+ers' supportive efforts. As readers will have noted several times throughout 
+this manual, EFFT uses the relationship between carers and their loved ones 
+as a vehicle to effect change. The stronger the relationship, the more impact-
+ful caregivers' efforts will be and the more their loved one will benefit from 
+the carers' behavioral and emotional support. In light of the extent to which 
+EDs are known to be treatment-resistant, we believe that it is worthwhile 
+to invest in strengthening even the healthiest of relationships to optimize 
+the healing potential of caregiver-led interventions in the various domains 
+of recovery.
+Although this module is powerful in the treatment of EDs, we do cau-
+tion the EFFT clinician to take great care with its implementation. We have 
+observed high levels of self-blame in many parents of children with EDs 
+(Stillar et al., 2016). This propensity for caregiver self-blame is due in 
+part to a long history of parent blaming within the ED field, which may 
+still influence professionals and families today. Additionally, EDs usually 
+develop and flourish in secrecy, often leaving caregivers feeling shame 
+about not having noticed the early signs of illness progression. Others may 
+have encouraged "clean" eating, influenced by a culture flooded with mes-
+sages about "health," and therefore feel responsible for their loved one's 
+obsession with food and weight. This is especially true when caregivers 
+have struggled with disordered eating or an ED themselves. As such, if not 
+sufficiently prepared, caregivers may respond to the proposal of a thera-
+peutic apology with hurt, defensiveness, or even more self-blame. For this 
+reason, and to ensure maximum therapeutic benefit, EFFT clinicians must 
+take great care in conveying the spirit of no blame in which the intervention 
+134
+ * Emotion-Focused Family Therapy
+is firmly rooted, supporting caregivers to work through any painful feelings 
+that may arise. This process serves to prepare them to deliver the apology, 
+as well as healing the deep roots of their own pain. In fact, and as noted in 
+Chapter 4, only once carers can connect with some level of self-compassion 
+and self-forgiveness for not having been "perfect" can they deliver an effec-
+tive therapeutic apology delivered from their "good house." The process of 
+the therapeutic apology can take time, but we've found it to be an incredibly 
+worthwhile process to free both the sufferer and the caregiver from the 
+grips of self-blame, among other positive outcomes.
+Caregiver Blocks
+Carers are often faced with the very real fear of medical complications and, 
+in more extreme cases, the death of their loved one. Not surprisingly, these 
+and other emotional reactions can lead caregivers to "walk on eggshells" 
+or resist engagement in behavior or emotion coaching in case the distress 
+causes their loved one to withdraw, reject further support, or give up on 
+recovery altogether. Carers can also fall into unhelpful patterns in which 
+they accommodate ED symptoms (e.g., buying low-calorie foods, avoid-
+ing the reintroduction of feared foods in their loved one's diet) so as to 
+avoid these feared consequences (Treasure et al., 2008). These findings 
+highlight a need to identify these and other fears prior to the onset of 
+caregiver-based interventions as they could lead to treatment-interfering 
+behaviors and their transformation could improve outcomes. In response 
+to this need, and in collaboration with parents of children struggling with 
+an ED in a hospital-based program, I (AL) developed the Caregiver Traps 
+Scale for Eating Disorders (CTS-ED) to assess caregiver fears specifically 
+related to their involvement in providing home-based meal support and 
+symptom interruption.
+2
+ One hundred and twenty-four parents of ado-
+lescent and adult children with ED participated in a validation study to 
+examine its psychometric properties (Lafrance, Strahan, & Stillar, 2019). 
+Exploratory factor analysis revealed one component, and the scale yielded 
+high internal consistency. The measure was positively correlated with a 
+measure of accommodation and enabling of ED symptoms and negatively 
+correlated with a measure of parental self-efficacy with respect to their 
+helping role. Although it has been used clinically for several years, the 
+results of this study confirm that the CTS-ED can be a valuable tool to 
+target and transform potential fears to improve outcomes. In addition to 
+2
+The Caregiver Traps Scale, described in Chapter 5, was adapted from this tool.
+EFFT for Eating Disorders * 
+135
+the CTS-ED, we recommend that ED clinicians consider integrating the 
+other tools and techniques developed to transform emotion blocks outlined 
+in Chapter 5, in particular, caregiver block chair work, as they too were 
+initially developed for use in the context of ED treatment.
+Clinician Blocks
+It is well established that working as a clinician in the field of EDs can be emo-
+tionally challenging (Franko & Rolfe, 1996; Golan, Yeruslavski, & Stein, 2009; 
+Thompson-Brenner, Satir, Franko, & Herzog, 2012; C. S. Warren, Schafer,  
+Crowley, & Olivardia, 2013). Two theoretical models have emerged that 
+explore the influence of clinician factors on the delivery of ED treatment in the 
+context of individual and family-oriented therapies. They include the iatro-
+genic maintenance model of eating disorders (Treasure, Crane, McKnight,  
+Buchanan, & Wolfe, 2011) and the therapist drift model (Kosmerly, Waller, 
+& Lafrance Robinson, 2015; Tobin, Banker, Weisberg, & Bowers, 2007; 
+Waller, 2009; Waller & Turner, 2016). The developers of these models posit 
+that clinicians, like carers, can find themselves engaging in avoidant or 
+other wise unhelpful practices when supporting individuals and their fam-
+ilies (Treasure et al., 2011; Waller, Stringer, & Meyer, 2012). According 
+to Waller (2009), clinicians may also resist pushing clients for behavioral 
+change when it results in making the client (and, in turn, the clinician) 
+uncomfortable. This can lead the clinician to engage in negotiations around 
+treatment recommendations or to downplay the severity of symptoms to 
+avoid conflict. Positive emotions can also hamper clinical judgment because 
+they may mislead and distract from important clinical information and cues. 
+For instance, clinicians may become enthusiastic about minor changes in a 
+client's course of treatment, which can distract focus away from some of the 
+more serious issues still requiring attention.
+In 2015, ED professionals were surveyed with respect to their perception 
+of the influence of emotions on clinical decisions (Lafrance Robinson & 
+Kosmerly, 2015). Clinicians from various disciplines who were engaged in 
+the treatment of child and adolescent EDs were randomly assigned to com-
+plete one of two surveys. The first survey assessed clinician perspectives 
+regarding the negative influence of emotions on their own clinical deci-
+sions (
+n
+ = 143), and the second survey assessed clinician perspectives of 
+the same with respect to their colleagues (
+n
+ = 145). Both groups endorsed 
+this phenomenon to some degree, although participants were about twice 
+as likely to endorse the negative impact of emotion among their colleagues. 
+The specific treatment decisions thought to be affected fell within three 
+categories: decisions regarding food and weight, decisions regarding the 
+136
+ * Emotion-Focused Family Therapy
+involvement of the family in treatment, and decisions regarding autonomy 
+and control. Decisions related to the involvement of the family were per-
+ceived to be the most emotionally charged--in particular, the involvement 
+of a critical or dismissive parent. Clinicians' responses indicated that cer-
+tain client states and fears fueled problematic clinical practices on the part 
+of the clinician (Kosmerly, 2014). Specifically, clinicians reported that the 
+client states that were most likely to negatively influence their decision 
+making included expressions of anger, hopelessness, and flat affect. They 
+were most influenced by their own fear of potentially alienating the cli-
+ent (i.e., arousing a hostile or negative emotional reaction, causing the  
+family to disengage from treatment) and feelings of incompetence. Cli-
+nicians reported that their most frequent reactions included focusing on 
+another less emotionally arousing topic; overemphasizing minor improve-
+ments in the client; and rationalizing, negotiating, or bartering with the  
+client. Follow-up research was conducted among 16 family-based therapists 
+who participated in a semistructured interview (Penney, 2018). Transcripts 
+were analyzed using thematic analysis. Results revealed that the tone of 
+therapist-client inter actions and the level of family resistance affected clin-
+ical decision-making the most frequently. In fact, every one of the therapists 
+shared that in response to critical or angry parents, they were more likely 
+to deviate from protocol in some way, including advocating for premature 
+discharge. Results also revealed that impact of therapist emotion on clinical 
+decisions could be mitigated via engagement in self-reflective practices and 
+working as part of a treatment team.
+Common Clinician Blocks in the Treatment of EDs
+We do not believe that the experiences of the clinicians and therapists 
+described in this chapter are unique. In fact, when the stakes are high, as 
+they are in the treatment of EDs, emotions run high as well. The emergence 
+and expression of clinician blocks in these settings are normal, and ED clini-
+cians are supported to increase their awareness of the potential blocks most 
+common to their practice. For example, family therapists may hesitate to 
+enlist caregivers as recovery allies when they present as hostile or in denial 
+or when a caregiver struggles with an ED, substance use disorder, or per-
+sonality disorder. Similar to the common caregiver blocks in ED treatment, 
+the medical risk associated with ED symptoms can also lead clinicians to be 
+blocked by a tremendous fear of losing a client to death, including being 
+held responsible in some way. These blocks can lead clinicians to avoid 
+working with some clients (or all clients with EDs), blame other health care 
+professionals for lack of treatment progress, or adhere rigidly to treatment 
+protocols.
+EFFT for Eating Disorders * 
+137
+When a clinician's personal beliefs about food, nutrition, weight, and 
+shape stand in contradiction to the central messages of ED recovery 
+that "all foods fit and variety in nutrition is key" they can also interfere 
+with important aspects of recovery, such as the reintegration of high- 
+calorie foods. There are numerous other blocks that clinicians may  
+experience in the context of ED treatment: They may perceive the indi-
+vidual with the ED as manipulative rather than sick; clinicians may  
+avoid bringing attention to certain ED symptoms, such as laxative use or 
+bingeing or purging (to prevent from shaming the client but also because 
+it can be uncomfortable to discuss the more private features of these 
+symptoms); and they may hesitate to confront their clients about poten-
+tially undisclosed symptoms for fear of causing offense and losing their 
+trust. For these reasons, we encourage ED clinicians to maintain a routine 
+of self-reflection and self-care, as well as to engage in regular supervision 
+(peer or otherwise) or personal therapy to identify and work through 
+blocks as they arise.
+SUMMARY
+Similar to EFFT for general mental health, there are three main areas of 
+intervention in EFFT for ED. They include supporting carers to (a) increase 
+their involvement in supporting their loved one with meal support and 
+symptom interruption; (b) provide structured emotional support to respond 
+to reactions that arise in response to the behavioral interventions and to 
+attend to the emotional processes fueling ED symptoms; and (c) initiate a 
+therapeutic apology for the healing of family wounds--whether related to 
+relational injuries, the burden of self-blame, or to upgrade the relationship 
+and therefore the impact of caregiver interventions. The associated skills in 
+each of the modules are designed for use in person, over the telephone, or 
+even by text or e-mail. Caregivers are then taught to combine these three sets 
+of skills to increase their effectiveness and are provided with opportunities 
+to practice in session. Should a caregiver struggle to engage in any of the 
+aforementioned tasks, the EFFT clinician supports the caregiver to move 
+through these impasses using the tools and techniques outlined in Chapter 5 
+on caregiver blocks. Similarly, EFFT clinicians who specialize in EDs are 
+also very aware of the increased vulnerability for the emergence of clinician 
+blocks when working with EDs and integrate within their practice a struc-
+ture for ongoing processing of potentially problematic attitudes, emotional 
+reactions, or behaviors.
+138
+ * Emotion-Focused Family Therapy
+CLINICIAN'S CORNER
+I spent nearly 10 years working as a psychologist in a hospital-based pro-
+gram treating children and adolescents with eating disorders. We adhered 
+largely to principles of family-based treatment and I thought at the time 
+that I was a clinician who believed in parents and their healing power. I felt 
+as though I addressed emotion with my patients and had taught parents 
+to do the same, but at times, I felt some deeper processes were lacking in 
+my approach. When I first learned about EFFT, it was as though a piece of 
+the puzzle that I didn't even know I was missing finally fit into the picture. 
+I felt that I now had a holistic framework from which to conduct my work. 
+I had practical ways of helping them understand the illness and address 
+both behaviors and emotions. As I deepened my training and practice and 
+went on to become a supervisor and trainer, I continued to experience the 
+benefits and also the challenges of this approach. Working through my own 
+blocks is not something I always look forward to, but I have never engaged 
+in that work without deriving some benefit. When I left the hospital and went 
+into private practice, I extended my focus to include general mental health 
+issues across the lifespan. Tools and techniques from EFFT are now inte-
+grated within every case I see in one way or another. I am definitely a better 
+therapist today because of it.
+--Psychologist

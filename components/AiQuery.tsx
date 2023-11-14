@@ -1,12 +1,12 @@
 "use client";
 import { useState } from "react";
-import { Tab } from "@headlessui/react";
 import {
-	ToggleCondition,
 	ResultsOutput,
 	ConditionInput,
 	DescriptionInput,
-	GoalsInput
+	GoalsInput,
+	Button,
+	LoaderBig
 } from ".";
 
 const AiQuery = () => {
@@ -43,38 +43,49 @@ const AiQuery = () => {
 					JSON.parse(JSON.stringify(json)).data.replace(/(\r\n|\n|\r)/gm, "")
 				)
 			);
-
-			console.log(result);
-			// setResult();
 			setLoading(false);
 		} catch (err) {
 			console.log(err);
 			setLoading(false);
 		}
 	}
-
 	return (
-		<section>
-			<div>
-				<div className="py-6 w-full space-y-8">
-					<ConditionInput
-						selectedCondition={selectedCondition}
-						setSelectedCondition={setSelectedCondition}
-					/>
-					<DescriptionInput
-						description={description}
-						setDescription={setDescription}
-					/>
-					<GoalsInput goals={goals} setGoals={setGoals} />
+		<section className="lg:w-[1080px]">
+			{loading ? (
+				<LoaderBig />
+			) : (
+				<div>
+					{result ? (
+						<ResultsOutput results={result} />
+					) : (
+						<section className="py-6 w-full space-y-8">
+							<h1 className="text-4xl font-bold text-center">
+								Welcome to Mental Cloud.
+							</h1>
+							<p className="text-xl font-semibold">
+								We welcome you to curate your very first mental healthcare plan
+								backed by research to start your week with your head in the
+								clouds.
+							</p>
+							<div className="space-y-10">
+								<ConditionInput
+									selectedCondition={selectedCondition}
+									setSelectedCondition={setSelectedCondition}
+								/>
+								<DescriptionInput
+									description={description}
+									setDescription={setDescription}
+								/>
+								<GoalsInput goals={goals} setGoals={setGoals} />
+							</div>
+							<div className="flex justify-between">
+								<Button text="Generate" primary handleClick={sendQuery} />
+							</div>
+						</section>
+					)}
 				</div>
-			</div>
-			<button
-				className="px-7 py-1 bg-white text-black mt-2 mb-2"
-				onClick={sendQuery}
-			>
-				{loading ? <p>Asking AI...</p> : <p>Generate</p>}
-			</button>
-			<div>{result && <ResultsOutput results={result} />}</div>
+			)}
+
 			<button
 				className="px-7 py-1 bg-white text-black mt-2 mb-2"
 				onClick={createIndexAndEmbeddings}

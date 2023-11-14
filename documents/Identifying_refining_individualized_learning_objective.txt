@@ -1,0 +1,867 @@
+Identifying and Refining 
+
+Your Individualized Learning 
+
+Objective
+Daryl Chow, Scott D. Miller, and Mark A. Hubble
+2
+Truth, like gold, is to be obtained not by its growth, but by washing away from it all that 
+is not gold.
+--LEO TOLSTOY, 
+TOLSTOY'S DIARIES
+DECISION POINT
+Begin here if you have read the book 
+Better Results
+ and
+*  are routinely measuring your performance 
+and
+*  have collected sufficient data to establish a reliable, evidence-based profile 
+of your therapeutic effectiveness 
+or
+*  have created a map or blueprint of how you work sufficiently detailed  
+another clinician could step into your shoes 
+and
+*  need guidance using the Taxonomy of Deliberate Practice Activities in  
+Psychotherapy to identify or refine an individualized learning objective with 
+the greatest chance of improving your effectiveness.
+26 
+Chow, Miller, and Hubble
+T
+o begin, please rate your response to each of the following questions on 
+a scale from 1 to 5, where 1 is 
+highly disagree
+ and 5 
+highly agree
+:
+* You are someone who is often attuned to the feelings of others.
+* You are someone who approaches life, work, and problems systematically 
+and sequentially, often having clearly defined steps and procedures in mind 
+(i.e., "If x, then y").
+Not surprisingly, psychotherapists tend to assign a 4 or 5 to the first state-
+ment and lower scores to the second. Clearly, possessing an empathic disposition 
+helps in fulfilling the desire to be of assistance to people in distress. Being 
+in the moment, emphasizing understanding and acceptance, placing trust in 
+feelings, and relying on intuition to guide decision making are often given 
+priority in the daily conduct of therapy. Carefully constructing a treatment 
+plan, following an established protocol, and being able to state clearly and 
+explicitly the rationale for each and every action taken with clients is less 
+common. On balance, therapists are more 
+empathizers
+ than 
+systemizers
+.
+As it is, being completely immersed in and sharply attuned to the client's 
+experience has long been regarded as the sine qua non of expert clinical work. 
+Indeed, a large multinational investigation by the University of Chicago's David 
+Orlinsky and the University of Oslo's Michael Ronnestad (2005), involving 
+more than 10,000 therapists, found the majority not only yearn for but also 
+consider the experience of connecting deeply with clients the quintessence of 
+what it means to be a therapist. For all that, 
+healing involvement
+--the term used 
+by researchers to characterize this belief and desire--has a curious relation-
+ship with results. The more it is valued, the 
+less
+ effective one is likely to be. 
+In reality, the best clinicians rate it significantly less important to their work 
+and identity than their more average counterparts (Chow, 2014). What holds 
+their attention and gets them up and going in the morning? Outcome.
+Enter the Taxonomy of Deliberate Practice Activities in Psychotherapy 
+(TDPA; Chow & Miller, 2022; see Appendix A, this volume), the tool specifi-
+cally designed to help practitioners develop a step-by-step professional devel-
+opment plan most likely to improve their results. Unfortunately, a cursory 
+review of the document is likely to strike empathizers as, in a word, foreign. 
+A spreadsheet of tables, ratings, and detailed instructions has replaced what 
+they do best, know the most about, and hold in the highest esteem: connec-
+tion, caring, intuition, and being in the moment. How can the seemingly 
+detached, calculating, even antiseptic nature of the TDPA be experienced as 
+anything other than off-putting?
+Turns out, the answer--and the way forward--lies in redefining what 
+healing involvement encompasses. Nowhere is the need to do so more apparent 
+than in efforts to address the epidemic levels of burnout seen in the helping 
+professions. The terms 
+vicarious trauma
+, 
+secondary traumatic stress
+, and especially 
+compassion fatigue
+ all point to the very real risks of deriving meaning and purpose 
+primarily from the emotionally charged interactions during the therapy hour--
+especially with nonimproving clients. The pattern is as easy to see as the results 
+Identifying and Refining Your Individualized Learning Objective
+ 27
+are predictable: In the face of continued suffering, deepening involvement 
+feels like the right thing to do.
+And yet, as Mathieu and colleagues (2015) pointed out, "Burnout doesn't 
+begin with caring, or even caring too much, but continuing to care 
+ineffectively
+[emphasis added], losing sight of what we're there to accomplish with our 
+clients in the first place" (p. 22). Little wonder the panoply of recommendations 
+offered by burnout experts--including cultivating mindfulness, going on walks, 
+doing yoga, joining a service organization, turning off technology, capping 
+client contact hours, and eliminating caffeine and alcohol intake--do not work. 
+All miss that key protective factor--doing something that 
+actually helps
+. Recall 
+feeling effective is so crucial to the well-being of therapists, they routinely over-
+estimate their actual results (see Chow et al., 2015; Lin et al., 2022; Walfish 
+et al., 2012)!
+Thus, it is essential for the definition of healing involvement to be extended 
+beyond the immediate experience with the client to therapists' deeply felt desire 
+to be of help. With this perspective in mind, "empathizers" can transform the 
+TDPA from a mere chore to a deep and powerful act of caring. At this stage, 
+it is recommended therapists work consciously and intentionally at developing 
+a relationship, with achieving better results equal to the relationships one works 
+so hard to establish and maintain with clients.
+FIELD GUIDE TIP
+Readers who scored a 4 or 5 on the 
+second statement (i.e., systemizer) 
+or who, after reading 
+Better Results
+(Miller et al., 2020), are now looking 
+for tips, suggestions, and practical 
+guidance for maximizing the utility  
+of the TDPA may feel free to skip 
+ahead to the exercises at the end  
+of this chapter.
+BARRIERS TO BETTER RESULTS
+To be clear, it is not that therapists do 
+not
+ want to improve. They do. The 
+evidence reviewed in Chapter 12 of 
+Better Results
+ (
+BR
+; Miller et al., 2020) 
+proves it. However, for empathizers and systemizers alike, three obstacles 
+get in the way of deepening their relationship with better results:
+* what therapists already believe works,
+* not knowing what will work to improve their effectiveness, and
+* what others insist works if only everyone would do it.
+28 
+Chow, Miller, and Hubble
+Regarding the last item on the list, nothing beyond the decades of research 
+reviewed in Chapter 2 of 
+BR
+ and the first chapter of this volume need be 
+repeated. The desire to help those in psychological pain is easily exploited by 
+those promising a better way. In the busy, time-and-resource-limited world in 
+which clinicians work, one of the major hooks is, "The heavy lifting has been 
+done. All you need to do is follow directions." If this remains a temptation, 
+complete the exercises on page 17 of Chapter 1 under Principle 1 (Avoid the 
+Athenian Trap).
+Turning to the first item, the evidence paints a rather bleak picture. Despite 
+participating in continuing education throughout one's career, clinician confi-
+dence increases but their outcomes do not (Germer et al., 2022; Goldberg 
+et al., 2016). Effective deliberate practice (DP) is predicated on developing 
+an evidence-based profile of each therapist's effectiveness. The goal is to 
+strengthen what one does well and target particular weaknesses for improve-
+ment. In either case, the expertise literature definitively shows intuition is not 
+a reliable guide (Miller et al., 2018).
+Finally, not knowing what to work on is a major obstacle--perhaps the 
+biggest. It is also the reason for and purpose of this chapter. Consider the data 
+presented in Figure 2.1. Displayed are the responses of hundreds of participants 
+from an ongoing series of asynchronous, web-based trainings on DP conducted 
+by the authors since the publication of 
+BR.
+ Asked at the outset of the course 
+to identify the single biggest challenge attendees faced in their professional 
+development, the majority (
+~
+38%) cited not knowing which goals or perfor-
+mance objectives to pursue.
+The promise of the TDPA (as originally introduced in 
+BR
+) was that completing 
+the tool would help each therapist identify the specific DP activity exerting 
+the greatest leverage on improving their results (McChesney et al., 2012). 
+Experience showed clinicians needed more. Putting all the pieces together 
+and arriving at a single professional development objective proved to be a 
+FIGURE 2.1.
+ Responses From Deliberate Practice Web-Based Workshop
+Identifying and Refining Your Individualized Learning Objective
+ 29
+"bridge too far," at times eluding even the most dedicated. The sheer volume 
+of information made it easy to get lost in the details, obscuring connections 
+between the various inputs and, ultimately, the bigger picture.
+KEEPING THE BIGGER PICTURE IN MIND
+Step back for a moment. The journey is a series of steps for deepening involve-
+ment with better results, beginning with creating a detailed blueprint of how 
+one works (see Figure 2.2). Recall the blueprint is a guide on "how you do, 
+what you do" in therapy. A useful way to think about this is to imagine 
+explaining to someone what you do within the therapy hour. As introduced 
+in 
+BR
+ and thoroughly described in Chapter  1 of this field guide (
+FG
+), the 
+reason for doing so is to enable the clinician to pinpoint where in their work 
+they can intervene once they have identified what needs to change. The next 
+step is measurement, routinely assessing engagement and outcome. The purpose 
+is to generate data sufficient for the therapist to identify any weaknesses or 
+deficits in their clinical performance. Once known, completing the TDPA is 
+supposed to, first, help the therapist link their specific shortcomings to the 
+factor or factors (and associated clinical activities) having the greatest chance 
+of improving their results and, second, to develop a single, well-defined, and 
+achievable professional development goal.
+All well and good. Except . . .
+Integrating data about one's performance deficits with the TDPA is where 
+many end up feeling stuck. Consider the example of Liam.
+1
+ First, he created 
+a blueprint for his approach to clinical work. It took a while to fill in the 
+details over time as he reflected on and conducted therapy. At the same time, 
+Note.
+ TDPA 
+=
+ Taxonomy of Deliberate Practice Activities in Psychotherapy.
+FIGURE 2.2.
+ The Deliberate Practice Journey
+1
+All case examples used in the 
+FG
+ are composites of real people whose identifying 
+information has been altered to ensure anonymity.
+30 
+Chow, Miller, and Hubble
+he began administering standardized measures to his clients. Once sufficient 
+data were gathered for a reliable assessment of his work, he learned his 
+impact--as reflected in his effect size--was average. Wanting to improve 
+nonetheless, he turned to the TDPA. Instead of leading him to a specific target 
+for DP, variable scores within each of the five factors (i.e., structure, hope and 
+expectancy, relationship, client, therapist) left him puzzled about where to 
+start. Frustrated, he turned to colleagues in his consultation group: "What 
+am I supposed to do to get better?"
+Experience shows Liam's struggle is far from unusual. Recall most therapists 
+are average. As such, an 
+initial
+ examination of one's overall results often fails 
+to reveal the one truly transformative DP objective. Instead of returning to 
+the data with different and more detailed questions, many place their trust 
+in the TDPA, hoping it will provide direction. Occasionally, when completed 
+together with a coach, potential targets for improvement are identified. How-
+ever, more often than not--as in the case of Liam--nothing specific stands out. 
+In either instance, disconnected from performance data, both risk investing 
+significant effort for an unknown return.
+Recalling the advice offered earlier, the key to success is to treat the pro-
+cess of arriving at a performance improvement objective the same way one 
+approaches working with clients. Get involved. Dive in, care, be curious, make 
+connections, think critically, test understandings, continuously adapt, and, 
+when required, seek consultation. No therapist thinks of "getting to know" 
+the client as an activity independent of treatment. Similarly, learning what one 
+needs to learn (and learn next) is not a precursor to but an integral part of DP. 
+Practically speaking, this means returning to earlier steps as often as needed 
+with different questions in mind:
+* Is my blueprint accurate? Does it reliably capture how I work?
+* Have I created an atmosphere that supports and facilitates candid feedback 
+from clients? How do I use client feedback to inform and improve my work?
+* How well do I understand my performance-related data? What gives rise to 
+the numbers in the report? What variations in my performance (e.g., types 
+of clients, presenting concerns, times of day, days of the week, treatment 
+delivery format) might be hidden in the aggregate statistics?
+* How does the information from my map, ongoing measurement, perfor-
+mance data, and the TDPA tie together? What am I learning about myself, 
+how I work, with whom, and under what circumstances I am most and 
+least effective?
+Liam sought out a coach who encouraged him to set aside the TDPA tempo-
+rarily and revisit his performance data. Specifically, as suggested in Chapter 10 
+of 
+BR
+, he was encouraged to begin parsing his outcomes, linking them to a 
+variety of factors known to be associated with variations in therapist effectiveness 
+(i.e., level of client distress, amount of improvement over time, culture, gender 
+or sexual orientation, quality of the alliance, and presenting problem).
+Identifying and Refining Your Individualized Learning Objective
+ 31
+To this end, Liam created a spreadsheet. 
+On the vertical axis, he listed his clients and, 
+horizontally, the various factors. It took him 
+the better part of a month to pull the specific 
+data points for each client and place them in 
+the appropriate column and row. Importantly, 
+as he did so, he had no preconceived ideas 
+about what he might find. Once complete, 
+however, a pattern imme diately jumped out. 
+His poorest outcomes occurred with men. 
+"Was this the answer?" he wondered. "Should 
+I get some training on 'men's' issues? Super-
+vision?" Feeling uncertain, he returned to 
+the coach.
+Together, they first examined the other dimensions in the spreadsheet, 
+looking for connections and relationships. No other patterns stood out. The 
+poor results weren't linked to the alliance, presenting problem, or differences 
+in background or culture. Simply put, some men fared worse than others. 
+"So, what is it I'm supposed to practice?" Liam asked, exasperated. The coach 
+immediately replied, "Being curious. We're not done getting to know these 
+men, what happens when you are with them, what it is about them." It was 
+then the coach suggested Liam add a column to his spreadsheet. There, he was 
+instructed to review his progress notes, tracking any recurring words used when 
+documenting his work.
+"I've figured it out!" Liam happily reported the following month: "I need 
+to deliberately practice working with angry men--that's the word that showed 
+up again and again in my notes: angry." Liam's experience highlights the 
+need to modify the picture most people have of DP (see Figure 2.3). Rarely 
+linear and sequential, more often than not, it is a matter of three steps forward 
+and two back--and Liam had a couple more steps back ahead of him.
+Retrieving the TDPA, the coach wondered how best to understand the anger 
+reported in Liam's notes. Was a description of the men, their nature, and how 
+they presented a client factor? Or was it a result of something taking place 
+in the therapeutic interaction (i.e., relationship factor)? There is one more 
+FIGURE 2.3.
+ Deliberate Practice: What People Think and What It Really 
+Looks Like
+32 
+Chow, Miller, and Hubble
+possibility: Was it a therapist factor? Did Liam somehow evoke an angry 
+response from certain men? If so, what was it about him?
+With these questions in mind, Liam returned to his notes. In short order, 
+he discovered the problem was not "angry men." Rather, those with the poorest 
+results 
+became
+ angry when they were not getting what they wanted: advice 
+and direction, two activities conspicuously missing in Liam's blueprint.
+"I'm not comfortable telling people what to do," he observed at the next 
+session with his coach, adding, "In fact, I was trained 
+not
+ to do that." At this 
+point, and after months of work, a DP objective likely to have leverage on 
+Liam's outcomes started to emerge. Along the way, several shifts in perspec-
+tive had occurred. What began abstractly as "men's issues" (TDPA Dimension 4) 
+turned into "relating to angry men" (Dimension 3, Di, ii) but eventually landed 
+on the necessity of being aware of and accommodating the expectations of 
+certain men (Dimension 4b, c). With the correct focus sorted, Liam was finally 
+able to act, devoting attention to learning when, with whom, and under 
+what circumstances being more direct and offering specific guidance were 
+indicated. In time, he modified his therapeutic map to reflect his new 
+understandings.
+PRINCIPLES FOR IDENTIFYING AND REFINING YOUR 
+
+INDIVIDUALIZED LEARNING OBJECTIVE
+Three principles essential to developing a learning objective with the greatest 
+chance of improving your effectiveness are suggested. Derived from expe-
+riences working with clinicians like Liam since the publication of 
+BR
+, they 
+include
+* approaching finding your performance improvement objective with the 
+same interest and dedication you devote to understanding your clients,
+* treating the process of arriving at your performance improvement objective 
+as an ongoing learning project, and
+* focusing on the "what," and the "know-how" will follow.
+Up to this point, the aim of the entire chapter has been operationalizing 
+the first two principles--what identifying your specific performance objective 
+actually
+ entails and the perspective required to sustain your efforts along the 
+way. What more can be said? Like getting to know your clients, no shortcuts 
+exist. Hopefully, it is clear DP is not an event (or even a series of discrete 
+events). It is an ongoing, 
+iterative
+ process. Arrival is not possible without the 
+journey--and in the case of working to achieve better results, it is best to think 
+of the two as one and the same. You are here now. What are you learning? 
+What is next?
+Whereas the first two principles direct attention to the importance of 
+attitude, Principle 3 is less about one's point of view than how the task is best 
+Identifying and Refining Your Individualized Learning Objective
+ 33
+approached. Toward this end, a specific framework for conceptualizing and 
+organizing your efforts to identify the "what" and "how" to DP has proven 
+useful. Known by the acronym OPL, it contains three elements: outcome goal, 
+process goal, and learning project (see Figure 2.4).
+Of the three, the learning project has already been introduced and illus-
+trated with an example. Its purpose is to fill in gaps in knowledge. Its nature 
+is dynamic, flexible, and exploratory. That said, effective learning projects 
+share three qualities. First, the environment is conducive to learning and 
+relearning, retrieving and reflecting on prior knowledge, and ultimately 
+transferring what is being learned into clinical practice (Ahrens, 2017; Chow, 
+2019a; Haskell, 2001). As recommended in 
+BR
+, one important strategy is 
+actively working to protect the time one sets aside for DP (e.g., turning off the 
+phone, social media, and email notifications, including other interruptions). 
+Second, effective learning projects are open to a wide variety of inputs. That 
+means looking beyond the world of therapy for inspiration and guidance. For 
+example, if creating more effective structure in sessions is the objective, 
+"know-how" might come from a colleague or therapy book but also from 
+watching a documentary on how filmmakers craft the narrative arch of a story 
+to create emotional impact. Third, and last, mindful of "Parkinson's Law"--
+the danger that when left open-ended, work will expand to fill the time 
+allotted--the most productive learning projects are time bound. As simplistic 
+as it may seem, Liam was given specific tasks to complete within a given 
+period, allowing him and his coach to monitor progress easily, make needed 
+"just-in-time" adjustments, and plan the next steps.
+It goes without saying that learning projects are goal directed. Goals both 
+inform and determine the learning project. Returning to Figure 2.4, the first, 
+or outcome goal, is "what" one aims to achieve in the learning project. Recall 
+that Liam's initial objective was to improve his results. When his attention 
+shifted to the "how," or process goal, the initial outcome goal evolved--first, 
+from improving results with men to becoming eventually more comfortable 
+and skilled in working with men who wanted and expected direction and 
+advice. Once clear, the items listed in the TDPA provide numerous evidence- 
+based suggestions for effective action. As portrayed in the graphic, think of the 
+process goal as a lever. Its purpose is to provide the structure (i.e., lift) to reach 
+the desired outcome.
+FIGURE 2.4.
+ The OPL Framework
+34 
+Chow, Miller, and Hubble
+PRINCIPLE-BASED EXERCISES
+Before considering the following exercises, ensure you have taken all the 
+steps outlined in the decision tree presented at the start of this chapter. It is 
+assumed you (a) are routinely measuring your performance; (b) have collected 
+sufficient data to establish a reliable, evidence-based profile of your thera-
+peutic effectiveness; (c) have created a map or blueprint sufficiently detailed 
+so that another clinician could replicate your work; and (d) have tried to 
+complete the TDPA but want additional help to develop the learning objective 
+with the greatest chance of improving your effectiveness.
+Have your outcome data, blueprint, and TDPA in front of you while deter-
+mining which ones will work best for you. If, after considering the suggested 
+exercises, you still find yourself struggling with outcome goals, process goals, 
+and a learning project, consult the suggestions and detailed case example at 
+the end of the chapter.
+Exercise 1: Connecting With Your Authentic Self
+Principle: 1
+Applicability: TDPA Items 3Aiv, 3Biv, 5Avi
+Purpose
+People routinely equate authenticity with acting in a manner consistent with 
+their 
+actual
+ selves. For all that, research indicates the experience most often 
+arises when we think and act in ways consistent with our 
+ideal
+ self (Gan & 
+Chen, 2017). As already stated, for many psychotherapists--especially those 
+who principally see themselves as empathizers--data, statistics, and perfor-
+mance metrics evoke strong feelings of "not me." This exercise is designed to 
+honor and reconnect you with the ideals that brought you to the field--being 
+of service to others.
+Task
+
+Part 1.
+ Set aside 20 minutes once or twice a week for 1 month to think about a 
+person you hold in high esteem because of who they are and what they do. It 
+could be anyone from any domain of human performance--an athlete, scien-
+tist, musician, philanthropist, a person from the present, or perhaps a historical 
+figure. "Spend time with them" by looking up their accomplishments, listening 
+to interviews, watching videos online, reading a biography, or imagining a con-
+versation with them. Complete this part of the exercise before reading further.
+Part 2.
+ After a month, devote the same amount of time over several weeks 
+to imagining how others would know that data-driven DP is part of your ideal 
+self. Using paper and pencil or your favorite note-keeping app, maintain a 
+record of your thoughts and reflections. Be as specific as possible about what 
+you would be doing; how others would know your work with statistics, metrics, 
+and data is critical to being the most helpful you can be. Last, make engaging in 
+this exercise routine.
+Identifying and Refining Your Individualized Learning Objective
+ 35
+Exercise 2: Recovering Your "University Days" Mindset
+Principle: 2
+Applicability: Potentially All Items on the TDPA
+Purpose
+Going to college is more than earning a degree and getting a job. It's about 
+exploration, self-discovery, learning to tolerate boredom, being exposed to 
+diverse peoples and ideas, making friends, falling in love, and having fun. It is 
+noteworthy that most who start end up studying a subject entirely different 
+from what they originally planned--around 80%, actually (The University of 
+Tulsa, 2020). Such shifts in interest and focus are both difficult to anticipate 
+and far from an indication of failure, given their dependence on chance and 
+experience. Of course, graduation is the ultimate objective (i.e., outcome goal). 
+And yet, relishing the journey--its fits and starts, ups and downs, twists and 
+turns--makes earning a degree rewarding and transformational. The same 
+may be said of DP.
+Task
+
+Part 1.
+ Set aside 20 minutes once or twice a week for 1 month to think about 
+a person, class, relationship, book, time of life, or event that unexpectedly but 
+positively impacted the direction of your career and life. Keep a log of your 
+reflections, noting the circumstances, any challenges arising from the change 
+in direction, and what was required of you to step off your then-current path 
+and make it so (see Exercise 7). Consider how the change both confirmed or 
+disrupted your sense of self up to that time.
+Part 2.
+ When it comes to your DP learning project, suspend the desire for an 
+immediate result (i.e., being given a degree before the education). Cultivate 
+a "university mindset." For the following month, be open to chance change- 
+producing events, people, and experiences related to your desire to improve your 
+therapeutic effectiveness. Keep a log using index cards or a note-keeping app. 
+Return to this exercise whenever you embark on a new learning project.
+Exercise 3: Specifying the Outcome Goal
+Principle: 2, 3
+Applicability: Potentially All Items on the TDPA
+Purpose
+The purpose of DP is different from attempting to resolve a difficult or "stuck" 
+case. The latter is typically focused on anomalies or outliers, one-off experi-
+ences from which little can be learned or applied to other clients and contexts 
+(in 
+BR,
+ referred to as random errors). The former is about identifying and 
+addressing recurring patterns in one's behavior that consistently undermine 
+effective performance (i.e., nonrandom errors). Doing so requires gathering 
+data via routine outcome monitoring sufficient to offer a reliable and valid 
+profile of one's strengths and weaknesses. Once done, patterns can be extracted 
+and effectively targeted for performance improvement.
+36 
+Chow, Miller, and Hubble
+Task
+
+Part 1.
+ Solve for patterns. After you have collected outcome and relationship 
+data on 40 to 60 cases:
+1. Using "closed" cases only, partition your outcome data into "successful" 
+versus "unsuccessful" groups.
+2. Study the two groups, looking for differences (gender, age, presenting prob-
+lem, strength of the relationship, amount and trajectory of change, consis-
+tencies in your thinking and feeling about the clients).
+3. Spend no more than 20 minutes at any one sitting, allowing time in between 
+for the information to "percolate." Jot down any observations, thoughts, 
+or "aha's" that occur to you during the time away.
+Part 2.
+ The next step is separating committed from aspirational outcome goals. 
+To do so,
+1. List all potential targets for DP (i.e., outcome goals) based on the analysis 
+completed in Part 1.
+2. Compare your results with the performance benchmarks (
+BR
+, pages 74-75).
+3. Get as specific as possible. For example,
+ - Reduce my youth population dropout rates from 47% to below 20%.
+ - Reduce deterioration rates for men from 12% to 6%.
+ - Reduce the rates of clients who make an unplanned termination after 
+the first session from 35% to 20%.
+ - Improve the rate of reliable change improvement for clients who have 
+not experienced improvement after being seen for more than six sessions 
+from 50% to 60%.
+4. Commit to one outcome goal, temporarily designating all others aspira-
+tional (Doerr, 2018). The one committed outcome goal is the single target 
+to which you will devote your efforts. (The next exercises will help identify 
+and refine the process goal and learning project.) A good rule to follow is 
+picking "low hanging fruit"--something that has high leverage on improving 
+your overall effectiveness while also being easy to reach.
+Exercise 4: Figuring out Your Process Goal
+Principle: 2, 3
+Applicability: Potentially All Items on the TDPA
+Purpose
+Once you know your "what," the TDPA is specifically designed to help you 
+figure out the "how" (i.e., your process goal). On the basis of feedback from 
+therapists since the publication of 
+BR
+ and the research reviewed in the 
+FG
+, 
+significant revisions have been made to the tool.
+Identifying and Refining Your Individualized Learning Objective
+ 37
+Task
+With your outcome goal in mind, review the latest version of the TDPA, taking 
+time to
+1. Rate each item. Spending time reviewing case notes from active clients will 
+ensure accuracy and representativeness.
+2. Go through the document and identify the top three activities you believe 
+will have the greatest impact on your results.
+3. Select one to work on now, making sure it is 
+influenceable
+ and 
+predictive
+ of 
+the outcome goal you've listed (see Figure 2.5).
+4. Have a coach or expert--someone who knows your work--complete the 
+Supervisor/Coach version of the TDPA and compare the ratings. Work 
+together to identify and design a single process goal.
+Exercise 5: Antigoals
+Principle: 2
+Applicability: Potentially All Items on the TDPA
+Purpose
+Being clear about what is unimportant in our efforts to improve can be a 
+powerful way to achieve clarity and maintain focus on our process goal.
+Task
+This exercise is simple yet effective. Review your completed TDPA, making a 
+list of the items (and factors) that will 
+not
+ be a part of your primary process 
+goal. Keep the list handy, reviewing it whenever you are tempted to pursue 
+training or activities (outside of playful experimentations and just having fun) 
+unrelated or tangential to your current process goal.
+FIGURE 2.5.
+ Influencing Outcome With a Process That Is Predictive and 
+Influenceable
+38 
+Chow, Miller, and Hubble
+Exercise 6: Create a Centralized Note-Taking System
+Principle: 1, 2, 3
+Applicability: Potentially All Items on the TDPA
+Purpose
+Journaling and note taking, research indicates, has multiple benefits. A study 
+in the 
+Journal of Experimental Psychology
+, for example, found it reduced intru-
+sive and avoidant thoughts about negative events while improving working 
+memory (Klein & Boals, 2001). Such improvements, it is believed, free up 
+precious (and limited) cognitive resources to focus on other mental activities 
+(e.g., managing stress, maintaining focus, learning). While popular in the 
+treatment and self-help literature, the benefits for anyone engaging in DP could 
+not be clearer. Keeping a consistent and "centralized" (i.e., one fixed note-
+taking location) record helps in the recollection, organization, and consolidation 
+of new learnings (Agarwal & Bain, 2019; Chow, 2019a; Miller et al., 2020). 
+On the flip side, the lack of a centralized note-taking system is often a barrier 
+to accelerated learning.
+Task
+
+Part 1.
+ Determine how you will keep a record of your DP efforts (e.g., hand-
+written, using a note-taking app). In this record, document your experiences, 
+including those that might strike you as irrelevant to your current learning 
+project. Treat your record as a garden you must seed, nurture, nourish, and 
+prune on an ongoing basis to bear fruit.
+Here are some tips that others have found helpful:
+* If you decide to keep handwritten notes:
+ - Put them in a bound journal.
+ - Number and date both the notebook and pages because doing so will 
+help in recall.
+ - Leave the first few pages blank to facilitate the later creation of a 
+map 
+of content.
+ Unlike a traditional table of contents, the map of content is 
+designed to both highlight where specific content can be found (e.g., 
+"Learning Project 1 on improving structure in therapy; see pages, 4, 32, 
+and 33") and also facilitate making connections between sections within 
+and between notebooks.
+ - Use sticky "flag tabs" to highlight themes (e.g., green for key learnings, 
+yellow for points requiring further consideration, blue for interesting 
+but less useful ideas and insights).
+* If you choose to use an electronic medium:
+ - It should be easy to use. Bells and whistles are less important than 
+accessibility and simplicity.
+ - It should be easy to search, retrieve, and, most important, create links 
+between notes. Certain apps (e.g., Notion, Roam Research, Obsidian) 
+Identifying and Refining Your Individualized Learning Objective
+ 39
+allow for linking one note to another as well as using links to reference 
+and connect themes within the notes (i.e., bidirectional. For instructions 
+on the use of Obsidian to link your notes, see https://darylchow.com/
+frontiers/rightforyou/).
+ - Use tags, labeling each note to create relationships amid the content 
+(e.g., #empathy, #dropout, #couplestherapy). Of course, storing the notes 
+in themed folders can also help to organize content.
+* For the purposes of your learning project, consider keeping a record of the 
+following:
+ - Each week, recall the people you worked with, recording one mistake and 
+one success. Limit each entry to 140 characters to ensure consistency and 
+efficiency (see https://darylchow.com/frontiers/weeklytherapylearnings/ 
+for an example).
+ - Note thoughts, reflections, and summaries of readings, movies, books, 
+and podcasts you have encountered, whether or not they seem relevant 
+to your current learning project.
+ - Record client feedback. Although you likely record this in your case notes, 
+keeping a record in a central location will help in making connections 
+between the various sources of information related to your learning 
+project.
+Part 2.
+ After creating and starting a note-taking system, the next step is 
+engaging in what experts in the learning sciences call 
+retrieval practice
+ (Agarwal 
+& Bain, 2019). In practical terms, this means revisiting your notes on a routine 
+basis, first looking at the heading or tags and trying to recall the specifics, and 
+then refreshing your memory by reading the entire entry. Turns out that 
+"testing yourself to learn" as opposed to "teaching to the test" is a powerful 
+way of deepening your knowledge and understanding. Researchers believe it 
+disrupts the false sense of fluency that can develop when details and nuance 
+are forgotten in the learning process (Bjork, 2011). As you do so, resist early 
+temptations to come to a conclusion, instead allowing the information to 
+percolate in the hopes of making "higher order units, or 'chunks,' for con-
+ceiving, understanding, and organizing" (Miller et al., 2020, p. 27).
+JANICE AND THE GIANT OUTCOME GOAL
+As an example of applying the preceding exercises, consider Janice, a therapist 
+with about 7 years of clinical experience who worked in both inpatient and 
+outpatient mental health clinics. Once she had enough cases for a reliable, 
+evidence-based analysis of her clinical performance, she took up Exercise 3 
+(i.e., specifying the outcome goal). In an effort to identify the outcome goal 
+with the most leverage on improving her results, she created a spreadsheet 
+listing each client's data (i.e., outcome and relationship scores) and other 
+details. In a separate column, a distinction was drawn between those she treated 
+40 
+Chow, Miller, and Hubble
+successfully (reliable improvement) and unsuccessfully (lack of reliable change, 
+deteriorated, or dropped out after the first session). Next, with the spreadsheet 
+open on her computer, she started reviewing the progress notes of her closed 
+cases, "sorting for patterns."
+Four were immediately apparent. First, many of the clients Janice treated 
+unsuccessfully were originally seen in an inpatient context. Second, client 
+progress and the quality of the relationship as measured by the Session Rating 
+Scale (SRS) covaried. Specifically, SRS scores generally improved over time 
+for those in the successful group while remaining stable (whether beginning 
+high or low) among the unsuccessful. Third, no difference in initial SRS scores 
+was found between clients who made progress over the course of care and 
+dropped out, deteriorated, or did not improve. Janice knew this was a potential 
+target for DP, given evidence showing lower initial relationship ratings are 
+associated with better results at the end of treatment (Miller et al., 2020). 
+Fourth and finally, the modal number of sessions Janice had with clients was 1, 
+with 32% attending only a single visit.
+As a professional whose identity was closely tied to her commitment to 
+excellence, Janice's performance data evoked both anxiety and a strong sense 
+of inadequacy. On the recommendation of her supervisor/coach, she chose  
+to spend the next month engaging in Exercise 2 (i.e., recovering your "uni-
+versity days" mindset). While she was typically focused on achievement and 
+performance, she worked at being open to growth instead of just competence 
+(Chow, 2019b). Although the change in mindset did not come easily, spending 
+time with her performance data was what did the trick. She marveled at how 
+the routine administration of simple measures could reveal patterns that had, 
+despite her best intentions, eluded detection.
+Eager to begin actively taking steps to address the problems identified, she 
+returned to Exercise 3, determined to choose a single, committed outcome goal 
+on which to work. Once again, Janice found herself struggling. Turns out, 
+consultation with her supervisor/coach revealed the issue. It is a common one: 
+focusing on the "how" before being clear about and committed to the "what." 
+For example, given the various patterns her SRS data revealed, she decided to 
+work on developing skills related to eliciting more detailed, critical feedback 
+(TDPA Dimension 1A). She further concluded that adding more organization 
+and focus to her sessions (TDPA Dimension 1J) would improve results with 
+clients she initially met in an inpatient setting and treated for longer periods.
+Returning to her spreadsheet to revisit the patterns and choose a single, 
+committed outcome proved to be the solution. After recording the four patterns 
+in her journal, Janice spent a week thinking about the clients with whom she 
+had been unsuccessful, reviewing the case notes for each:
+* Clients starting in an inpatient context (
+~
+65%) routinely failed to follow 
+through with scheduled outpatient appointments.
+* Clients whose SRS scores did not improve over the course of care were 
+significantly more likely to end treatment with little or no improvement in 
+Outcome Rating Scale scores.
+Identifying and Refining Your Individualized Learning Objective
+ 41
+* Clients with high initial SRS scores were equally likely to end treatment 
+unsuccessfully as successfully.
+* Nearly a third of Janice's clients did not return following their first session.
+With help from her supervisor/coach, Janice chose what she believed would 
+be the easiest to address. In this instance, that "low-hanging fruit" was the 
+high number of unplanned terminations by clients first seen in an inpatient 
+setting. Stated specifically, her outcome goal was to reduce dropouts for clients 
+transitioning from inpatient to outpatient from 65% to 40%. The remaining 
+three performance concerns were labeled "aspirational" and set aside for 
+possible DP in the future.
+Exercise 4 came next--figuring out the process goal that would decrease the 
+dropout rate of inpatient clients. After watching video recordings of several 
+representative sessions together with her supervisor/coach, both agreed the 
+conversations conducted with hospitalized clients were more unfocused 
+than typical outpatient visits. Consistent with Janice's lower rating on TDPA 
+Dimension 3Ai (3/10), this led to the formulation of a process goal and learning 
+project organized around establishing and checking goal consensus in first 
+and later sessions. However, when Janice subsequently interviewed several 
+former clients, a different angle emerged. A number mentioned being surprised 
+by her questions about and characterization of not continuing with sessions 
+on an outpatient basis as "dropping out."
+Discussing her findings with her supervisor/coach, the two agreed hope 
+and expectancy factors were implicated, one element of which (TDPA Dimen-
+sion 2A & D regarding role induction, setting and monitoring client expectations, 
+and adapting the treatment rationale to foster engagement and hope) Janice 
+had also rated low (3/10) on her initial completion of the tool.
+Janice immediately went to work creating a learning project, taking time 
+to brainstorm, talk with colleagues, and research ideas related to operational-
+izing her process goal. Because she found clients frequently struggled to parlay 
+improvements made while in the hospital to their lives following discharge, 
+she created what she later termed her "safety-net" system. Introduced early 
+in care, it emphasized the critical role she would play and resources she 
+could bring to bear in supporting lasting change for the client. Appointment 
+reminders and help with arranging transportation to and from sessions were 
+two among the many aspects of the system specifically designed to reduce 
+dropouts.
+Together with her supervisor/coach, Janice continued to monitor her 
+performance data as she put her plans into action. Six months later, she was 
+disappointed when improvement in the percentage of clients failing to follow 
+through with posthospitalization outpatient sessions stalled at 50%. At one 
+point, she began actively considering replacing her committed outcome goals 
+with one of her remaining (three) aspirational goals. "Actually," she said, 
+"nearly all of the items on the TDPA are things I could work on and do better 
+at. How can I 
+not
+ try to improve on more of these?"
+42 
+Chow, Miller, and Hubble
+Completing the "antigoal" exercise (5) persuaded Janice to maintain her 
+current objective but reconsider her process goal. Addressing TDPA Factor 2 
+(hopes, expectations, and role) had resulted in a decline in dropouts, but she 
+was looking for more. Returning to recordings of her sessions and consulting 
+the therapy blueprint she had created at the outset of her foray into DP,  
+she noted the significant amount of time spent in initial visits conducting a 
+thorough psychosocial history. It was an activity that had been ingrained in 
+her clinical routine from her university days--and yet, she realized, the infor-
+mation gathered only rarely informed her work, delayed actively intervening 
+to help clients, and often resulted in lower levels of engagement.
+At this time, she ran across the book 
+The First Kiss
+ (Chow, 2018), which 
+focused on the importance of the initial therapeutic encounters. In place of 
+"taking" (paperwork, information gathering, long diagnostic workups), it encour-
+aged therapists "giving" to clients, taking full advantage of the change research 
+shows occurs early in treatment (Lutz et al., 2009, 2014). The same body of 
+evidence reviewed in the book showed traditional "intake" practices resulted 
+in higher dropout rates, slower progress, and more expensive care. It also iden-
+tified an alternative: 
+resource activation
+ (Gassmann & Grawe, 2006). Instead of 
+asking about the presenting problem, symptoms, and struggles, it involves 
+actively soliciting information about client capabilities, motivations, and existing 
+social support network.
+At this point, Janice made a conscious choice to change her process goal 
+from Items A and D on Dimension 2 (relationship factors) of the TDPA to 
+Dimension 4 (client factors), specifically, Item D, "incorporating your client's 
+strengths, abilities, and resources into care." In support of this new objective, 
+she sought out research, training materials, and consultation. After several 
+months, Janice's hard work began to pay off. Interestingly, her discontinuation 
+rates among those clients beginning care in an inpatient setting declined (from 
+50% to 18%), and the modal number of sessions she met with clients tripled 
+(from 1 to 3). As often happens, such improvements influenced other perfor-
+mance metrics, including a rise in Janice's overall effectiveness (i.e., effect size).
+FINAL CONSIDERATIONS
+Our empathic disposition primes us to zoom in on one person rather than 
+many. In so doing, developmental psychologist Paul Bloom (2016) argued, 
+we become biased by the spotlight effect, missing bigger patterns, the so-called 
+forest for the trees. The purpose of this chapter has been to marry our empathic 
+ability with the systematic approach needed for successful DP. Whatever one's 
+primary disposition, the process is hard work. Some suggestions born of 
+experience follow:
+* Unless your data indicate deficits in the structural domain of the TDPA, 
+limiting your process goals and learning project to mastering a specific theo-
+retical orientation is a mistake. Instead of aiming at "doing things right," 
+Identifying and Refining Your Individualized Learning Objective
+ 43
+focus on finding the "right thing" to improve your results. In other words, 
+keep your eyes on the outcome goal.
+* If the TDPA and OPL framework took you an hour or so to complete, it prob-
+ably isn't going to serve you well. More time--much more time--is required.
+* If your process goal feels easy, it's unlikely to stretch you sufficiently to 
+improve your performance.
+* If you are struggling with your process goal and learning project, your 
+outcome goal may be too vaguely defined or ambitious.
+* If your outcome goal is proving too difficult to achieve, designate it as 
+"aspirational" and move on.
+* If you find yourself losing track of what you were working on, consider 
+reviewing your journal (i.e., notes) more often and making your learning 
+project more visible.
+* If your learning project and process goal are not leading to improvement 
+in your outcome goal, consider the following:
+ - whether your process goal is clearly linked to your outcome goal
+ - allowing more time to pass before assessing results
+ - whether adequate effort has been devoted to your process goal and 
+learning project
+ - consulting a coach
+* Keep in mind that outcome goals do not always equate with improving or 
+learning therapy skills. A high "no-show" rate, for example, might best be 
+addressed by adopting an automated email or message reminder system 
+rather than new engagement techniques or abilities (Martin et al., 2015).
+DECISION POINT
+What to do next:
+*  If you have completed the TDPA and OPL framework and need guidance 
+developing an exercise for your specific objective, turn to
+- Chapter 3 for client factors
+- Chapter 4 for therapist factors
+- Chapter 5 for relationship factors
+- Chapter 6 for hope and expectancy factors
+- Chapter 7 for structure
+*  If you have used the TDPA to establish a specific, individualized learning 
+objective but are struggling to stay focused or motivated, turn to Chapter 8.
+44 
+Chow, Miller, and Hubble

@@ -1,0 +1,675 @@
+The Holistic Model of Stress
+Savoring Eustress While Coping With Distress
+
+Most employees have a love-hate relationship with work: A job often con-
+sists of a mixed bag of things we find both exciting and exhausting. For 
+example, the COVID-19 pandemic necessitated a switch to working remotely 
+for many employees around the globe, which often meant working from 
+home. As a result of this sudden transition, people experienced the uncer-
+tainty of learning new ways of communicating with team members and clients, 
+the fatigue of spending countless hours in online meetings, the anxiety of 
+being away from coworkers, and the frustration of not knowing when, or if, 
+there would ever be a return to the office. Simultaneously, this experience 
+brought the satisfaction of learning new skills, the freedom of spending more 
+time with friends and family, the meaningfulness of helping team members  
+or clients with challenges they were experiencing, and the hope of knowing 
+things would change again, even if they might never return to "normal." This 
+mix of positive and negative attitudes and emotions resulted from individual 
+interpretations of a single event. We found strategies to cope with the bad, 
+and we explored ways to enjoy and extend the good. Ultimately, many employees 
+experienced changes in their own work performance behaviors, and maybe 
+even their mental and physical health.
+Although quite a lot is known about distress, or the negative response to 
+stressors, as well as dysfunctional outcomes that typically follow from distress, 
+the positive outcomes that arise from stress at work merit increased attention. 
+The extension of the positive psychology movement into the realm of 
+occupational health psychology allows us to study the positive side of the 
+stress experience: eustress. We assert that the proper way to advance  
+the study of eustress is to add the positive aspect of the stress experience to 
+the well-developed psychology of disease and dysfunction. Thus, we propose 
+a holistic theoretical model that integrates our vast knowledge of negative 
+causes, consequences, and outcomes with current developments in stress 
+research and positive psychology. As shown in Figure 4.1, this conceptual 
+framework captures both positive (eustress) and negative (distress) psycho-
+logical responses to job demands. As an extension of Simmons and colleagues' 
+work on eustress (Nelson & Simmons, 2003; Simmons, 2000), the current 
+holistic model of stress draws upon the principles of the job demands-resource 
+(JD-R) theory (Demerouti et al., 2001) and emphasizes the role of person-
+environment (P-E) fit in distress and eustress responses (Edwards et al., 1998; 
+Kristof, 1996).
+The demands, distress response, coping, and outcomes portion of the model 
+are well known in the occupational stress literature, so they are discussed only 
+briefly. The unique aspects of this model--the demands, eustress, savoring, and 
+outcomes pathway--are the main focus of discussion. In particular, we explore 
+in detail the indicators of eustress and savoring of eustress. We close by consid-
+ering some of the methodological challenges in the study of eustress.
+THE CONCEPT OF EUSTRESS
+We believe that eustress can best be conceptualized as capturing the positive 
+aspects of the stress response itself. Building on Simmons and Nelson's (2007) 
+eustress model, our central tenets are as follows:
+* Demands/stressors are inherently neutral.
+* Demands are cognitively appraised to the degree to which they are both 
+challenging and hindering.
+* This cognitive appraisal produces a simultaneous positive and negative 
+response. It is this response that has positive and/or negative valence based 
+on the degree of attraction and/or aversion the individual experiences toward  
+the event or object.
+* Job resources, personal resources, and the match between a person and their 
+work environment each affect the ways in which demands are appraised; 
+therefore, they moderate the relationship between demands and appraisals.
+* Positive and negative responses are complex and mixed; therefore, they 
+manifest themselves in a variety of distinct physiological, psychological, 
+and behavioral indicators. Degrees of both positive and negative indica-
+tors of responses will be present for any given demand. (Note: Our model 
+does not focus on physiological indicators because they are less observable 
+by managers interacting with employees, and therefore are less subject to 
+The Holistic Model of Stress
+ 67
+Stressor/job demands
+* Role demands
+* Interpersonal demands
+* Physical demands
+* Workplace polices
+Demands/stressor
+Cognitive appraisal
+Job resources &
+personal resources
+*
+Person-environment fit
+Eustress
+* Engagement
+* Satisfaction
+* Commitment
+* Hope
+Distress
+* Burnout
+* Anxiety
+* Frustration
+* Job alienation 
+Response strategies
+Savoring 
+* Job crafting
+* Positive emotion regulation
+Coping
+* Preventive stress management
+* Emotion-focused
+Psychological response 
+state
+Job performance
+* Organizational 
+citizenship 
+behavior (OCB)/ 
+counterproductive 
+work behavior (CWB)
+Outcomes
+Challenge & 
+hindrance 
+appraisal
+* Well-being
+* Flourishing 
+* Withdrawal 
+FIGURE 4.1.
+ Holistic Model of Work Stress
+68 
+Simmons, Hanna, and Hu
+managerial intervention. Nonetheless, we acknowledge that these physio-
+logical indicators do exist and are experienced by employees.)
+* Individuals select strategies to either eliminate or alleviate negative responses 
+to demands (i.e., coping) and/or to accentuate or extend positive responses 
+(i.e., savoring). These strategies can be focused either on the perceived demand 
+or on the stress response.
+* Positive and negative responses differentially affect valued outcomes at work.
+Stressors
+The physical or psychological stimuli to which an individual responds are 
+commonly referred to as 
+stressors
+ or 
+demands
+. Stressors at work take the form 
+of role demands, interpersonal demands, physical demands, workplace poli-
+cies, and job conditions (Quick et al., 1997). Some of these demands will be 
+less salient for certain individuals while producing significant responses in 
+others. Because knowledge of demands has typically been embedded in the 
+pathological perspective of stress and health, some work refers to these demands 
+as 
+distressors
+. Other stress researchers have distinguished between 
+challenge 
+stressors
+ and 
+hindrance stressors
+, which place positive or negative valence on 
+both the demand and the response (Podsakoff et al., 2007). In this frame-
+work, hindrance stressors produce strain, as indicated by burnout, anxiety, 
+frustration, and exhaustion; but challenge stressors facilitate positive job atti-
+tudes like satisfaction and commitment. However, our model presents a 
+departure from these perspectives. We suggest that to be consistent with the 
+cognitive appraisal of 
+neutral
+ stressors, which provides the theoretical founda-
+tion of our model, the assignment of valence should be reserved for the indi-
+vidual stress 
+response
+ rather than the stressor.
+Our holistic approach to stress is squarely rooted in the transactional model 
+articulated by Lazarus and Folkman (1984) and further built upon by the more 
+recent JD-R theory (Demerouti et al., 2001). The transactional model of stress 
+suggests that stress can be conceived of as an imbalance between demands 
+and resources. Similarly, the JD-R theory proposes that different demands 
+interact with resources to produce an individual's level of well-being at work. 
+Following from these theories, we expect that most work situations simulta-
+neously elicit a mix of positive and negative responses in individuals as a 
+result of the individual's cognitive appraisal of a particular demand given their 
+particular set of resources.
+For example, a recently promoted individual should be expected to expe-
+rience joy and satisfaction associated with the recognition of achievement, as 
+well as excitement about the opportunity to pursue new goals and challenges 
+at work. At the same time, and as a result of the same situation, the individual 
+may also experience anxiety about moving to a new department away from 
+their usual coworkers or having to tell friends, family, and colleagues that the 
+new promotion involves relocation to another city. On the other hand, an 
+individual recently downsized out of a job can be expected to experience loss 
+The Holistic Model of Stress
+ 69
+and anxiety about having to find a new position. Yet at the same time, they may 
+feel relieved to be leaving a stressful job on a sinking ship or may see the job loss 
+as an opportunity to spend more coveted time with family.
+Indeed, empirical work supports the notion that stressors simultaneously 
+elicit positive and negative stress responses. For instance, one of the most 
+significant sources of stress for hospital nurses is the death of a patient (Gray-
+Toft & Anderson, 1981). It is easy to understand how the loss of a patient 
+could result in distress for a nurse; but along with that distress, the death of a 
+patient may also be appraised as positive. One study found that contrary to 
+expectations, the variable "death-dying" had a significant positive relation-
+ship with eustress and a nonsignificant relationship with distress. One inter-
+pretation of this finding was that when nurses were faced with the demand 
+of death-dying in their patients, they became significantly more engaged in 
+their work (Simmons, 2000).
+A meta-analysis of challenge stressors and hindrance stressors also reports 
+this pattern of simultaneous positive and negative responses (Podsakoff et al., 
+2007). Our model proposes that for any given demand, individual cognitive 
+appraisals will typically identify aspects of both challenges and hindrances. As 
+an illustration for a particular type of stressor, situational constraints will cer-
+tainly be appraised as a hindrance by most individuals. Yet individuals with a 
+positive core self-evaluation and access to other job resources might simulta-
+neously find a motivational challenge in the same constraint.
+Furthermore, workers can be engaged in their work and experience posi-
+tive benefits even when confronted with extremely demanding stressors.  
+A study of female and male soldiers participating in the U.S. peacekeeping 
+mission in Bosnia found that soldiers who were engaged in meaningful work 
+during the deployment found it to be a positive experience (Britt et al., 2001). 
+Even such an extreme factor as witnessing the destruction caused by warring 
+factions was associated with reporting positive benefits of the peacekeeping 
+mission. In this context, destruction was likely seen as justification for the 
+mission, which added meaning to the soldiers' work.
+Indicators of Eustress
+Positive and negative stress responses are separate, distinct, multidimensional, 
+and potentially interactive in nature. To assume the presence of the positive 
+by simply observing the absence of the negative, or vice versa, is an unaccept-
+ably simplistic approach to understanding the sources, responses, and conse-
+quences of stress. In other words, the full range of the stress response cannot be 
+appreciated without a strategy to assess eustress and distress concurrently. 
+Thus, each positive and negative stress response will have its own associated 
+indicators or subdimensions.
+Indicators of the stress response could be physiological, behavioral, or psy-
+chological, though our model focuses only on psychological indicators. As 
+Edwards and Cooper (1988) suggested, indicators of the positive response to 
+stressors will be positive psychological states, and indicators of the negative 
+70 
+Simmons, Hanna, and Hu
+response will be negative psychological states. Thus, consistent with the 
+holistic representation of stress, eustress can be operationally defined as  
+a positive psychological response to a stressor, as indicated by the presence 
+of positive psychological states; distress can be operationally defined as a 
+negative psychological response to a stressor, as indicated by the presence 
+of negative psychological states (Simmons, 2000).
+Because psychological states must be subject to change according to cognitive 
+appraisals of stressors, stable dispositional variables are not acceptable indicators 
+of eustress (or distress). Thus, work attitudes and emotions are preferable indi-
+cators. Specifically, attitudes and emotions such as positive affect, meaningful-
+ness, manageability, hope, and vigor may be good indicators of eustress 
+(Simmons, 2000; Simmons & Nelson, 2001; Simmons et al., 2001). For example, 
+positive affect reflects the extent to which a person feels enthusiastic, active, and 
+alert (Watson et al., 1988) and is associated with seeing opportunity in an issue 
+(Mittal & Ross, 1998), which could be an indicator of eustress following expo-
+sure to an event. Likewise, manageability is the extent to which a person per-
+ceives that resources at their disposal are adequate to meet the demands posed 
+by a work situation (Simmons, 2000), which corresponds to a positive evalua-
+tion of that situation.
+Although conceptually distinct, these constructs all represent aspects of 
+engagement, which itself includes another promising indicator of eustress. 
+Job engagement is the simultaneous investment of cognitive, emotional, and 
+physical presence into performing a work role (Kahn, 1990). Example items 
+from Rich et al.'s (2010) measure of job engagement include: "At work,  
+I focus a great deal of attention on my job" (cognitive), "I feel energetic at my 
+job" (emotional), and "I try my hardest to perform well on my job" (physical). 
+Antecedents of engagement include core self-evaluation, perceived organiza-
+tional support, and value congruence (an aspect of P-E fit); and engagement 
+predicts job performance and organizational citizenship behavior (Rich et al., 
+2010). Our model suggests that individual differences, job resources, and P-E 
+fit moderate the relationship between challenge and hindrance stressors and 
+cognitive appraisals of those stressors; thus, due to similar linkages, engage-
+ment likely plays a role in the stress process as well.
+STRESS AND HEALTH
+There is substantial evidence of the links between distress and ill health 
+(O'Connor et al., 2021; Quick et al., 1997). Conversely, research evidence 
+concerning eustress suggests that the positive stress experience can have 
+ben-
+eficial
+ effects on health (Kupriyanov & Zhdanov, 2014). One review of the 
+literature stated that "positive emotional states may promote healthy percep-
+tions, beliefs, and physical well-being" (Salovey et al., 2000, p. 110). Like-
+wise, after reviewing a variety of empirical findings, Edwards and Cooper 
+(1988) found that the majority of evidence suggests a positive effect of eustress 
+on health. The authors speculated that eustress may either improve health 
+The Holistic Model of Stress
+ 71
+directly through physiological changes or indirectly by reducing existing dis-
+tress. More recently, Parker and Ragsdale (2015) found that within persons, 
+employees' experiences of distress predicted higher fatigue both in the morning 
+and later in the workday, whereas two indicators of eustress--happiness and 
+meaningfulness--predicted lower fatigue at both times of day. These results 
+suggest differential effects of experiencing distress versus eustress: eustress may 
+replenish energy (Zohar et al., 2003) and may directly improve self-efficacy, 
+which in turn helps develop a range of positive resources and better health 
+experiences (Gross et al., 2011).
+Several empirical studies hypothesized that, in response to demands, hos-
+pital nurses would experience significant levels of both eustress and distress, 
+and each stress response would have a separate effect on the nurses' percep-
+tions of their health (Salovey et al., 2000). As hypothesized, even in the pres-
+ence of a demanding work environment, nurses were actively engaged in 
+their work and reported significant levels of eustress, and eustress in turn had 
+a significant positive relationship with perceptions of their own health. 
+Among all indicators of eustress, hope exhibited the strongest positive rela-
+tionship with the nurses' perception of health. In addition to being healthy 
+and productive themselves, eustressed nurses may have an increasingly posi-
+tive effect on the health of patients by inspiring optimistic expectations and 
+raising patients' levels of hope (Salovey et al., 2000).
+Outside of the profession of nursing, it is likely that eustress has positive 
+implications for the health of employees as well. Future research should con-
+tinue to investigate the adaptive capacity of eustress for positive health out-
+comes and subjective well-being (Kupriyanov & Zhdanov, 2014). In doing so, 
+organizations can not only learn about the positive implications of eustress in 
+their employees but also engage in practices to promote and extend experi-
+ences of positive stress in the workplace.
+MANAGING EUSTRESS AND DISTRESS
+The research literature on work stress has focused strongly on pathology and on 
+healing the wounded. The importance of this venture cannot be denied. Much 
+has been learned about stressors, coping, and symptoms of distress, and great 
+strides have been made in assisting both individuals and organizations in man-
+aging distress. These milestones, however, represent only half the battle. As a 
+complement to healing the wounded, we must also find ways of building and 
+capitalizing on strengths. Distress prevention and eustress generation together 
+provide a more holistic framework for managing occupational health issues.
+Distress Prevention
+One framework that allows for a comprehensive gathering of distress-focused 
+interventions is preventive stress management, as originally proposed by Quick 
+and Quick (1984) and elaborated on by Quick et al. (1997). Central to this 
+72 
+Simmons, Hanna, and Hu
+philosophy is the idea that stress is inevitable but distress is not. Rooted in a 
+public health framework, the three levels of preventive stress management are 
+primary prevention, secondary prevention, and tertiary prevention.
+Primary prevention is intended to reduce, change, or eliminate stressors 
+and often includes job redesign or time management efforts. Karasek's (1979) 
+job strain model, for example, indicates that it is possible to increase the demand 
+level of a job without making it distressful, so long as job discretion is also 
+increased. Beyond job redesign, primary prevention strategies also involve 
+efforts to change individual perceptions of stressors, such as cognitive restruc-
+turing and learned optimism that alter a person's internal self-talk.
+When stressors cannot be eliminated through primary prevention, secondary 
+prevention efforts are focused on modifying responses to stressors. For example, 
+exercise, meditation, and other forms of relaxation and nutrition practices all 
+focus on lowering the risk of disease following exposure to stressors. Notable  
+among secondary prevention efforts is the work of Pennebaker and colleagues 
+(e.g., Smyth & Pennebaker, 2001), which demonstrates the psychological and 
+somatic health benefits of writing about traumatic events and stressors.
+Finally, tertiary prevention is the most direct form of healing the wounds of 
+distress once strains have developed over time. Specifically, tertiary prevention 
+consists of professional help (e.g., counseling, physical therapy, medical treat-
+ment) for symptoms of distress. Organizational efforts of tertiary prevention are 
+often facilitated by employee assistance programs.
+Eustress Generation
+Overall, we can tell individuals and organizations a great deal about how to 
+prevent or resolve distress. While coping consists of voluntary self-regulation 
+processes that individuals engage in as part of their reactions to distress, the 
+positive counterpart to coping--
+savoring
+--involves enjoying the positive 
+response to stress and dwelling on it with satisfaction or delight (Nelson & 
+Simmons, 2004). As a complement to preventing and coping with distress, 
+our next task, and a formidable one, is to learn how to help individuals and 
+organizations generate eustress and reap the resulting benefits of increased 
+health, well-being, and performance.
+JD-R theory suggests that job conditions can be characterized as either job 
+demands or resources, and each triggers a unique psychological process 
+(Demerouti et al., 2001). Job demands impose energy costs or depletion and 
+have been found to be the strongest predictors of distress. In contrast, job and 
+personal resources are associated with motivational processes that promote 
+engagement (an indicator of eustress) and well-being (Bakker & Demerouti, 
+2014), in addition to functioning as a buffer against the strain caused by 
+demands. Said differently, high demands combined with low resources are a 
+perfect recipe for distress, whereas high demands and high resources generate 
+higher motivation (Demerouti & Bakker, 2011). Managers interested in eustress 
+generation might start by identifying aspects of the work that help employees 
+reserve and expand resources. Two popular concepts in positive psychology, 
+The Holistic Model of Stress
+ 73
+job crafting and positive emotion regulation, may be effective self-regulatory 
+strategies for countering distressful demands and developing job and personal 
+resources.
+Job Crafting
+According to JD-R, employees do not simply react to their environment and 
+play defense to cope with stressful situations. Instead, they can proactively 
+make changes and alter various elements of work with an aim to increase the 
+fit between work demands and their individual needs and capabilities (Berg 
+et al., 2008). This bottom-up, individual job redesign strategy is referred to as 
+job crafting
+ (Wrzesniewski & Dutton, 2001).
+Job crafting is resource expansion-oriented and can focus on either job 
+demands or resources. Specifically, seeking resources (e.g., asking for feed-
+back, increasing job autonomy, learning new skills, building social networks), 
+seeking challenges (e.g., asking for extra responsibility, taking on challenging 
+tasks), and optimizing demands (e.g., active improvement of work processes 
+for better efficiency; planning and prioritization) are all forms of job crafting 
+(Costantini et al., 2021; Demerouti & Peeters, 2018). These proactive efforts 
+help employees build job and personal resources and optimize resource mobi-
+lization (Demerouti et al., 2015).
+Job crafting leads to the accumulation of job and personal resources, which 
+in turn helps enhance eustress in two ways. First, it serves an intrinsic motiva-
+tional role and fulfills the basic human need for conserving and expanding 
+valuable resources (Hobfoll, 2001). Second, this resource expansion plays an 
+instrumental role in facilitating work task completion (Bakker & Demerouti, 
+2017). Proactive job crafters are found to be more confident and creative in 
+finding innovative ways to solve problems (Petrou et al., 2012). A longitudinal 
+study by Vogt and colleagues (2016) found that resource-expansion behaviors 
+such as job crafting have direct positive effects on individuals' psychological 
+capital (hope, resilience, self-efficacy, and optimism), which in turn improves 
+work engagement (an indicator of eustress). As a whole, job crafting is a useful 
+self-regulatory strategy for employees to proactively create resourceful work 
+conditions to stay stimulated and thrive. Employees engaged in job crafting 
+behaviors are likely to be more engaged, satisfied, resilient, and thriving at work 
+(Berg et al., 2008).
+Nonetheless, not all jobs provide opportunities to engage in job crafting. In 
+jobs that do not have a high degree of autonomy or control, organizations can 
+still help facilitate individuals savor the positive response to stress. Eustress 
+recognition and interest in eustress generation will always be individualistic, but 
+organizations can teach employees to recognize positive responses to stress and 
+engage in practices to extend these experiences to capitalize on their potential 
+health benefits.
+Positive Emotion Regulation
+Emotion plays an integral role in stress experiences. Stressful events elicit 
+complex emotional responses that involve negative and positive emotions 
+74 
+Simmons, Hanna, and Hu
+(Folkman & Moskowitz, 2000) and both types of emotions play significant 
+functional roles (Fredrickson, 1998). Negative emotions tend to trigger nar-
+rowly focused action, whereas positive emotions foster cognitive and psycho-
+logical flexibility and facilitate generativity, higher level connectivity, and 
+exploration (Fredrickson, 1998). These emotional effects have significant impli-
+cations for personal resource development and eustress generation. Empirical 
+findings show that there is a direct link between the effects of positive  
+emotions that accumulate and compound over time and sustained psycho-
+logical resilience (an enduring personal resource) and human flourishing  
+(Fredrickson, 2004).
+Depending on the emotion strategy employed in the stress response, there 
+could be two resulting paths: negative emotional experiences, which represent 
+an energy and resource depletion path of distress; or positive emotional experi-
+ences, which represent a resource development path of eustress (Quinones 
+et al., 2017). Cultivating positive emotions through an emotion regulatory 
+approach can be instrumental to effective stress management. Emotion regula-
+tory behaviors have been known to help people sustain and maintain positive 
+emotional experiences that are beneficial to well-being (Bryant, 2003), so emo-
+tion regulation can play an important role in 
+savoring
+, or extending, eustress. 
+Commonly recommended regulatory strategies include positive reappraisal 
+(also known as deep acting) and infusing ordinary events with positive meaning 
+(for a detailed review, see Folkman & Moskowitz, 2000). These cognitive and 
+behavioral tools help maintain, prolong, and enhance positive emotion experi-
+ences, which in turn expand attention scopes, foster creative thinking, build 
+enduring and vital psychological resources (e.g., efficacy, optimism, resilience), 
+and ultimately promote eustress over time (Aspinwall, 1998, 2001).
+THE MULTIFACETED ROLE OF PERSON-ENVIRONMENT FIT IN THE 
+
+STRESS PROCESS
+P-E fit describes the match between a person's attributes and those of an envi-
+ronment (Kristof-Brown et al., 2005). P-E fit can include many different indi-
+vidual attributes, including biological and psychological needs, personality 
+traits, vocational interests, values, goals, and abilities (Cable & Edwards, 2004; 
+Kristof, 1996). We posit that P-E fit plays a unique and multifaceted role in 
+the holistic model of stress in that it may take on the role of a stressor, an 
+individual difference, or a facilitator of coping and/or savoring.
+First, P-E fit has typically been included in the stress literature as a poten-
+tial stressor. Theories of fit describe an 
+adjustment process
+ in which individuals 
+should increase their fit with their work environment over time (Dawis & 
+Lofquist, 1984; French et al., 1974), and this process is often driven by nega-
+tive stress experiences as a result of misfit (Caplan, 1987; Edwards et al., 
+1998). Specifically, when individuals are in environments that do not fit their 
+values, interests, personality, abilities, or other needs, this misfit tends to pro-
+duce stress. As a result, individuals will consciously or unconsciously undergo 
+The Holistic Model of Stress
+ 75
+efforts to alleviate that stress (i.e., engage in coping) by changing their own 
+attributes, changing their environment, or both (Caplan, 1987; French et al., 
+1974; Frese, 1982; Schneider, 1987).
+Importantly, fit theories do not explicitly distinguish between distress and 
+eustress, but misfit is often construed as undesirable, and adjustment processes 
+typically refer to coping rather than savoring (Le Fevre et al., 2003). However, 
+in light of the holistic model of stress (Figure 4.1), we propose that there are 
+interesting opportunities to empirically examine misfit as a neutral stressor 
+that may elicit distress, eustress, or both. For example, misfit may be in the 
+form of either 
+excess
+ (i.e., the environment provides more of an attribute than 
+the individual has or needs) or 
+deficiency
+ (i.e., the environment provides less 
+of an attribute than the individual has or needs; Edwards & Parry, 1993; Wiegand 
+et al., 2021). Previous research (e.g., Wiegand et al., 2021) has demonstrated 
+that differential effects can result from different types of misfit: for example, 
+outcomes like job satisfaction differ when people's interests are met and 
+exceeded by their job, rather than under-supplied. These findings suggest that 
+misfit may produce distress or eustress, depending on excess or deficiency. Like-
+wise, when the demands of a job exceed a person's abilities, this may cause 
+distress for the individual; on the other hand, when the person's abilities exceed 
+the demands of their job, this may lead to eustress (Le Fevre et al., 2003).
+Misfit may also simultaneously elicit distress and eustress. For instance,  
+a person who values profits and success may experience misfit with an orga-
+nization that donates a portion of their profits to environmental causes. That 
+person may interpret this value misfit as both a hindrance (e.g., "My organi-
+zation makes decisions that I do not agree with.") and a challenge (e.g.,  
+"I should be more sensitive to prosocial causes, such as saving the environ-
+ment"). Based on each of these possibilities, researchers should empirically 
+test both eustress and distress following experiences of misfit, rather than 
+assuming that misfit will elicit negative responses.
+In addition to P-E fit as a stressor, we propose that fit may also serve as an 
+individual difference that predisposes a person to experience eustress or dis-
+tress in the face of other stressors. Various types of P-E fit are important pre-
+dictors of outcomes such as work attitudes (Hoff et al., 2020; Kristof-Brown 
+et al., 2005), job performance (Nye et al., 2012, 2017), and turnover inten-
+tions (Kristof-Brown et al., 2005; Vancouver & Schmitt, 1991). As a result of 
+these links, a person who "matches" their organization and job may be pre-
+disposed to view stressors as motivational challenges that elicit eustress 
+responses, whereas a misfitting individual may be more likely to experience 
+distress. For example, a person who works in a job that matches their inter-
+ests may be more likely to be satisfied in that job and perform well (Hoff et al., 
+2020; Nye et al., 2012, 2017). If that person encounters stressors such as work 
+overload or team pressures, they may view these stressors as opportunities to 
+challenge themselves and perform at their best, whereas a person working in 
+a job that does not match their interests may be more distressed as a result of 
+those same demands. Despite its potential as a predisposition to stress responses, 
+little empirical work has examined P-E fit as a moderator between exposure 
+76 
+Simmons, Hanna, and Hu
+to stressors and experiences of distress and eustress. Similar to research on 
+predispositions such as optimism (Peterson, 2000; Scheier & Carver, 1992) and 
+hardiness (Florian et al., 1995; Kobasa et al., 1982), more research is needed 
+to examine fit as a relevant individual difference characteristic following expo-
+sure to a stressor.
+P-E fit may also facilitate coping and/or savoring, which can affect the link 
+between stress and various work outcomes. One study that tested P-E fit as a 
+moderator of the relationship between stress responses and work outcomes 
+found that fit can serve as a buffer to reduce the negative effects of distress 
+(Chu, 2014). Specifically, perceptions of distress in a sample of nurses were 
+positively related to work-family conflict and negatively related to mental 
+health, but these relationships were weaker for nurses who had better P-E fit 
+with their jobs. In other words, for individuals with good fit, there was still 
+some level of perceived distress, but this distress had fewer negative down-
+stream effects than it did for individuals with poor fit.
+Aside from these findings, it is largely unknown how P-E fit can be used to 
+strengthen coping and savoring processes. Because of adjustment processes in 
+which individuals may strengthen their fit with their job and organization 
+(Caplan, 1987; French et al., 1974; Frese, 1982; Schneider, 1987), there is 
+certainly potential for these processes to involve coping and savoring in response 
+to other stressors as well. As described earlier, one mechanism through which 
+individuals may cope with misfit by changing their environment is job crafting 
+(Tims et al., 2013). Given enough autonomy, individuals may actively work 
+to change aspects of their job to help align their work environment with 
+their own attributes (Li et al., 2022). In doing so, individuals may simulta-
+neously engage in active coping strategies that relieve or enhance other 
+stressors. For instance, by changing how a workday is structured, an employee 
+may both increase demands-abilities fit (i.e., the match between employees' 
+abilities and the demands of their job; Kristof, 1996) and reduce role demands 
+that were causing distress. Future research can further explore the possible 
+role of P-E fit in facilitating such coping or savoring processes, as well as 
+potential applications of fit in workshops designed to teach coping and savoring 
+strategies.
+METHODOLOGICAL CHALLENGES IN THE STUDY OF EUSTRESS
+There are a number of methodological considerations in the stress literature, 
+particularly when studying the positive experiences of eustress and savoring. 
+First, an important consideration deals with the valence of psychological 
+states and the need to conceptualize different valences on separate contin-
+uums, rather than bipolar ends of the same spectrum (e.g., positive affect vs. 
+negative affect; Russell & Carroll, 1999). Likewise, one of the most promi-
+nent methodological challenges is that few measures are explicitly designed  
+to capture the experience of eustress (Branson et  al., 2019; Rodriguez 
+et al., 2013). Because a person may experience a single stressor as both a 
+The Holistic Model of Stress
+ 77
+positive challenge and a negative demand (Lazarus & Folkman, 1984; Van den 
+Broeck et  al., 2010), measures including items that address positive stress 
+experiences are necessary. These measures allow for the evaluation of simul-
+taneous experiences of distress and eustress following exposure to a neutral 
+stressor, rather than treating eustress as the 
+opposite
+ of distress. Due to the lack 
+of currently available measures, some researchers have undertaken efforts to 
+develop their own measures with items designed for a particular study's goals 
+(e.g., Cavanaugh et al., 2000; O'Sullivan, 2011). Nonetheless, more research on 
+these measures is needed to advance the study of eustress and savoring, as well 
+as more efforts to develop validated measures with high degrees of reliability.
+Alternatively, factor analytic techniques may be used to conceptualize 
+eustress as a higher order construct defined by other existing constructs such 
+as hope, meaningfulness, vigor, and manageability (Simmons, 2000). This 
+conceptualization via established, lower order constructs treats the higher 
+order construct of eustress at a higher level of abstraction than the lower sub-
+dimension constructs (Crede & Harms, 2015; Sarstedt et  al., 2019). This 
+approach may complicate the construct validity regarding the definition of 
+eustress and whether the measures truly reflect the construct as defined 
+(Johnson et al., 2011). For example, whether eustress should be considered 
+as more abstract than concepts like hope and vigor is a theoretical question. 
+Higher order constructs are typically proposed because there is observed 
+covariation among several existing constructs (Crede & Harms, 2015), rather 
+than imposing a higher order factor analytic model to capture a construct that 
+already exists on its own, such as eustress.
+The use of higher order factor analysis also presents its own methodological 
+challenges. Due to the complexity of such a model, researchers may experience 
+convergence issues, and large samples are needed to test such models. As 
+opposed to a direct measure of eustress, this method also requires empirical 
+measurement of all indicator variables, which can induce survey fatigue due 
+to the high number of items (Le et al., 2021).
+Nonetheless, higher order factor analysis is a preferable method to concep-
+tualize eustress compared with using a measure designed to assess distress, and 
+this approach offers several advantages. For instance, building higher order, 
+multidimensional constructs capitalizes on the bandwidth-fidelity argument 
+that broader constructs are better predictors of other broad, multidimensional 
+constructs (Jenkins & Griffith, 2004; Johnson et al., 2011). Additionally, when 
+a set of variables all predict similar outcomes, it is more parsimonious to examine 
+their common variance, which is captured by the higher order construct (Crede 
+& Harms, 2015; Johnson et al., 2011).
+Researchers choosing to conceptualize eustress as a higher order latent 
+factor should follow recommendations to improve the construct validity and 
+criterion-related validity of eustress, such as those outlined by Johnson and 
+colleagues (2011): utilization of explicit inclusion criteria for the lower order 
+factors (e.g., theoretical reasoning, a priori empirical factor loading cutoffs),  
+a priori specification of the nature of the relations between the lower order con-
+structs and the higher order eustress construct, ruling out potential alternative 
+78 
+Simmons, Hanna, and Hu
+explanations for the emergence of eustress as the source of shared variance 
+among the indicators (e.g., common method variance; Podsakoff et al., 2003), 
+and demonstrating increased incremental prediction of outcomes from eustress 
+compared with the lower order factors. Other such recommendations are 
+presented by Crede and Harms (2015). Additionally, as more validated measures 
+of eustress emerge, there will be interesting opportunities to explore com-
+peting models in which other psychological states are used as predictors of 
+eustress, compared to indicators that define eustress.
+Whether higher order factor analysis or an explicit, direct measure of 
+eustress is used, it is important to conceptualize eustress as a psychological 
+state that is experienced in a given moment as the result of a particular event. 
+To capture in-the-moment psychological experiences, studies of eustress 
+should ideally avoid cross-sectional designs. Experience sampling method-
+ology, for example, provides an intriguing lens for studying stressors, eustress, 
+and savoring as employees experience them at work (Rodell & Judge, 2009). 
+Alternatively, field experiments could be used to study the causal mechanisms 
+driving simultaneous experiences of distress and eustress, and longitudinal 
+studies can track coping and savoring processes over time.
+Along similar lines, interventions designed to promote primary eustress 
+generation may also take the form of field experiments that include pre- and 
+posttests with a control group to compare positive stress experiences before 
+and after exposure to a stimulus. Otherwise, researchers may choose a longi-
+tudinal framework to understand how an intervention takes effect over time. 
+These methods can help rule out threats to valid inferences, such as the 
+Hawthorne effect (i.e., employees demonstrate positive psychological states 
+simply because there are changes being made to their environment and work 
+conditions, rather than states caused by the intervention). It is also possible 
+that employees may experience something similar to a hedonic treadmill 
+effect, in which there is an initial increase in eustress following an intervention, 
+but over time employees return to their baseline psychological state and do 
+not engage in savoring processes. For these reasons, longitudinal follow-ups 
+are highly encouraged to understand the maintenance and longevity of effects 
+from primary eustress generation efforts.
+Finally, savoring, or the positive counterpart to coping, is a dynamic pro-
+cess that should unfold over time (see Figure 4.1). After an individual encoun-
+ters a neutral stressor, that individual may experience eustress, distress, or 
+both. Following an experience of eustress, the individual can savor and enjoy 
+the positive experience of stress and may purposefully attempt to make that 
+positive experience last longer (Nelson & Simmons, 2004; Peterson, 2006). 
+Thus, savoring involves some level of self-awareness in order to understand 
+that one is experiencing eustress. Individuals may lack this self-awareness or 
+self-insight (Reilly & Doherty, 1989), in which case savoring will be difficult 
+to measure, as well as difficult to train or enhance. This may be particularly true 
+in cases when an individual simultaneously experiences eustress and distress, in 
+which case the distress may be more salient due to its negative valence (Kanar 
+et al., 2010). Researchers can develop interventions and training programs 
+The Holistic Model of Stress
+ 79
+designed to teach employees how to recognize times in which they experi-
+ence positive states of stress, the beneficial results that may arise from these 
+experiences, and methods to savor those experiences to increase the likeli-
+hood of subsequent positive outcomes.
+CONCLUSION
+In conclusion, the holistic model of work stress presented here offers employees 
+and organizations a framework to better understand how demands and stressors 
+affect health and performance in the workplace. In line with the principles 
+articulated by the JD-R model (Demerouti et al., 2001), distress and eustress 
+capture the dual pathways of employees' stress experiences. Organizations can 
+play a significant role in providing meaningful resources and helping employees 
+build resilience in the face of challenges, particularly through facilitation of job 
+crafting opportunities, providing training on emotion regulation and savoring, 
+and promoting cultures of positive P-E fit through recruitment, hiring, and 
+employee development initiatives (Hargrove et al., 2015).
+As a result of these efforts, employees' stress response strategies of savoring 
+eustress and coping with distress can manifest in employee outcomes that 
+matter and result in sustained competitive advantage for organizations. 
+Thus, a wide variety of outcomes may be further investigated in future work, 
+including employees' positive and negative evaluations and feelings about 
+their work (Warr, 2013), consistent and sustained levels of employee job 
+performance following coping and savoring (Hargrove et al., 2015), reduc-
+tions in employee withdrawal behaviors and eventual turnover, employees' 
+organizational citizenship behaviors, and long-term experiences of subjective 
+well-being and health implications following stress responses (Kupriyanov & 
+Zhdanov, 2014).

@@ -52,3 +52,11 @@ export interface TextInputProps {
 	handleChange: React.Dispatch<React.SetStateAction<string>>;
 	name: string;
 }
+
+export interface ButtonProps {
+	handleClick?: MouseEventHandler<HTMLButtonElement>;
+	text: string;
+	disabled?: boolean;
+	secondary?: boolean;
+	primary?: boolean;
+}

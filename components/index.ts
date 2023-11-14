@@ -9,6 +9,8 @@ import ConditionInput from "./FormComponents/ConditionInput";
 import DescriptionInput from "./FormComponents/DescriptionInput";
 import GoalsInput from "./FormComponents/GoalsInput";
 import TextInput from "./FormComponents/TextInput";
+import Button from "./FormComponents/Button";
+import LoaderBig from "./LoaderBig";
 
 export {
 	AiQuery,
@@ -21,5 +23,7 @@ export {
 	ConditionInput,
 	DescriptionInput,
 	GoalsInput,
-	TextInput
+	TextInput,
+	Button,
+	LoaderBig
 };

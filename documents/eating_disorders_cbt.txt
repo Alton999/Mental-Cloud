@@ -1,0 +1,1091 @@
+5
+
+Eating Disorders
+
+Cognitive behavioral therapy (CBT), as applied to eating disorders, is based 
+on Beck et al.'s (1979) conceptualization of CBT as "an active, directive, 
+time limited, structured approach used to treat a variety of psychiatric disor-
+ders" (p. 3). Just a couple of years later, Fairburn (1981) adapted the approach 
+for the treatment of bulimia nervosa (BN), and later for binge-eating disorder 
+(BED; Fairburn et al., 1993). The core of this treatment has endured as the 
+front-line approach for BN and BED. Arguably, anorexia nervosa (AN) has 
+been the subject of more popular interest than BN and BED, and the focus of 
+its treatment was originally psychodynamic (Bruch, 1970). CBT is also now a 
+recommended treatment for AN in adults, but the evidence for its efficacy for 
+this disorder, as we review later in the chapter, is inconsistent.
+1
+BN is characterized by repeated episodes of consuming objectively large 
+amounts of food within a limited time frame paired with feeling a loss of con-
+trol. Additionally, the use of compensatory behaviors intended to prevent 
+weight gain, such as laxative use, self-induced vomiting, and compulsive exer-
+cise are employed (Lampard & Sharbanee, 2015). BN was first clinically 
+described as we currently recognize it in 1979 by British psychiatrist Gerald 
+Russell. Dr. Russell was treating patients with AN when he began seeing 
+patients with "powerful and irresistible urges to overeat" in addition to an 
+extreme fear of becoming fat (Castillo & Weiselberg, 2017, p. 85). Dr. Russell 
+categorized these particular patients as being in a "chronic phase of anorexia 
+nervosa" with a poorer prognosis, more resistance to treatment, and dangerous 
+1
+Clinical examples are disguised to protect patient confidentiality.
+Handbook of Cognitive Behavioral Therapy: Applications
+, edited by A. Wenzel
+Copyright (c) 2021 American Psychological Association. All rights reserved.
+150 Ruggieri, McCuen-Wurst, and Allison
+physical comorbidities (Castillo & Weiselberg, 2017, p. 85). Dr. Russell later 
+retracted this statement, stating that individuals diagnosed with BN had a more 
+favorable prognosis compared with individuals with AN. He also recognized BN 
+and AN as separate eating disorders (Castillo & Weiselberg, 2017). The lifetime 
+prevalence of BN is 0.28%, with an estimate of 0.5% in women and 0.15% in 
+men, using the 
+DSM-5
+ criteria among a nationally representative sample in the 
+United States (Udo & Grilo, 2018). By comparison, the lifetime prevalence of 
+AN is 0.8% overall, with 1.4% among women and 0.1% among men (Udo & 
+Grilo, 2018).
+Purging disorder is similar to BN, except that the meals prompting the inap-
+propriate compensatory behaviors are not "objectively large." Instead, persons 
+with purging disorder vomit, use laxatives, or use diuretics after eating a meal 
+or a snack (Keel, 2007). These behaviors are still quite serious, even without 
+including the objectively large amount of food in the criterion. The prevalence 
+of purging disorder is estimated between 1.1% to 5.3% among women, with 
+no estimates among men (Keel, 2007). Development of treatments are still 
+underway for purging disorder, so the same CBT approach for BN that is dis-
+cussed below is typically applied.
+BED is also characterized by recurrent episodes of consuming an objectively 
+large amount of food in a short period of time paired with a feeling of loss of 
+control. During binge episodes of overeating, individuals often eat much more 
+rapidly than normal, eat until uncomfortably full, consume a large amount of 
+food even when not physically hungry, eat alone due to embarrassment related 
+to the amount of food consumed, and feel disgusted, depressed, or guilty after 
+these episodes. However, unlike those with BN, those with BED do not use 
+compensatory behaviors (American Psychiatric Association [APA], 2013). BED 
+was first identified by Dr. Albert Stunkard (1959), who later worked with oth-
+ers to establish the first diagnostic criteria for the disorder (Spitzer et al., 1993). 
+Although the disorder was previously identified as an "Eating Disorder Not 
+Otherwise Specified," it was characterized as its own disorder in the 
+DSM-5
+ in 
+2013 (APA, 2013).
+AN is characterized by extreme food restriction that leads to a significantly 
+low body weight. Typically, persons with AN develop very strict rules about 
+what, when, and how much of any specific food they allow themselves to con-
+sume. There is no specific diagnostic cutoff for body mass index (BMI) or per-
+cent of expected weight in the 
+DSM-5 
+criteria, but mild AN would be specified 
+by a BMI of 17.00 kg/m
+2
+ or higher, moderate would be 16.00-16.99 kg/m
+2
+, 
+severe would be 15.00-15.99 kg/m
+2
+, and extreme would be a BMI below 
+15 kg/m
+2
+ (APA, 2013). For an individual who is 5 ft 5 in., this would translate 
+into weights of >= 103 lb for mild, between 96 and 102 lb for moderate, between 
+90 and 95 lb for severe, and <= 89 lb for extreme. Individuals with AN have a 
+strong fear of weight gain or becoming fat. They also place a very high value on 
+their shape and weight for self-evaluation, accompanied by very little insight 
+into their actual shape and size and the seriousness of their low weight as it 
+relates to their medical, psychological, and social well-being. There is a restrict-
+Eating Disorders 151
+ing type and a binge-purge type, where persons restrict most of the time but 
+also have periodic binge-purge episodes. If all the criteria for AN are met, a 
+diagnosis of AN will override a diagnosis of BN, BED, or purging disorder.
+Night-eating syndrome (NES) consists of a delayed pattern of eating, such 
+that individuals consume at least 25% of their intake after the evening meal, 
+and/or they wake during the night to eat at least twice per week (Allison, 
+Lundgren, O'Reardon, et al., 2010). Persons with NES are aware of their night-
+time eating; if they are sleepwalking and eating or have very limited awareness, 
+it would be considered sleep-related eating disorder (SRED), which is a para-
+somnia (American Academy of Sleep Medicine, 2014). The diagnostic criteria 
+indicate three of the following features should also be present: (a) lack of appe-
+tite in the morning/skipping breakfast more than half the time; (b) a strong 
+desire to eat between dinner and bedtime; (c) initial onset or middle insomnia 
+at least half the time; (d) the belief that one must eat to fall (back) asleep; and 
+(e) low mood or worsening mood as the day progresses. Distress regarding this 
+behavior should also be present. Although NES can be diagnosed comorbidly 
+with the other eating disorders, careful consideration of other primary causes 
+should be determined, such as medications (i.e., sleep agents such as zolpidem) 
+or other causes of insomnia. Prevalence of NES is estimated at 4.6% in men and 
+3.4% in women among participants in the Swedish Twin Registry (Tholin et al., 
+2009), and 3.8% of men and 4.3% of women among a U.S. university sample 
+(Runfola et al., 2014).
+BULIMIA NERVOSA
+
+Underlying Theory
+We start with BN because its treatment serves as the foundation of CBT for all 
+of the eating disorders. The cognitive behavioral theory posits that the core 
+psychopathology of BN is related to overvaluation of shape and weight, or 
+judging one's self-worth mostly by weight and body shape, thus ignoring per-
+ceived performance in other domains of life (Cooper & Fairburn, 2011; DuBois 
+et al., 2017). In turn, overvaluation of shape and weight can result in dietary 
+restraint and restriction, body checking, and preoccupation with thoughts 
+about shape and weight (Cooper & Fairburn, 2011). Individuals with BN tend 
+to marginalize other areas of their lives due to this focus, which becomes a los-
+ing proposition given that controlling one's weight and shape completely is 
+difficult, if not impossible, thus maintaining low self-esteem. This overly depen-
+dent self-evaluation based on shape and weight leads to the behaviors that 
+characterize BN (Murphy et al., 2010).
+One aspect of BN that is not directly related to overvaluation of shape and 
+weight is binge eating. The cognitive behavioral theory posits that binge eating 
+occurs in response to attempts to adhere to extreme dietary rules. Breaking 
+these rules strengthens patients' beliefs that they lack self-control, which main-
+tains the core features of the psychopathology (Fairburn et al., 2008; Murphy 
+et al., 2010). Binge episodes often occur in response to negative mood states 
+152 Ruggieri, McCuen-Wurst, and Allison
+and act as a temporary mood neutralizer. This response can result in habitual 
+binge-eating when negative mood states are present (Fairburn, 2002).
+BN often goes unnoticed, as individuals with the disorder are at or above the 
+normal weight range. In addition, those with the disorder often do not have 
+medical complaints that would warrant visiting a physician (Castillo & Weisel-
+berg, 2017). When individuals do seek treatment for the disorder, the literature 
+shows that the treatment of choice for BN is CBT (Cooper & Fairburn, 2011). 
+CBT-BN is utilized with individuals who can be treated on an outpatient basis. 
+Treatment typically lasts up to 20 sessions, with maintenance or booster ses-
+sions following less frequently, as needed. With some individuals, progress is 
+limited by maintenance factors associated with the core psychopathology of 
+BN, including clinical perfectionism and low self-esteem (Fairburn, 2002), 
+which are discussed below.
+Main Procedures
+Treatment is relatively short term (about 20 sessions delivered over 16 weeks 
+on average, with some variability) and is based on a structured manual to be 
+led by a trained clinician. Treatment can be divided into several stages, as 
+described by Fairburn et al. (2008). Stage one involves establishing a therapeu-
+tic relationship, as well as the introduction of self-monitoring. Detailed logs of 
+all food and beverages consumed, accompanied by associated thoughts and 
+feelings are established in this first stage. Psychoeducation on the ill effects of 
+rigid dieting and purging behaviors is provided, and implementation of a more 
+regular eating pattern and healthy food choices are also introduced. Ideas about 
+healthy shape and weight are discussed, and weekly weighing is established. 
+The first several sessions are delivered twice per week to establish momentum. 
+Stage two aims to help individuals deal with the dysfunctional thoughts and 
+triggers that drive their dieting behaviors, such as rigid rules around food that 
+lead to binge eating. The cognitions typically addressed are targeted to (a) cre-
+ate insight into the impact of overvaluation of weight and shape and its conse-
+quences, (b) develop other aspects central to one's self-concept, (c) challenge 
+body-checking and feelings of "fatness," (d) examine etiological factors for 
+overvaluation, and (e) develop skills to address eating disordered attitudes and 
+thoughts. During stage three, progress is reviewed, and realistic planning for 
+the future is discussed (Fairburn, 1995). These final sessions may be delivered 
+every other week.
+More recently, an updated form of CBT has been developed called 
+enhanced 
+CBT
+ (CBT-E). CBT-E was developed in response to the finding that many eating 
+disorders have similar core psychopathology (Fairburn et al., 2003), and thus a 
+more inclusive treatment was developed to treat all eating disorders using a 
+"transdiagnostic approach" (Fairburn et al., 2008). The CBT-E model suggests 
+that the core psychopathology of BN may be maintained by (a) mood intoler-
+ance, (b) clinical perfectionism, (c) low self-esteem, and/or (d) interpersonal 
+problems. In the first model, the impulse to binge and purge is due to mood 
+Eating Disorders 153
+intolerance; binge eating and purging functions to regulate emotions. Clinical 
+perfectionism refers to striving toward extremely high standards in every 
+domain of one's life. The term "clinical" refers to perfectionism becoming prob-
+lematic when attempts to pursue these high standards continue despite nega-
+tive consequences. Perfectionistic standards with regard to weight and shape 
+would then lead to disordered eating. Core low self-esteem refers to an insidi-
+ous negative view of self-worth. In the CBT-E model of treatment for BN, core 
+low self-esteem differs from low self-esteem in that it is unconditional, which is 
+more pervasive as opposed to being situational or limited in scope. Individuals 
+with BN characterized by core low self-esteem are not affected by changes or 
+improvements in the state of the disorder, as they believe these eating patterns 
+are part of their identity (Cooper & Fairburn, 2011). In other words, core low 
+self-esteem contributes to hopelessness about one's ability to change, which 
+may negatively affect treatment. Interpersonal problems contribute to core low 
+self-esteem while creating negative mood states, leading to binge eating and 
+purging behaviors (Lampard & Sharbanee, 2015). Cooper and Fairburn (2010) 
+stated that most patients will benefit from the original CBT for BN approach, 
+but for those presenting with more complex pathology, initiating the broad-
+ened treatment is useful.
+Efficacy
+Research on the effects of CBT-BN indicates that half the patients make a full 
+and lasting recovery, with the most significant effect being the reduction of the 
+frequency of binge episodes and compensatory behaviors (Fairburn, 2002; 
+Fairburn et al., 2008). In a systematic, quantitative review of psychotherapy for 
+BN, Hay et al. (2009) identified CBT as significantly superior to no treatment or 
+wait-list control for the proportion of patients in remission from binge eating, 
+RR
+ = 0.69, 95% CI [0.61, 0.79]. When compared with other psychotherapies, 
+including hypnotherapy and psychoanalytic or psychodynamic therapy, CBT 
+has been shown to be more efficacious in the treatment of BN symptoms, 
+RR
+ = 0.83, 95% CI [0.71, 0.97]. CBT was also superior to no treatment or 
+wait-list control in reducing depressive symptoms, 
+SMD
+ = -0.69, 95% CI [-1.09, 
+0.30], whereas it was favored, but not statistically significant, over the previ-
+ously listed psychotherapies in reducing depressive symptoms, 
+SMD
+ = -0.28, 
+95% CI [-0.57, 0.00].
+CBT-E therapy is considered "enhanced" because, as mentioned above, it 
+incorporates strategies to improve outcomes associated with hindrances to 
+change, including mood intolerance, clinical perfectionism, low self-esteem 
+and interpersonal problems, in addition to focusing on overvaluation of shape 
+and weight (Murphy et al., 2010). In a trial conducted by Fairburn et al. (2009), 
+154 participants were enrolled in a two-site randomized controlled trial (RCT) 
+involving 20 weeks of treatment and a 60-week follow-up period. The two 
+forms of treatment were enhanced, with the "focused" approach targeting dis-
+ordered eating psychopathology exclusively, and the "broad" version targeting 
+154 Ruggieri, McCuen-Wurst, and Allison
+one or more of the associated problems, in addition to the core psychopathol-
+ogy. Participants in the control condition had an 8-week waiting period prior to 
+treatment. Results were based on global EDE change and showed that patients 
+in the wait-list control group demonstrated little change in symptom severity 
+(-0.09), whereas those in the active conditions (focused and broad) displayed 
+significant and equal change in symptom severity (-1.51 vs. -1.53, respec-
+tively); this change was maintained during follow-up.
+One form of therapy that has been used as a comparator for CBT is interper-
+sonal psychotherapy (IPT). IPT is an evidence-based psychotherapy for disor-
+ders in which interpersonal difficulties are maintaining factors. With regard to 
+eating disorders, patients can become more isolated from their peers due to 
+their eating disordered attitudes and behaviors, resulting in psychopathology 
+that persists because it goes unnoticed. In addition, interpersonal problems can 
+exacerbate or cause low self-esteem, which tends to increase efforts to control 
+shape and weight (Murphy et al., 2012). IPT can be used as an alternative to 
+CBT-BN, but treatment often lasts longer (approximately 8-12 months longer), 
+and treatment responses tend to be slower in the beginning, but similar over 
+longer follow-up periods (Fairburn et al., 2008).
+In a study conducted by Agras et al. (2000), 220 patients meeting criteria 
+for BN were randomized to 19 sessions of either CBT or IPT and evaluated for 
+1 year after treatment. Results indicated that CBT was significantly superior 
+to IPT at treatment end for the proportion of individuals recovered (29% vs. 
+6%) and remitted (48% vs. 28%). For treatment completers, the proportion 
+recovered was 45% in CBT versus 8% in IPT. However, at the 1-year follow- 
+up, there were no significant differences between the CBT and IPT treatment 
+completers.
+Special Considerations With This Population
+CBT-BN has been tested in adolescents and adults. There do not seem to be any 
+contraindications for its use based on gender or race/ethnicity. As noted above, 
+if certain core psychopathologies are present, the broad version of CBT-E should 
+be employed (NICE, 2017).
+Mechanisms of Change
+In the original CBT-BN model, changes in overvaluation of shape and weight 
+and dietary restraint are the two most important mechanisms of change (Lam-
+pard & Sharbanee, 2015). Studies have shown that changes in these two factors 
+relate to changes in BN symptoms, such as reductions in binge eating and com-
+pensatory behaviors. CBT-E utilizes different modules that are meant to treat 
+different maintaining factors of BN, in addition to treatment of the core psycho-
+pathology. For example, the mood intolerance module is intended to lead to 
+changes in mood, which will then lead to reductions in binge eating (Lampard 
+& Sharbanee, 2015). Peterson et al. (2017) showed that improvement in emo-
+Eating Disorders 155
+tion regulation, or the ability to tolerate momentary negative mood states and 
+self-directed behavior from baseline to midtreatment and to posttreatment 
+follow-up, predicted improvements in global eating disorder scores.
+Application to Diverse Populations
+Statistics on the prevalence of eating disorders in minority populations are 
+scarce. This may be due to a historically biased view that only White women 
+suffer from eating disorders or that few studies have been conducted with sig-
+nificant numbers of people from varying racial and ethnic groups and men 
+(Ham et al., 2015). Following completion of diagnostic interviews by a national 
+representative sample of adults in the United States, Udo and Grilo (2018) 
+reported that, on the basis of 
+DSM-5 
+criteria, the lifetime prevalence for BN was 
+0.28%. Prevalence of any eating disorder was greater for women than for men 
+after adjusting for various demographic variables including age and race and/or 
+ethnicity. Adjusted odds ratios did not differ significantly by race and/or ethnic-
+ity for BN. The same study examined these differences for AN, showing signifi-
+cantly lower adjusted odds ratios for non-Hispanic Black (
+AOR
+ = 0.48, 95% CI 
+[0.33, 0.72]) and Hispanic (
+AOR
+ = 0.19, 95% CI [0.11, 0.33]) respondents than 
+for non-Hispanic White respondents. Finally, for BED, Udo and Grilo (2018) 
+reported lower lifetime (
+AOR
+ = 0.60, 95% CI [0.38, 0.92]), but not 12-month, 
+adjusted odds ratios for non-Hispanic Black compared with non-Hispanic 
+White individuals.
+Case Example
+"Erica" reported starting to binge and purge with vomiting during her fresh-
+man year of high school. She was attending a high-pressure private school that 
+she found challenging, but she was supported by her family, and she was par-
+ticularly close with her father. Tragically, her father died in an accident, and she 
+was having trouble coping. She started to eat emotionally, and she started gain-
+ing weight. After eating sweets in the evening, she would try to restrict what 
+she ate the next morning, fearing she would continue gaining weight. She was 
+active as a soccer player, and she also enjoyed running in the off season. Over 
+her high school years, her binge-and-purge episodes continued, but she was 
+able to hide them. She presented for treatment her senior year in college, afraid 
+that she would continue this pattern even after she graduated. It had started to 
+sink in that this was not just a temporary fix but a cycle that had taken on a life 
+of its own.
+Erica described experiencing stress related to her coursework and her rela-
+tionships with her mother and her peers. By now, her mother knew of Erica's 
+disordered eating, but she was uncertain how to address it. They bickered over 
+concerns for Erica's well-being and the financial burden the binge episodes 
+were causing. Erica's mood was also affected by these binge-purge episodes, 
+which negatively influenced her body image further. This led to trying on 
+156 Ruggieri, McCuen-Wurst, and Allison
+outfits for up to an hour before going out with friends or avoiding social events 
+altogether. Finally, with school, if she felt overwhelmed by starting a project or 
+studying for an exam, she would be triggered to binge, followed by vomiting. 
+She would then feel ill and end up watching shows or movies in her room by 
+herself, leading to missed deadlines and poor grades.
+Therapy began with a log of her eating and purging behaviors to identify her 
+pattern of eating and the triggers for her binge episodes. Erica identified several 
+episodes from the previous week. The therapist spent time reviewing a partic-
+ular episode with her that involved baking brownies for a fundraiser for her 
+club soccer team (see Figure 5.1). She also felt overwhelmed because she had a 
+paper due the next day and did not know where to start. She began eating the 
+brownies and was unable to stop, finishing the whole pan. She felt disgusted 
+and overly full, but she thought it would be okay because she could get rid of 
+the calories and the feeling of being too full if she just vomited. Afterward, she 
+was exhausted and shut herself in her room to watch shows the rest of the 
+night. She felt sad and ashamed the next morning when she had to ask her 
+professor for an extension for her paper.
+First, psychoeducation was provided regarding the limited effectiveness of 
+purging to compensate for the calories consumed. Next, the therapist used a 
+thought record to help her identify the situation--having a paper due, but not 
+knowing where to begin. Next, she identified her feelings, which included feel-
+ing anxious, overwhelmed, and tired, as well as her automatic thoughts. These 
+thoughts included, "I can't come up with a good idea for how to start my paper. 
+Whatever I write, it won't be good enough," and, "The brownies look so good, 
+it will be okay if I just eat one." After not being able to stop and eating the pan 
+of brownies, she identified these thoughts: "I feel disgusting. If I just throw up, 
+I will feel better and will be able to get on with my night." After vomiting she 
+FIGURE 5.1.
+ Food Intake and Binge/Compensatory Behavior Log
+Time
+Location
+What did 
+you eat?
+Binge? Compensation?
+Comments
+12:00 
+pm
+Dining 
+Hall
+Salad with 
+chicken, 
+vegetables 
+and oil & 
+vinegar
+6:00 
+pm
+Home
+Egg white (2) 
+omelet with 
+cheese and 
+vegetables
+8 pm
+Home
+Full pan of 
+brownies
+I was stressed about writing 
+a paper and had just made 
+the brownies for my club's 
+fundraiser.  I wanted to just 
+eat one, but I couldn't stop.  
+I felt so full that I had to 
+make myself vomit. Then I 
+was relieved, but exhausted.  
+I didn't feel up to doing any 
+schoolwork. 
+Note. 
+Example from a patient with bulimia nervosa.
+Eating Disorders 157
+stated, "I am worn out and can't concentrate. I don't feel better and don't feel 
+up to writing." The therapist helped Erica identify alternative responses to each 
+thought, also asking her to recognize and tolerate her negative emotions. For 
+example, although she was feeling anxious about writing, her homework for 
+the coming week was to open a document and start typing her ideas out, no 
+matter how tired or overwhelmed she felt. She believed that once she was sit-
+ting and writing, she would be able to complete the assignment, so she agreed 
+to this homework task.
+Erica was also having trouble resisting vomiting after normal meals given 
+the frequency of her episodes. She stated that even any "normal" sized meal 
+made her feel uncomfortable. The therapist used exposure exercises to have 
+her sit after meals and engage in conversation or go somewhere where she was 
+unable to purge to prevent compensation from occurring. Finally, the therapist 
+helped her use these tools to address her body image issues and improve com-
+munications with her mother around her eating and weight concerns so that 
+Erica's need to be secretive about it would lessen and she could start to rebuild 
+her relationship with her mother. A joint session was held to help facilitate 
+communication between Erica and her mother, as well.
+As sessions progressed, Erica was able to show good understanding and use 
+of the CBT skills, decreasing her binging and purging episodes over time. She 
+was still having periodic episodes in response to stressors or when home alone 
+with access to baked goods or granola bars (two of her most difficult trigger 
+foods), but she was pleased with her progress and felt more confident about 
+graduating and moving into an "adult life" without the burden of BN. She felt 
+more confident in her body as well, as she generally felt more in control and 
+less depressed. She had even begun dating a fellow student as the sessions 
+concluded.
+BINGE-EATING DISORDER
+
+Underlying Theory
+Theories of the psychopathology of BED are based on cognitive behavioral the-
+ory and the restraint model (Grilo, 2017). According to cognitive behavioral 
+theory, BED, similar to the models for AN and BN, can be characterized by an 
+excessive attention to weight and shape, a desire for control associated with 
+eating behavior, and/or emotional dysregulation (Fairburn, 2017; Haedt-Matt 
+& Keel, 2011; Haedt-Matt et al., 2014; Wilfley et al., 2000). Although overvalu-
+ation of weight and shape is not included as a diagnostic criterion for BED, its 
+presence typically indicates a more severe form of the disorder (Mitchison et 
+al., 2018). Additionally, there are particular cognitive and behavioral differ-
+ences observed in those with BED that are not observed in those with AN nor 
+BN. Wilfley et al. (2000) found that individuals with BED have significantly 
+lower cognitive restraint of eating (i.e. deliberately restricting food in an effort 
+to align with rigid rules regarding eating) scores compared with those with AN 
+and BN. Further, persons with BED are more likely to report eating in secret, 
+158 Ruggieri, McCuen-Wurst, and Allison
+being unsatisfied with their weight, feeling fat, being unhappy with their shape, 
+and experiencing discomfort with seeing their body compared with individuals 
+with AN, BN, and persons who have overweight or obesity but who have no 
+eating disorder. Compared with those with AN and BN, people with BED do 
+not have a significant desire to have a completely flat stomach and report less 
+distress and less avoidance of eating (Wilfley et al., 2000).
+Whereas the cognitive behavioral theory of binge eating suggests that 
+thoughts and feelings about body shape and size and other emotional distress 
+become triggers for binge episodes, the restraint theory suggests that dieting 
+increases the likelihood of binge eating. As a result of a calorie deficit, either 
+through dieting or skipping meals, hunger levels increase, leading to a sense of 
+loss of control once eating is allowed. The more frequently this restriction 
+occurs, followed by a binge episode, the more likely it is for a cyclical pattern to 
+develop (Polivy & Herman, 1985). However, not all persons with BED have a 
+history of restriction. Thus, binge eating could also result as a means of con-
+trolling or distracting oneself from experiencing emotional dysregulation.
+Main Procedures
+CBT for binge eating focuses on the cognitive distortions often exhibited in 
+those with eating disorders (Fairburn, 2017), such as concerns about shape and 
+weight, "all or nothing" thinking, perfectionism, and low self-esteem. Given 
+the influence that weight and shape have on the way individuals with BED 
+view themselves, treatment focuses on improving self-confidence and discov-
+ering alternative influences on self-worth other than weight and shape. Treat-
+ment also focuses on creating more regular healthy eating habits and identifying 
+and resolving triggers associated with maladaptive eating patterns. CBT for 
+binge eating was adapted from CBT-BN (Fairburn et al., 2008), as described 
+previously.
+As with any manualized form of treatment, it is important to follow the pro-
+tocol for optimal effectiveness. A meta-analysis by Vocks et al. (2010) examin-
+ing various forms of treatment for binge eating found CBT-based psychotherapy 
+and structured self-help to have a strong effect on reduction in binge eating. 
+Evidence suggests that following a structured program may be a useful first-line 
+approach to treating BED, and also that using a self-help approach based on the 
+manual holds promise and may also increase access to CBT care (Grilo, 2017).
+Special Considerations With This Population
+A majority of those with BED have other psychiatric and medical comorbidi-
+ties, independent of weight status (Kessler et al., 2013). There is a strong evi-
+dence base of a high comorbidity rate between psychological disorders and 
+BED, with the most common disorders being mood, anxiety, and substance use 
+disorders. Additionally, BED is associated with medical comorbidities, such as 
+dyslipidemia and Type 2 diabetes; however, the evidence is not as consistent for 
+Eating Disorders 159
+medical as for the psychopathology comorbidities (Devlin, 2017). Although 
+comorbidities are important to consider when conceptualizing a clinical case, 
+they do not necessarily have an effect on treatment outcomes (Kessler et al., 
+2013), as discussed in the section on mechanisms of change. As with the other 
+eating disorders, individuals with BED often have complex presentations, with 
+binge eating representing only one of many health concerns.
+Efficacy
+CBT is considered the leading psychological approach to treatment for eating 
+disorders by both the American Psychiatric Association (Yager et al., 2012) and 
+the National Institute for Health and Care Excellence (NICE, 2017), with CBT 
+for BED proven efficacious in eliminating binge episodes in about 60% of those 
+who receive treatment (Fairburn, 2017). In addition, CBT for BED has been 
+shown to reduce eating-disorder-related psychopathology, including depres-
+sion. CBT for BED has largely been proven superior against controls such as 
+medications and behavioral weight loss in binge eating outcomes. It is import-
+ant to note that while CBT for BED is efficacious in improving the aforemen-
+tioned symptoms, it is not particularly helpful for weight loss (Grilo, 2017).
+A meta-analysis by Vocks et al. (2010) that included 1,973 participants 
+found CBT more efficacious in reducing binge-eating frequency (
+d
+ = 0.82, 95% 
+CI [0.41, 1.22]) and days with binge eating (
+d
+ = 1.04, 95% CI [0.70, 1.38]), as 
+well as increasing binge-eating abstinence (
+d
+ = 6.83, 95% CI [3.50, 13.33]) 
+compared with untreated control groups. CBT also was found to reduce 
+binge-eating-related psychopathology such as depression (
+d
+ = 0.36, 95% CI 
+[0.08, 0.64]), to a lesser degree, and concerns about weight (
+d
+ = 0.85, 95% CI 
+[0.43, 1.27]) and eating (
+d
+ = 1.43, 95% CI [0.84, 2.01]). CBT for BED did not 
+significantly reduce dietary restraint scores, shape concern, or body mass as 
+compared with those without treatment. Vocks et al. (2010) also found that 
+self-help CBT significantly reduced binge frequency (
+d
+ = 0.84, 95% CI [0.37, 
+1.30]) and concerns with weight (
+d
+ = 0.85, 95% CI [0.43, 1.27]) and eating 
+(
+d
+ = 1.43, 95% CI [0.84, 2.01]), while increasing binge abstinence (
+d
+ = 25.77, 
+95% CI [9.74, 68.15]). Additional improvements observed with self-help CBT 
+include decreased dietary restraint scores (
+d
+ = 0.68, 95% CI [0.09, 1.26]) and 
+concerns associated with shape (
+d
+ = 0.66, 95% CI [0.25, 1.07]); however, this 
+self-help form of therapy did not significantly reduce depressive symptoms.
+Brownley et al.'s (2016) systematic review and meta-analysis found 
+therapist-led and structured self-help CBT for BED more efficacious in decreas-
+ing binge frequency and increasing binge-eating abstinence compared with 
+wait-list controls (58.8% vs. 11.2%, 
+RR
+ = 4.95, 95% CI [3.06, 8.00]). Therapist- 
+led CBT also significantly reduced global eating disordered attitudes and behav-
+iors (strength of evidence, moderate; no relative risk reported), but not depres-
+sive symptoms or body mass. Multiple studies have found no to minimal effect 
+of combining medication with CBT compared with CBT alone for the treatment 
+of BED (Devlin et al., 2005).
+160 Ruggieri, McCuen-Wurst, and Allison
+Mechanisms of Change
+Although CBT for BED has been established as one of the leading treatments 
+for binge eating, there is a paucity of literature on mechanisms of change. Grilo 
+et al. (2012) examined moderators and predictors of response to CBT treat-
+ment. They found the most predictive and moderating trait of binge eating 
+remission in CBT treatment was the overvaluation of shape/weight, whereby 
+those who had lower scores of overvaluation of shape/weight were more suc-
+cessful at treatment end. Several demographic variables, including education 
+status and older age of onset of the disorder, were associated with higher rates 
+of binge remission. However, Grilo et al. (2012) found that psychiatric disor-
+ders, personality disorders, and obesity failed to predict or moderate BED treat-
+ment outcomes. Medical comorbidities, which are also often found among 
+those with BED, have not been examined as predictors of treatment efficacy.
+A systematic review by Vall and Wade (2015) examining predictors of effi-
+cacy among various BED treatments found several significant factors. First, 
+higher weight suppression (i.e., the difference between an individual's highest 
+weight and current weight) was associated with more binge episodes. Second, 
+more frequent binge eating at baseline predicted worse binge-eating outcomes 
+at end of treatment. Third, higher motivation to change and less eating disorder 
+pathology predicted better outcomes. Finally, several psychopathology mea-
+sures at baseline predicted better outcomes, including lower depressive symp-
+tom scores, higher BMI, higher self-esteem, lower weight/shape concerns, 
+older age of onset, shorter duration of the disorder, less comorbid psychopa-
+thology, and better interpersonal functioning. It is important to note that while 
+the majority of studies examined in this systematic review included forms of 
+CBT, the authors did not exclusively examine CBT, including other forms of 
+treatment as well.
+Kober and Boswell (2018) argued that neural processing features and cer-
+tain areas of the brain, such as the ventral striatum, amygdala, insula, and 
+orbitofrontal cortex (Boswell & Kober, 2016), now often measured in brain 
+imaging studies, may also provide insight into treatment outcomes. They offer 
+that impairments in cognitive control and increased emotional reactivity, 
+food-cue reactivity, and cravings are likely related to emotion dysregulation, 
+which in turn may cue binge eating. However, more research is needed to pair 
+outcomes with imaging studies to outcomes in CBT trials for BED.
+Application to Diverse Populations
+A randomized placebo-controlled trial by Grilo et al. (2014) evaluated the 
+effectiveness of a weight-loss medication (sibutramine) and a self-help form of 
+CBT, alone and in combination, in an ethnically diverse primary care setting 
+(55% non-White) for the treatment of BED. Although sibutramine was associ-
+ated with greater weight loss compared with placebo, none of the treatments 
+differed in binge-eating outcomes. Demographic factors, such as age, sex, race, 
+and education, did not predict any changes in outcomes. It appears that CBT for 
+Eating Disorders 161
+binge eating is equally effective across different demographics, but more studies 
+would be valuable to confirm these results.
+Clinical Example
+"John" is a 40-year-old African American man with a BMI of 42.1 kg/m
+2
+ (5 ft 
+8 in., 285 lb) who meets the criteria for BED. He works as a delivery person for 
+a local paper product manufacturer whose primary clients are various restau-
+rants in the area. Each day while making deliveries, he is offered food (e.g., 
+pizza, sandwiches, baked goods, etc.; see Figure 5.2). John usually skips break-
+fast to control his weight. He often packs what is considered a normal sized 
+lunch, such as a turkey and cheese sandwich, small bag of chips, a granola bar, 
+and soda, but he typically eats it around 10:00 a.m., well before he originally 
+intended. Later on, he continues to snack on the foods offered to him from 
+various restaurants. For example, he may eat a slice of pizza around 11:30 a.m., 
+then a side of French fries and large (12 in.) cheese steak around 1:00 p.m. This 
+pattern continues throughout the day.
+John finishes his shift around 4:00 p.m. and has dinner with his wife and 
+two children at their home around 5:45 p.m. However, about twice per week, 
+John will stop, without his wife knowing, at his favorite Italian chain 
+FIGURE 5.2.
+ Example of Behavioral Chain for Binge-Eating Disorder
+162 Ruggieri, McCuen-Wurst, and Allison
+restaurant for an all-you-can eat dinner after 4:00 p.m. During these occasions, 
+he eats about five breadsticks, three large bowls of salad, and two large pasta 
+entrees. Once he begins eating, he reports feeling immense pleasure and inabil-
+ity to stop. He orders the second pasta and tells himself that he will buy it now 
+but save it for his lunch tomorrow. However, once the food arrives, he always 
+ends up eating that portion before he leaves. He keeps these episodes from his 
+wife, using cash instead of charging the meal. This routine has become a secre-
+tive, affair-like relationship with food. When he returns home and eats dinner 
+with his family, he has a regular plate of food (i.e., two grilled chicken breasts, 
+one cup of macaroni and cheese, and a baked potato). Often, he will follow 
+dinner with dessert, such as two ice cream bars or a one-eighth portion of pie, 
+from about 5:45 p.m. to 6:00 p.m. He reports having his restaurant meal before 
+his "actual dinner" because he is embarrassed about overeating in front of his 
+family. This way, he can enjoy his large meal by himself without the shame and 
+guilt he experiences from eating large amounts in front of others. Although 
+John feels pleasure while eating, he feels guilty and disgusted afterward, and 
+his eating is negatively impacting his relationship with his family. John has 
+experienced nine binge episodes per week, on average, for the past 2 years.
+In treatment, the therapist began by reviewing the CBT model for the treat-
+ment of BED. The therapist reviewed a food log form to track his intake 
+throughout the day, including when, what, and how much he was eating, and 
+what triggers may have been present before eating. Next, they completed a 
+behavioral chain to make the chain of events explicit. Completing these exer-
+cises increased his awareness regarding his belief that restricting in the morning 
+would be healthy, but in fact, it was prompting him to eat his lunch early, pro-
+ducing dichotomous thinking that he had ruined his plan for the day, so he 
+might as well eat the food that was offered to him at the restaurants. He was 
+assigned to begin eating a nutritionally sound breakfast and continuing to pack 
+his lunch and snacks. Dysfunctional thought records were introduced next to 
+modify these automatic thoughts, including the opportunity to generate alter-
+native responses he could use in those situations. Each week, he completed 
+these tools to provide opportunities during each therapy session to use each 
+difficult eating situation as a learning tool, and to illustrate progress when he 
+successfully resisted loss-of-control eating episodes. As he progressed through 
+treatment, he gained momentum by internalizing his successes and building 
+self-efficacy for his ability to decline food offers from the restaurants.
+The therapist also helped John focus on alternative activities he could do 
+after work when he was feeling compelled to stop at the restaurant. This inter-
+vention included planning a different route home so he would avoid driving 
+near the restaurant and setting up an exercise routine for himself with his chil-
+dren or his wife, when possible, during that time instead. He also generated 
+other ideas for filling that time, like accomplishing household tasks that had 
+been lingering or starting a hobby that he had not participated in for a while. 
+The final target of treatment included targeting his body dissatisfaction. Follow-
+ing the use of Socratic questioning (i.e., asking key questions to draw out 
+Eating Disorders 163
+answers to the patient's own questions and to uncover assumptions that may 
+be the basis for one's automatic thoughts), John was able to describe the pres-
+sure he was feeling from his wife and his own standards to preserve a muscular 
+physique that he had when he was several years younger. He viewed himself 
+as a failure with his 30-pound weight gain over the previous 2 years, and he 
+was developing health issues, such as high blood pressure and hyperlipidemia.
+The therapist used thought records to help John modify his discomfort with 
+his body, as well as emphasize healthy eating habits and physical activity that 
+would help to address his growing health concerns. Finally, marital issues that 
+contributed to his secretive, disordered eating behaviors were addressed, and 
+the therapist assigned John exercises to talk with his wife regarding the impact 
+of her language regarding health behaviors and body shape and size expecta-
+tions on his emotional and physical functioning. A typical thought was "My 
+wife won't know that I ate it, so I might as well have it now so that I don't 
+overeat in front of her and risk having her comment about it." An alternative 
+thought that he eventually generated was "Just because my wife doesn't know, 
+doesn't mean that I don't end up feeling badly about it. I will feel better if I say 
+no now, and I will not feel like I'm hiding things from her and my kids."
+John found success by instituting a regular eating schedule and by typically 
+packing his own meals and snacks. He developed the ability to decline foods 
+that were offered to him on his deliveries, and the business owners stopped 
+offering food so frequently as his responses remained consistent. He physically 
+felt better and less sluggish by the end of the day, so he was more open to going 
+home and spending time with his children and being active with them or by 
+himself. He also felt as though a burden had been lifted between him and his 
+wife, as he was not spending money for binge episodes and hiding his behavior. 
+John was able to communicate more openly with his wife about comments and 
+rules that she had regarding weight and eating that were maintaining his secre-
+tive eating behaviors, raising her awareness of the paradoxical result that her 
+comments were having. She was able to prepare meals and snacks that pro-
+vided more satiety for John, and to support his packing and preparing of meals 
+and snacks for work. Overall, John reduced his binge episodes to about once 
+per month. In the final sessions, the focus was on his ability to recover from 
+infrequent episodes and learn from the triggering event, emotion, or thought to 
+continue preventing binge episodes from occurring most of the time.
+ANOREXIA NERVOSA
+
+Underlying Theory
+After Fairburn adapted Beck's CBT for depression for use with BN, others in the 
+field (e.g., Garner & Bemis, 1982, 1985) provided a treatment manual of CBT 
+for AN. The formulation of CBT for AN is similar to that described above for BN 
+and BED; overvaluation of weight and shape, which are rooted in low 
+self-esteem, lead to a strong drive or desire to control one's weight and shape 
+through extreme restriction of food intake. Thus, the cognitive disturbance 
+164 Ruggieri, McCuen-Wurst, and Allison
+--extreme dissatisfaction with weight and shape--leads persons with AN to 
+make choices to restrict their intake or compensate inappropriately after eating 
+(the behavior). This becomes a cycle that is quite difficult to break.
+Persons with AN differ from those with BN and BED by their achievement 
+of a very low body weight. To reach such a low weight, individuals typically 
+have certain personality features, such as perfectionism, and a temperament 
+that can sustain such self-deprivation. Their low self-esteem is often tied to 
+feelings of social unease and ineffectiveness, and they often lack an awareness 
+of their feelings (a lack of interoceptive awareness), such that they are unable 
+to express their emotions constructively. They then turn their distress inward 
+and try to put their focus on controlling their eating in order to control their 
+weight and shape, which is conceptualized as a strong drive for thinness. 
+AN-restricting subtype is manifested by strict restrictive behaviors, and 
+AN-binge-purge subtype is characterized by dietary restriction most of the time, 
+interrupted by binge-purge episodes, which also can become cyclical. Once 
+caught in this cycle, eating causes increasing discomfort--both cognitively, with 
+negative thoughts about one's value as a person if they eat something "bad" or 
+too much of a serving, and physically, with increasing gastrointestinal discom-
+fort as weight loss and starvation become severe. Persons with AN obsess about 
+food and planning what and how they will eat the little amount of food that 
+they allow themselves, and their worlds generally become smaller. They isolate 
+themselves more to focus on their food and weight goals and become less able 
+to eat or socialize with others because of their extreme eating rules and rituals. 
+However, they are living in a trapped world where they believe the only way 
+they can increase their self-esteem is to control their weight and shape.
+Main Procedures
+CBT for AN consists of the same phases of treatment as described above for BN; 
+however, the first goal of treatment for AN is always weight gain. This is so for 
+obvious safety reasons, but also for efficacy reasons. If someone is starving, 
+their thinking becomes increasingly rigid, and it becomes difficult to engage in 
+talk therapy in an effective manner. Thus, in the first phase, the rationale for 
+CBT is described, and psychoeducation is provided on the biological, psycholog-
+ical, and social underpinnings of the disorder. Persons with AN are often reluc-
+tant to engage in treatment, as their loved ones may be more distressed by their 
+symptoms than they are, so an appraisal of their motivation for treatment is 
+useful. This phase is also a time to build the therapeutic relationship by focusing 
+on setting collaborative goals for improvements. This can be challenging for 
+those with AN because they may not want to gain weight, but in outpatient 
+treatment, clear goals should be set for progression of weight gain. A skilled 
+therapist will set about this task in an empathic and open manner so that 
+patients have a voice in expressing their goals and desires for regarding their 
+eating disorder and their desired quality of life. The therapist can carefully high-
+light how the eating disorder has increasingly taken on its own life, and how it 
+Eating Disorders 165
+initially may have felt to the patient that they were in control, but now the AN 
+is in charge. As this conversation progresses, along with weight gain, patients 
+can start to disengage from the AN thoughts and behaviors, and they improve 
+their ability to express longer term goals and desires for their lives outside of 
+weight and shape.
+Weight is taken at each treatment session on a regular schedule--typically at 
+the beginning of each session. If patients are reluctant to see their weight, 
+desensitization to seeing the number becomes part of the therapy. Homework 
+is also an essential part of the treatment, and patients must understand from 
+the outset that there will be goals and tasks to practice at home, such as increas-
+ing the number of meals, increasing their calories and nutrients, and decreasing 
+physical activity, which will be reviewed and problem-solved at their next ses-
+sion. This homework also includes self-monitoring of all food eaten, where it is 
+eaten, as well as details about one's automatic thoughts and possible triggers for 
+restricting or binge eating and purging. From these records, the therapist and 
+patient can work together into the second phase of treatment to identify feel-
+ings, self-deprecating thoughts, and patterns of interpersonal exchanges that 
+maintain the eating disorder. They can then work to establish alternative ways 
+of cognitively assessing these situations so that healthier eating patterns can 
+replace the dysfunctional ones, and skills for managing one's feelings and inter-
+personal interactions can be implemented.
+During this phase, a weight gain goal is clarified, and a meal plan is set. Col-
+laboration with a nutritionist and physician is recommended to implement the 
+meal plan and weight regain goals safely. The weight goal should be a range 
+based on past weight history before onset of AN, as well as other health param-
+eters, such as resolution of amenorrhea, if applicable. An action plan should be 
+developed with the patient to identify the necessary steps to increase the likeli-
+hood that the prescribed meals and snacks will be eaten. These can be used to 
+problem-solve situations where patients are experiencing obstacles to enacting 
+their eating plans or other homework assignments, which prevents them from 
+reaching their goals (e.g., weight gain, improved social skills, decreased body 
+dissatisfaction).
+Thought records are used in this phase to identify and restructure cognitive 
+distortions, such as "If I eat three meals a day, I will be fat and disgusting" or "If 
+I go out after I have eaten, my stomach will be so bloated that everyone will 
+notice." The content of these thoughts can relate to eating, body dissatisfaction, 
+or everyday stressors or interpersonal problems. Modifying these thoughts and 
+generating alternative responses is an ongoing process, with hope that the 
+patient will continue to use this strategy even once treatment has ended. Sev-
+eral behaviors are targeted with thought-restructuring exercises, including 
+body checking, which can take on the form of extended periods of time pinch-
+ing oneself or scrutinizing oneself in the mirror, picking at one's clothing so that 
+it is not too form-fitting, and seeing if parts of one's body are touching (e.g., 
+thighs) or hanging (e.g., arms or stomach). Excessive exercising is also targeted, 
+with an initial moratorium on exercise until weight has approached the desired 
+166 Ruggieri, McCuen-Wurst, and Allison
+range. Exercise can be reintroduced at that time, with attention to rigid thoughts 
+that sustain the excessive nature of exercise typically seen with AN. Finally, the 
+behaviors associated with undereating, such as choosing low-fat foods, moving 
+food around on the plate and cutting food into small pieces during the meal, 
+and any variety of methods used to consume smaller quantities of food than 
+prescribed, are addressed in this phase of treatment. The therapist would start 
+with validation of how difficult it is to stop using these behaviors, followed by 
+challenges to discontinue the use of these behaviors that maintain the 
+psychopathology.
+Once patients have approached their weight goals and they are normalizing 
+eating behaviors, the last phase of treatment shifts toward deconstructing the 
+schema that maintain AN. Weight restoration is typically accomplished before 
+the disordered attitudes regarding body weight and shape and low self-esteem 
+are significantly improved. This treatment phase focuses on identifying other 
+aspects of oneself outside of shape and weight that they value, as well as longer- 
+term life goals and ways in which AN is not consistent with those values and 
+goals. A visual, typically a pie chart, can be used to identify one's current valu-
+ation of all aspects of oneself, as well as the version of the chart that one aspires 
+to without having the AN (see Figure 5.3). Further work on interpersonal 
+interactions and regulation of emotions is also targeted in this phase of CBT for 
+AN, such that one can increase self-efficacy and not rely on AN symptoms as 
+distractors from solving problems effectively in the real world.
+Therapy typically ends with sessions every other week to help patients prac-
+tice and maintain their skills. Booster sessions may be scheduled as needed 
+following treatment end.
+Efficacy
+Unfortunately, there have been relatively few studies of CBT for AN and limited 
+development of the theory, perhaps because of its low prevalence and the his-
+torically high dropout rates observed in treatment (Galsworthy-Francis & Allen, 
+2014). In general, CBT or CBT-E for AN show significant gains in BMI, eating 
+disordered attitudes and behaviors, and mood, but these outcomes are not typ-
+ically significantly better than comparison treatments, such as IPT, family-based 
+therapies, and specialist supportive clinical management.
+With CBT for AN, BMI shows increases between 0.9 to 2.1 kg/m
+2
+ (e.g., from 
+a BMI of 16.0 to 16.9-18.1 kg/m
+2
+) from baseline to treatment end (Byrne et al., 
+2017; Fairburn et al., 2013; Zipfel et al., 2014). This has not been superior to the 
+gains shown with specialist supportive clinical management, ranging from 1.4 
+to 1.5 kg/m
+2
+ (e.g., from a BMI of 16.0 to 16.4-16.5 kg/m
+2
+; Byrne et al., 2017; 
+McIntosh et al., 2005; Schmidt et al., 2015), or Maudsley model anorexia ner-
+vosa treatment for adults (MANTRA), with gains ranging 1.4 to 1.8 kg/m
+2
+ (e.g., 
+from a BMI of 16.0 to 16.4-16.8 kg/m
+2
+; Byrne et al., 2017; Schmidt et al., 
+2015). When examining the proportion of participants who reach a BMI of 
+18.5 kg/m
+2
+, CBT is not superior to other treatments statistically, but there seems 
+Eating Disorders 167
+to be more separation when using this measure, with 59% in CBT-E, 44% in 
+MANTRA, and 48% in specialist supportive clinical management reaching this 
+marker of weight normalization (Byrne et al., 2017).
+In a systematic review of CBT for AN, Galsworthy-Francis and Allan (2014) 
+included just 16 treatment studies that had been conducted between 1995 to 
+2014, with only five of those being RCTs. Comparison between therapies and 
+examination of long-term outcomes was difficult, they reported, due to the 
+high treatment dropout rates, particularly with follow-up data. Thus, no statis-
+tical comparisons across studies were reported. Galsworthy-Francis and Allan 
+(2014) further confirmed that CBT often produced significant gains in BMI, 
+disordered eating pathology, and some general pathology. This was not supe-
+rior to results from other approaches (e.g., dietary counseling, nonspecific sup-
+portive management, IPT, behavioral family therapy), but less dropout was 
+observed in the CBT treatment conditions in four of seven controlled studies, 
+particularly as compared with inpatient treatment and nutritional counseling. 
+They also suggested that one reason CBT does not perform significantly better 
+than other approaches with AN could be that the large amount of psychoedu-
+cation and use of cognitive skills, such as thought restructuring, may be too 
+difficult in light of the cognitive rigidity associated with starvation in this disor-
+der. However, it appears that CBT for patients with severe and enduring AN 
+(duration of more than 7 years) show similar outcomes as patients who do 
+have this high level of impairment and disability (Calugi et al., 2017). Calugi et 
+al. (2017) reported that among 66 inpatients, 44% of the nonsevere (
+n
+ = 34) 
+and 41% of the severe (
+n
+ = 32) groups reached BMIs greater than 18.5 kg/m
+2
+, 
+indicating a weight in the "normal" range, with 32% and 33%, respectively, 
+having minimal eating disorder pathology at a 12-month follow-up.
+Overall, the data are not convincing that CBT for AN is superior to other 
+treatments, but it also is not inferior to other treatments. It may be more 
+FIGURE 5.3.
+ Visualization of Current Versus Desired Self-Schema in a Patient With 
+Anorexia Nervosa
+168 Ruggieri, McCuen-Wurst, and Allison
+acceptable to patients, as evidenced by slightly lower treatment dropout rates 
+(Galsworthy-Francis & Allan, 2014), so it certainly remains one of the best 
+options available at this time for adults with AN.
+Mechanisms of Change
+CBT for AN first targets weight regain so that rigidity of thinking is reduced and 
+the substance of treatment, such as modifying dysfunctional thoughts regard-
+ing overvaluation of weight and shape and extreme restraint of eating, can 
+ensue. As specific examples of triggers and eating disordered attitudes and 
+behaviors are modified and skills are taught for generating alternative responses, 
+the underlying schema (i.e., one's framework for conceptualizing oneself and 
+one's view of the world) of what the individual values and strives for in life can 
+shift from control of one's body weight and shape to more varied and produc-
+tive goals. These mechanisms are hypothesized based on the cognitive theory 
+of eating disorders (Fairburn, 2017; Fairburn et al., 2008). More data are 
+needed to confirm these pathways.
+Special Considerations With This Population
+Outpatient care for patients presenting with very low BMI (below 17 kg/m
+2
+) 
+would typically be contraindicated. A full assessment of medical stability and 
+safety should be undertaken in conjunction with a physician to determine the 
+appropriate level of care in these cases (e.g., hospitalization or partial hospital-
+ization; NICE, 2017).
+Application to Diverse Populations
+As Galsworthy-Francis and Allan (2014) commented in their review, most 
+studies of CBT for AN did not report race or ethnicity, let alone the impact of 
+age, sexual orientation, or gender identity (most studies report over 90% of 
+participants are women). It is unclear how these factors may impact CBT out-
+comes for AN.
+NIGHT-EATING SYNDROME
+
+Underlying Theory
+The core feature of NES is that the typical daytime pattern of food intake is 
+delayed, which interrupts the normal diurnal sleep-wake cycle. Persons with 
+NES feel compelled to eat to fall asleep initially or to fall back to sleep during 
+the night. NES is conceptualized as an eating disorder with features of sleep 
+(insomnia) and mood (depressive) symptoms. Thus, CBT was adapted for NES 
+based on the approaches for each of these disorders.
+Allison et al. (2004) described four of the most common themes reported by 
+persons with NES before their nocturnal eating episodes. These included expe-
+Eating Disorders 169
+riencing (a) specific food cravings (e.g., "I know that jar of peanut butter is in the 
+cabinet--I can't fall back to sleep now until I have some"), (b) feeling anxious or 
+agitated (e.g., "I am still worried about how my meeting at work will go tomor-
+row and can't sleep, but if I eat, that will help me fall back to sleep"), (c) feeling 
+the need to eat something so one's stomach feels full (e.g., "I just need to put 
+something in my stomach, and then I will be able to sleep"), and (d) feeling the 
+need to eat to fall back to sleep (e.g., "I will be a wreck at work tomorrow if I 
+don't get back to sleep soon--I know I can fall back to sleep if I eat something, 
+so that is what I will do"). Unfortunately, persons with NES often experience 
+shame, disgust, and distress after nocturnal eating, particularly in the morning. 
+Many describe feeling as though they have a "food hangover," causing them to 
+delay their eating in the morning, thus perpetuating the cycle.
+Main Procedures
+As with the previously described approaches, in the first stage of CBT for NES, 
+the therapist develops the therapeutic relationship, explains the rationale for 
+CBT, and educates the patient on the basic techniques of CBT (Allison, 2012). 
+These techniques include monitoring sleeping, eating, and mood patterns, 
+along with the automatic thoughts associated with these events (Sessions 1-4). 
+The 
+Nighttime Eating Assessment
+--which presents a series of visual analog scales 
+that the patient completes before eating at night to identify mood states that 
+might be triggering the urge to eat--are to be completed for the first 2 weeks of 
+therapy. This exercise helps to identify other targets of therapy so that skills can 
+be developed to undermine the patient's typical pattern (Allison, 2012). 
+Thought records are used to construct alternative thoughts and responses to 
+the urge to eat at night, and the use of social support is encouraged.
+In addition to identifying the stressors and thoughts that precipitate 
+unwanted eating, the patient is asked to complete food logs to detail their cir-
+cadian pattern of food intake. Patients are encouraged to move their first meal 
+of the day earlier (e.g., if nothing is eaten until 2:00 p.m., a lunch at noon 
+would be prescribed), with successively earlier meals assigned in subsequent 
+sessions. The therapist explains that although regulating the daytime eating 
+schedule is not sufficient to stop the nocturnal ingestions, it is necessary to 
+break the delayed pattern of eating. In addition, the therapist encourages 
+behavioral experiments (i.e., homework designed to modify beliefs about the 
+pros and cons of behaviors, and debunk dysfunctional thoughts that sustain 
+those--usually negative--behaviors) to address the nighttime awakenings and 
+ingestions, including attention to the energy and nutrient content of the snacks. 
+A "kitchen is closed" time is also chosen, indicated with a verbal declaration 
+and by turning the lights off. Patients are encouraged to brush their teeth and 
+move to another area of the house after that time. A behavioral chain describ-
+ing the specific steps in a patient's nocturnal eating episodes, along with ways 
+that the patient can break the links, is also completed and given to the patient 
+for reference at home.
+170 Ruggieri, McCuen-Wurst, and Allison
+If patients have overweight or obesity and have a desire to lose weight, cal-
+orie tracking with their food log is instituted at Session 3, with typical goals of 
+1,200-1,500 calories for women and 1,500-1,800 calories for men. At weights 
+above 250 lb (113 kg), adjustment of these calorie goals is made accordingly. 
+Clinical experience has suggested that implementing a calorie goal improves 
+motivation for change and therapy compliance among those seeking treatment 
+for NES, as part of their distress regarding their nighttime eating is its negative 
+influence on their weight gain. Restraint and overvaluation of weight and 
+shape are not as extreme in those with NES as in BED and other eating disor-
+ders (Allison et al., 2005), so encouraging a structured behavioral weight loss 
+component does not seem contraindicated for this disorder.
+In the middle stage of CBT for NES (Sessions 5-8), the work centers on 
+firmly establishing the skills that have been developed in the first phase. 
+Depressed mood and dysfunctional thoughts about eating continue to be mon-
+itored and addressed through the use of thought records, together with contin-
+ued use of behavioral interventions. Behavioral experimentation is essential for 
+decreasing the occurrence of evening and nighttime ingestions. Although the 
+actual methods may differ based on the layout of the patient's house, the pres-
+ence or absence of family or roommates, and what food is available, each 
+approach involves stimulus control of food, including strategies such as prepar-
+ing preset, portion-sized snacks and placing them on the counter or in the front 
+of the refrigerator; locking or hiding away desirable food at night; or engaging 
+in another activity until sleepiness returns. Thoughts regarding fear of weight 
+gain and lack of hunger with regard to starting to eat earlier in the day, and 
+with regular daytime meals and snacks, is also addressed. If depressed mood is 
+present, these symptoms are treated with the same thought records and behav-
+ioral activation/change of typical routine outlined previously. Negative beliefs 
+about weight and shape, if present, are also be attended to throughout the 
+therapeutic process, as these beliefs are often intricately tied to negative affect.
+The final stage of therapy, Sessions 9-10, transitions to biweekly sessions. 
+The therapist reviews progress and helps the individual generate possible trig-
+gers for relapse. Therapists also aim to increase self-efficacy regarding the 
+patient's ownership of the progress they have made, so that they can maintain 
+their progress outside of the therapeutic relationship.
+Efficacy
+One study has tested CBT for NES, with a 10-session treatment delivered over 
+12 weeks among 25 participants (Allison, Lundgren, Moore et al., 2010). Inten-
+tion to treat analysis showed significant reductions in the percentage of food 
+intake consumed after dinner (from 35% to 24.9%), number of weekly awak-
+enings (from 13.5 to 8.5 per week), and weekly nocturnal ingestions (from 8.7 
+to 2.6 per week; Allison, Lundgren, Moore, et al., 2010). Among participants 
+with overweight or obesity, a 3 kg weight loss was also reported, with caloric 
+reductions from 2,356 per day at Session 3 (the first time calories are tracked) 
+Eating Disorders 171
+to 1,759 per day at treatment end. More studies are needed to confirm these 
+results.
+Mechanisms of Change
+CBT for NES seems to work by recalibrating an individual's temporal pattern of 
+eating, such that the nocturnal drive to eat, which becomes habitual over time, 
+is diminished and patients no longer feel compelled to eat, even if they con-
+tinue to wake up during the night. The treatment uncouples the urge to eat 
+during the night from the act of falling asleep initially or falling back to sleep, 
+so that even if they have problems initiating sleep or waking during the night, 
+they are able to do other soothing activities in order to resume sleep (Allison, 
+2012). These mechanisms are based on the CBT theory of NES, so these path-
+ways should be tested further.
+Special Considerations With This Population
+Some persons with NES report that their first moments of awareness do not 
+occur until they are standing in front of the refrigerator, whereas others are 
+fully aware from the moment they wake and rise from bed. Persons with 
+reduced awareness typically are not able to identify automatic thoughts until 
+they are about to eat or are already eating. Treatment of nocturnal ingestions 
+focuses on increasing awareness progressively earlier in the waking process so 
+that patients can access and implement the CBT skills during the nocturnal 
+eating episodes. Behavioral approaches, such as placing a bell or some other 
+type of alarm on the door may be used in some cases to raise awareness before 
+they are even able to leave the bedroom.
+Persons with NES who have normal weight seem to endorse more severe 
+symptoms; a higher proportion of their intake occurs after dinner because they 
+seem to be restricting more during the day than persons with overweight or 
+obesity. Persons with NES who have normal weight also report higher levels of 
+compulsive exercise to compensate for their nocturnal ingestions. Thus, those 
+with NES with normal weight may need to pay more attention to compensa-
+tory behaviors and fear of weight gain than those with higher weights (Allison, 
+Lundgren, Moore, et al., 2010).
+DISSEMINATION OF CBT FOR EATING DISORDERS
+CBT has been evaluated through numerous RCTs and is regarded as the "gold 
+standard" treatment for BN and BED, but there remains limited access to effec-
+tive, evidence-based versions of this treatment. Some barriers include the avail-
+ability of resources, namely doctoral-level therapists, inadequate training for 
+therapists, and lack of competence and consistency in adhering to the treat-
+ment protocol (Fairburn & Wilson, 2013). Therefore, efforts to address these 
+172 Ruggieri, McCuen-Wurst, and Allison
+barriers are pivotal in the transfer from evidence-based research to clinical prac-
+tice. Self-help or guided self-help using evidence-based treatment manuals are 
+also valuable in disseminating these treatments (Peterson et al., 2009). The pri-
+mary manual for self-help CBT, developed by Fairburn (2013), includes infor-
+mation about the disorder and manualized instructions for implementation of 
+treatment.
+Given the severity of AN, professional help is typically recommended. CBT 
+and CBT-E trainings are offered through the Centre for Research on Eating 
+Disorders at Oxford (CREDO, https://www.credo-oxford.com), and profes-
+sional conferences, such as the Academy for Eating Disorders (https://www.
+AEDweb.org), can be valuable tools for therapists to learn this treatment. There 
+are few self-help CBT treatments for AN, with little outcome data currently 
+available.
+Much work is needed to disseminate CBT for NES given it is not well- 
+recognized (Goncalves et al., 2009). A self-help book is available (Allison et al., 
+2004), as well as a treatment manual (Allison, 2012).
+CONCLUSION AND FUTURE DIRECTIONS
+CBT is the first-line treatment recommended for both BN and BED. The evi-
+dence is less clear for the treatment of AN, as CBT reduces symptoms but is not 
+superior to other therapies. Even though it is the most commonly recom-
+mended therapy for BN and BED, the proportion of those patients who enter 
+remission with treatment typically ranges between 50% and 60%, leaving a 
+need for other therapies, given the large minority of patients whose symptoms 
+persist. Accessing treatment can be difficult, however, so it is important to note 
+that self-help manuals may be helpful, particularly in milder cases of BN and 
+BED. More work is needed to validate treatments for purging disorder and NES.

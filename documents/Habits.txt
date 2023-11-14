@@ -1,0 +1,793 @@
+Habits
+
+The Key to a Sustainable System of Deliberate 
+
+Practice
+Sam Malins, Scott D. Miller, Mark A. Hubble, and Daryl Chow
+8
+We are what we repeatedly do. Excellence, then, is not an act, but a habit.
+--WILL DURANT, 
+THE STORY OF PHILOSOPHY
+DECISION POINT
+Begin here if you have read the book 
+Better Results
+ (
+BR
+) and
+*  are routinely measuring your performance 
+and
+*  have collected sufficient data to establish a reliable, evidence-based profile 
+of your therapeutic effectiveness 
+and
+*  have completed the Taxonomy of Deliberate Practice Activities in  
+Psychotherapy 
+and
+*  have identified an individualized learning objective with the greatest chance 
+of improving your effectiveness 
+and
+*  need help developing consistent deliberate practice routines.
+T
+he previous chapters have summarized key factors worthy of deliberate 
+practice (DP) and offered concrete exercises to support the development 
+of related skills. It is hoped the information presented thus far serves to support 
+a decision to employ DP and provide clear direction on what to do. If this has 
+happened, there is some important news: Deciding to engage in DP is half the 
+182 
+Malins et al.
+battle in becoming more effective. Establishing a system to support implementation 
+and make it a routine is the next step in ensuring DP has a lasting impact 
+(Carden & Wood, 2018).
+As has been said before, DP is a long game. Frequently, gains are not notice-
+able in the short term (Ericsson, 2009; Ericsson et al., 1993). For this reason, 
+reliance on intention, willpower, or motivation is risky and unlikely to be 
+sufficient to sustain engagement following the burst of activity often associated 
+with interest in a new endeavor (Ajzen et al., 2009). Incidentally, brain systems 
+focused on thinking, decision making, and intentions operate differently from 
+those fueling long-standing behavior patterns, which are much slower to 
+change and require less conscious decision making (Wood & Runger, 2016). 
+Said another way, force of will may be sufficient to scale a mountain today 
+but not support a daily exercise regimen committed to yesterday. Doing the 
+latter requires establishing a new 
+habit
+--defined as "a settled tendency or usual 
+manner of behavior . . . that has become nearly or completely involuntary" 
+(Merriam-Webster, n.d.). Thankfully, research provides a clear picture of the 
+process involved.
+This chapter will
+* briefly summarize the empirical literature on long-term habit formation,
+* identify evidence-based principles for making DP a default part of one's 
+daily routine, and
+* provide exercises to support the development of and overcome any barriers 
+to a "DP habit."
+FIELD GUIDE TIP
+Set the 
+Field Guide
+ down and reread Chapter 14 
+in 
+Better Results
+, "Designing a Sustainable System 
+of Deliberate Practice."
+Next, using a scale from 1 to 5 (where  
+5 is 
+high
+ and 1 
+low
+), rate how well you have 
+implemented each of the four elements of a 
+successful deliberate practice plan. Known as 
+ARPS, these include (a) automated structure,  
+(b) reference point, (c) playful experimentations, 
+and (d) support persons.
+Reading further without first working at 
+improving the implementation of any element 
+scoring 3 or lower risks DP becoming just one 
+more interesting but unused idea a therapist 
+will come across in the course of their profes-
+sional lifetime (Michie et al., 2009; Webb & 
+Sheeran, 2006).
+Habits 
+183
+REVIEW OF THE RESEARCH
+A defining characteristic of a habit is that it occurs with little conscious effort 
+or thought (Mazar & Wood, 2018; Verplanken, 2006; Wood & Neal, 2007). 
+Central to its development is "automaticity," wherein environmental cues 
+trigger the execution of a predictable pattern of behavior outside a person's 
+intention or awareness (Bargh, 1994). This definition clarifies habit formation 
+is more than repetition (although, as will be seen, doing something over and 
+again plays a role) or merely the development of a sense of familiarity. Speaking 
+metaphorically, an established habit is like part of the furniture. It exists and 
+is employed effectively, with neither acknowledgment nor attention.
+Wood (2019) identified three reliable pathways to habit formation and 
+revision. The first is regular repetition. While it is widely believed habits take 
+21 days to form, the evidence shows otherwise. It takes much longer. In what is 
+now known as the seminal study on the subject, Lally et al. (2010) asked 96 
+volunteers to work on developing a new, healthy habit (e.g., eating, drinking, or 
+activity). Data on the frequency of completion and degree of automaticity indi-
+cated an average of 
+66
+ days were required (with a range from 18 to 254), with 
+more complex changes taking longer. Several other findings from the study 
+are informative. First, missing the occasional opportunity to practice a new 
+behavior resulted in only a negligible drop in the development of automaticity. 
+Clearly, hope for success is not dashed when choice or circumstance results 
+in a "time-out." Second, context is important (Lally et al., 2011). Practicing in 
+the same location on the same day at the same time is facilitative. Environ-
+ments with unique or memorable features are also helpful, providing cues for 
+action (e.g., "I do 20 minutes DP every Friday in my office following the team 
+meeting, and that's also when I have a caramel latte each week"). Third, and 
+finally, the wide range in times reported by Lally and colleagues indicates 
+some habits can form much more quickly. Identifying these and breaking 
+down more complex ones into their smaller constituent parts makes shorter, 
+easier-to-schedule practice periods possible, thereby increasing opportunities 
+for automation to develop more quickly (Kaushal & Rhodes, 2015). While on 
+the subject of time, Fogg (2020), following years of research at the Behavior 
+Design Lab at Stanford, concluded consistency is far more important than 
+amount. Doing a few minutes of a given activity on a regular basis, he reported, 
+yields more dividends than regularly increasing the time allotted to practice. 
+The reason is simple. It is easier to commit to and follow through with small 
+"entry points," recognizing they can always be extended. By contrast, setting 
+up longer periods and then failing to fill the time with practice can sponsor 
+frustration and disappointment.
+The second pathway is rewards. Forming new habits requires persistence 
+despite the pressure of distractions or more desirable pursuits (Andersson & 
+Bergman, 2011). Along the way, rewards can help maintain focus and con-
+centration, with particular types superior to others. Intrinsic rewards (e.g., 
+reminders of internal motivations) tend to be more effective than extrinsic 
+(e.g., money, validation by managers or a supervisor; Lally & Gardner, 2013). 
+184 
+Malins et al.
+External rewards 
+can
+ enhance habit formation, provided they do not become 
+the sole purpose of practicing (Deci et al., 1999). For example, a meta-analysis 
+of 40 years of research conducted by Cerasoli et al. (2014) found extrinsic 
+rewards negatively alter the link between internal motivation and perfor-
+mance outcomes. In particular, when the locus of control shifts to someone 
+or something outside the self, what one once did because it felt right or good 
+becomes a chore.
+The last pathway is reducing friction. Consider the following: slightly 
+delaying the time an elevator takes to arrive once the call button is pressed, 
+increasing the distance one must cross to access unhealthy food, and placing 
+recycling bins close to workers. All share a common characteristic. They either 
+increase or decrease the likelihood of a desirable behavior occurring and being 
+repeated: increasing the use of stairs, decreasing the consumption of "junk" 
+food, and separating reusables from trash, respectively (Clohessy et al., 2019; 
+Houten et al., 1981; Ludwig et al., 1998; Rozin et al., 2011; Soler et al., 2010; 
+Wansink et al., 2016). In the literature, such elements or conditions have come 
+to be called "friction" (Wood & Neal, 2016). Common to all work environments 
+and pursuits, they can be modified in the service of promoting habit formation. 
+Reduce the source to increase behavioral options and repetition; increase them, 
+and the opposite occurs.
+In their study of highly effective therapists, Miller and Hubble (2011) found 
+those who eventually rise to the top, becoming "supershrinks," do not "exist 
+in a vacuum, bursting suddenly on the scene following years of private toil" 
+(p. 25). Far from it. The best reside in a social context consisting of people--
+family, partners, colleagues, supervisors, teachers, coaches--who nurture and 
+support habits of excellence. It is familiar to anyone committed to DP: What 
+is required is continuously reaching for performance objectives beyond one's 
+current ability, adopting an error-centric mindset (i.e., welcoming mistakes as 
+learning opportunities), and being open to feedback.
+Greaney et al. (2018) reported on the role of social support in changing 
+risky habits (e.g., smoking, unhealthy eating, sedentary lifestyle). Participants 
+who identified one supportive person were significantly more successful than 
+those who tried to go it alone. "Participants identifying multiple support 
+persons," the authors found, "had 100% greater reduction" in multiple risky 
+behaviors (p. 198). Thus, when it comes to developing new habits, social support 
+is good, and more is better.
+EVIDENCE-BASED PRINCIPLES RELATED TO HABIT FORMATION
+No doubt, DP has the potential to help you achieve better results. The same 
+is seen in many domains of human performance. The challenge, once you 
+begin to implement it, is sustainability. Detailed suggestions were provided in 
+Chapter 14 of 
+Better Results
+ (
+BR
+; pp. 157-170). If you haven't already done so 
+and find yourself struggling to be consistent, we recommend returning to that 
+Habits 
+185
+section first, paying particular attention to the discussion of ARPS (automated 
+structure, reference point, playful experimentations, and support persons). 
+For ease of reference, Table 14.2 from 
+BR
+ summarizing the four elements and 
+potential action steps is represented here. 
+System
+Think . . .
+Description
+Automated structure
+Algorithmically
+Schedule it
+Protect the DP environment
+Create a black box
+Reference point
+Directionally
+Keep one eye on your outcome data
+Keep the other eye on your current learning 
+objectives (see TDPA)
+Playful experimentation
+Like a child
+Lateral learning
+Call on your ideal identity
+The "it's never too late to have a good 
+session" technique
+Arrange a surprise party
+Test to learn, don't learn for the test
+Support
+Communally
+Form a scenius community
+Seek out separate coaches for performance 
+and development
+The ARPS framework is supported by the research on habit formation 
+reviewed in this chapter. By definition, habits do not require planning or 
+forethought. Transforming new behaviors into habits does, however. You 
+must establish systems (e.g., turning off the phone, email notifications) and 
+structures (e.g., time, place, focus) that make engagement in DP 
+automatic
+, 
+independent of one's motivational state. Rewards are also important. Here 
+is where having a 
+reference point
+ is essential. What better reward for DP exists 
+than comparing your current performance data with your baseline and seeing 
+progress, the results of your hard work? In addition, maintaining a 
+playful
+attitude and spirit of 
+experimentation
+--especially in the face of the setbacks and 
+mistakes that are an integral part of DP--supports the risk-taking necessary for 
+the development of new ways of thinking and behaving (Brown & Vaughan, 
+2009). Last but not least is social support; its importance cannot be overstated. 
+Friends, colleagues, coaches, and a community greatly increase the chances 
+of successful habit formation.
+In addition to ARPS, three principles emerge from the review of the empir-
+ical literature.
+Principle 1: Identity Matters
+The role therapist identity can play in developing and sustaining DP habits 
+was introduced, along with concrete exercises, in 
+BR
+ (Miller et al., 2020, 
+186 
+Malins et al.
+pp. 123-137, 165). Simply put, our professional identity reflects the values 
+we hold about the world and our work. When consciously and intentionally 
+aligned with our DP objectives, the time and effort we devote to improving 
+our ability to help become intrinsically rewarding, adding meaning and 
+purpose to our engagement in challenging, long-term projects. Such align-
+ment, research further shows, enhances our sense of personal authenticity 
+(Gan & Chen, 2017).
+Principle 2: Anticipation Is the Best Defense
+Having a clear DP plan helps in habit formation. That said, many are too 
+idealistic in scope, failing to consider the barriers likely encountered along 
+the way (Buehler et al., 2010). When it comes to goal setting, current evi-
+dence suggests the combination of two strategies works best: first, visualizing 
+the desired objective (e.g., reviewing outcome data twice a week, spending 
+20 minutes twice a week at the end of the workday completing one of the 
+many exercises recommended in the 
+Field Guide
+) and, second, connecting it 
+with the key barriers to achievement and concrete plans for addressing such 
+obstacles. Making it easy to anticipate and adapt to problems encountered 
+(i.e., if situation X arises, I will use strategy Y to achieve goal Z) lessens  
+the chance of disrupting automaticity, characteristic of established habits 
+(Gollwitzer, 1999).
+Principle 3: You Have Done This Before
+More than 40% of what we do on a daily basis is habitual--patterns of thinking 
+and behaving you have already successfully created (Wood, 2019). Whether 
+deemed "good" or "bad," "healthy," or "unhealthy," the same process is 
+involved. In short, you have done this before. Habits may be hard work to 
+establish or change, but doing so is nothing new. Using what you have learned 
+from these experiences will be helpful in developing the habits necessary to 
+sustain your engagement in DP.
+EXERCISES FOR DEVELOPING THE HABITS SUPPORTING 
+
+DELIBERATE PRACTICE
+The following exercises are aligned with the principles and aim to help make 
+DP a permanent 
+and
+ evolving part of your professional development. Each 
+is to be completed within a specified time--most within 5 minutes. For this 
+reason, it will be helpful to have a timer present. No need for a fancy stop-
+watch because most mobile phones come with one. Each can be completed 
+alone or together with a colleague or coach. Table 8.1 provides an at-a-glance 
+summary of the principles and their associated exercises. The first four revisit 
+the ARPS framework.
+Habits 
+187
+TABLE 8.1.
+ Summary of Principles and Exercises
+Principle
+Principle summary
+Related exercises
+Exercise summary
+1: Automated structure
+Build DP into your existing 
+automated habits.
+1: Make it so 
+2: Make it easy and rewarding
+Schedule DP and specify the particular activities for  
+each episode to make them more likely to happen.
+Incorporate small, but meaningful rewards into DP,  
+ideally linked to its overall purpose.
+2: Reference point
+Finding a range of ways to track 
+progress toward goals helps 
+when improvement is slow.
+3: Where are you now?
+Build qualitative and quantitative performance benchmarks 
+into DP alongside regular reviews.
+3: Playful experimentation
+Approach DP with playfulness to 
+maintain creativity and manage 
+difficulties.
+4: Playful progress
+5: All change
+6: Parallel play
+Use comic rewards, light-hearted exercises with friends 
+and family, music or rhyming in DP.
+Capitalize on current or upcoming changes that disrupt 
+existing habits and may make room for new ones.
+Try out DP in areas of your life other than psychotherapy, 
+particularly active rest hobbies.
+4: Support
+Do not approach DP alone;  
+invite and recruit others to 
+support DP.
+7: Choosing a coach
+8: Building a support network
+Identify one or two potential coaches and contact them 
+for an initial conversation.
+Reach out to a peer or network of peers who are either 
+using DP or you think could benefit from trying it.
+5: Identify your identity
+Build rewards into DP that remind 
+you of who you are becoming 
+as you practice.
+9: The retirement party
+Write a speech that includes what you would like to be 
+said about you and your future work at retirement.
+6: Forewarned is forearmed
+When planning goals, make sure 
+they account for the most 
+important barriers to progress.
+10: The premortem
+Plan for potential problems with implementing DP by 
+imagining you have already failed and why it happened.
+7: You have done this before
+Use strategies and knowledge 
+you have gained from building 
+habits previously.
+11: This is not your first rodeo
+Go through your habit history, identifying factors that 
+helped and hindered you in building habits.
+Note.
+ DP = deliberate practice.
+188 
+Malins et al.
+Exercise 1: Make It So (5 minutes)
+Principle: The 
+A
+
+ in ARPS
+
+Purpose
+Busyness is a common barrier to making DP routine. Scheduling ahead of 
+time is the "antidote." Start small--10 to 20 minutes. Eliminate as much 
+prep work as possible by identifying specific tasks you can begin at the outset 
+of your scheduled time. Small, meaningful, and clearly defined tasks will help 
+you to get going and make the time feel like it was well spent, especially at 
+the start.
+Task
+Make short periods of DP a part of your schedule for the coming month.  
+To ensure success,
+* make it obvious in your calendar so it cannot be overwritten and is visible 
+to you and anyone who handles your schedule;
+* connect your DP to an established habit in your work routine (e.g., after 
+lunch or a regular meeting that is unlikely to be canceled);
+* reward yourself after completing a DP activity;
+* include time to rest in the scheduling--DP is effortful, so shorter, intensive 
+periods of DP followed by brief rests is more effective; and
+* share what you are doing with others, friends, family, and particularly 
+colleagues who are incorporating DP in their work.
+Exercise 2: Make It Easy and Rewarding (5-15 minutes)
+Principle: 1
+Purpose
+It is learning theory 101. What you reward increases. Punishment suppresses 
+behavior. Identifying small, meaningful rewards will support your motivation 
+to continue DP, especially at the outset when the most effort is required.
+Task
+Mindful of the research reviewed earlier documenting the potency of intrinsic 
+rewards and the reduction of friction in habit formation, devote time to 
+creating a work environment that makes DP easy, enjoyable, and productive 
+(people, decor, artwork, furniture, natural light, everyday conveniences, and 
+tangible rewards).
+* Make a list of your reasons for doing DP. In constructing or organizing your 
+workspace, find ways to remind yourself of your best intentions. It could be 
+a picture, an objet d'art, a poster with an inspirational quote, or an avatar 
+on your social media profile. It could even be a reminder on your phone or 
+computer.
+Habits 
+189
+* Spend a few minutes each week for 1 month noting what gets in the way 
+of your DP. It could be clutter, excessive noise, hunger, size of caseload, or 
+anything. The following month, rank order the barriers from most to least 
+disruptive and start addressing them one at a time, starting at the top.
+* Make a list of people with whom you will share your successes and strug-
+gles, seeking out cheerleaders rather than naysayers, team players rather 
+than competitors.
+Exercise 3: Where Are You Now? (5-15 minutes)
+Principle: 2
+Purpose
+In a long-term learning project such as DP, having a regular, understandable 
+assessment of key performance indicators helps identify progress where it 
+might not be noticed otherwise.
+Task
+Identify and/or build in key performance reference points of where you  
+are now:
+* Find out or calculate your current outcome performance metrics, ideally 
+benchmarked against the performance of other psychotherapists, as dis-
+cussed in Chapter 1.
+* Identify your current individualized learning objective, preferably using 
+recordings of your sessions to help you discover it, coupled with your 
+aggregated outcomes.
+* Keep a recording of a recent session that highlighted some current skill 
+deficits you will work on with DP, where you have permission to retain 
+the recording for a few months. Diarize a time to listen back to this session 
+segment after a couple of months of DP.
+* Use your current "how I do therapy" blueprint (see Chapter 1 for further 
+explanation) as a qualitative benchmark, redrafting and reviewing it as 
+your practice evolves with DP.
+At least once a month, review these way markers as part of your DP to help 
+identify points of change.
+Exercise 4: Playful Progress (5-15 minutes)
+Principle: 3
+Purpose
+DP can be hard, and the slow progress can be disheartening. Therefore, this 
+exercise aims to help find ways of bringing playfulness to the process, which 
+can maintain a sense of fun, creativity, and lightheartedness.
+190 
+Malins et al.
+Task
+Brainstorm ways to bring playfulness into DP, then try one or two out at 
+your next DP sessions. Some examples of bringing playfulness to DP are
+* setting your individualized learning goals to music, such as a jingle on a 
+commercial (alternatively, work out a rhyme that describes your learning 
+objective);
+* trying out the therapeutic skills you are developing in DP with friends and 
+family members during casual conversations and seeking their feedback 
+in a lighthearted way; and
+* making comic rewards for attempts at improvement (e.g., winning a jelly 
+bean or chocolate, gaining a plastic trophy for a set number of DP hours).
+Exercise 5: All Change (5-15 minutes)
+Principle: 3
+Purpose
+This exercise aims to help you identify areas of upcoming or existing change that 
+may present a way to playfully introduce new habits that could support DP.
+Task
+Take 2 to 5 minutes to list changes that are going on in your home or work 
+life at the moment or that have occurred recently. Your list can include any-
+thing, but the following are some examples to prompt your thinking to 
+include changes you may have badged as positive or negative:
+* changing jobs (Yes. Drastic. But some jobs are hazardous to your well-being 
+and are not conducive to your development.)
+* moving desks
+* working in a new way or system
+* having a new supervisor or coach
+* getting a new pet, child, or partner
+Consider the following:
+* How could these changes disrupt the status quo in a way that paves a route 
+to new DP-related habits? Take 2 to 5 minutes to brainstorm ways that 
+changes in your life might facilitate the introduction of DP.
+* Take 1 to 5 minutes to consider where you might start with leveraging this 
+change to support DP.
+Exercise 6: Parallel Play (5-10 minutes to start)
+Principle: 3
+Purpose
+Many high achievers in demanding roles find 
+active rest
+, hobbies that, in some 
+ways, reflect themes of their work but without key drawbacks. A quintessential 
+Habits 
+191
+example of this is academics who are rock climbers: Climbing takes thought, 
+planning, and a strategy and is time consuming--just like research. However, 
+with rock climbing, you get the exhilaration of success by the end of the 
+day rather than having to wait months or years for the outcome of research 
+(Mitchell, 1983). This exercise aims to identify activities that are outside the 
+realm of psychotherapy DP but might draw on parallel principles.
+Task
+Are there any activities you do or used to do that can give a similar sense of 
+achievement or satisfaction as psychotherapy but in a different sphere of life? 
+For example, playing basketball may, at face value, look completely unrelated 
+to psychotherapy, but perhaps there are parallels in the way that you aim to 
+collaborate with players on your team or the way you strategically analyze how 
+to address particularly challenging defenses in a time-out. However, basketball 
+also avoids some of the difficulties of psychotherapy--you get to know how 
+it pans out by the end of the evening rather than working for several weeks, 
+months, or years to see the fruit of your labor.
+* Identify an activity or hobby that is like psychotherapy but not psycho-
+therapy, and consider trying DP in this area at the same time as DP in psycho-
+therapy. Continuing our basketball example, rather than just shooting around 
+at random when you are starting to play, work out a short practice that is 
+likely to help you shoot more effectively, even though it may take small 
+incremental gains. A similar approach could be taken to swimming, running, 
+chess, crochet, or any hobby requiring specific trainable skills. Think of a 
+way of doing DP that isn't psychotherapy DP and can be playful or fun.
+* If you once found an activity that gave similar satisfaction to psychotherapy, 
+but you no longer do it, now might be a good time to restart this pursuit 
+to provide a release from the efforts of DP for psychotherapy in a different 
+area that could provide a similar sense of reward.
+Exercise 7: Choosing a Coach (5-10 minutes)
+Principle: 4
+Purpose
+Given the central role of a coach in DP, this exercise aims to help identify 
+someone with the appropriate characteristics.
+Task
+Identify one or two potential coaches and contact them one at a time for an 
+initial conversation. Aim high with this choice (see 
+BR
+; Miller et al., 2020, 
+pp. 35-39, 112-113). Aim for someone who you feel
+* has authority but is not authoritarian,
+* is invested in you finding your best way of doing things rather than repli-
+cating their approach,
+192 
+Malins et al.
+* is clear about where you want help, and
+* has sufficient skill to be able to identify your deficits and offer strategies to 
+remediate them.
+Exercise 8: Building a Support Network (5-10 minutes)
+Principle: 4
+Purpose
+Given the central role of a coach in DP, this exercise aims to help identify 
+someone with the appropriate characteristics.
+Task
+Reach out to a peer or network of peers who are embarking on the use of DP 
+in their practice or people you would like to encourage to do so. You could 
+collaborate with someone who works in your area or reach out beyond. 
+The International Center for Clinical Excellence network might be a useful 
+starting place (see https://www.iccexcellence.com).
+Exercise 9: The Retirement Party (30 minutes)
+Principle: 5
+Purpose
+This is an adaptation of an existing exercise (Harris, 2009) that aims to link 
+personal values with DP and the longer term results of persisting with it.
+Task
+Imagine you set up a sustainable system of DP from this day forth. It is now 
+your retirement party, and a close friend who knows you well and cares about 
+you gets up in front of your family, friends, and colleagues to give a speech 
+about how you conducted the remainder of your career. What would you want 
+them to be able to say about you and what was important to you during the 
+rest of your career?
+* Take a couple of minutes to picture the scene and imagine what principles 
+or values you would like to hear your friend say that you upheld and stood 
+for through the rest of your career. Write these down (5 minutes).
+* Now your friend describes some of the things you did on a regular basis that 
+showed what you valued. What routine practices would you like them to 
+be able to cite? Some might be activities you already do, but some may be 
+activities you aspire to do. List these regular, routine activities (3 minutes).
+* Where would DP fit in this speech? What would your friend say about
+ - what you did,
+ - how you made DP part of your day-to-day life,
+ - how you overcame barriers to keep it going throughout your career, and
+ - how DP impacted your personal and professional life and those you 
+encountered?
+Habits 
+193
+* Spend 3 minutes on each of these areas, writing down what you would 
+like your friend to be able to say at your retirement party.
+* Look back over what you have written either alone, with a colleague who 
+has completed the same exercise or with a coach or supervisor. Spend 
+10 minutes reviewing these questions in reflection on this exercise:
+ - What are the central threads running throughout the speech that are 
+components of your identity you would like to nurture and grow?
+ - How might DP support this?
+ - What does this exercise tell you about how DP might need to look for it 
+to play a consistent role in your career?
+ - What does this speech tell you about where to start with implementing 
+DP now?
+Exercise 9: The 5-Minute Version
+Imagine a close friend giving a speech about the rest of your career at your 
+retirement party. Spend a minute each on (a) thinking about where DP would 
+fit in this speech, (b) how DP would support the important values you would 
+like to uphold in the rest of your career, and (c) how DP would look and fit in 
+your ideal future career. Now spend 2 minutes reflecting on what this tells 
+you about how you want DP to affect your identity and where it would be 
+best to start with this system.
+Exercise 10: The Premortem (30 minutes)
+Principle: 6
+Purpose
+Prospective hindsight is a process of imagining a future event has already 
+happened and helps people to be more accurate in predicting how plans 
+will progress (Mitchell et al., 1989). Gary Klein (2007) applied this approach 
+to project planning by asking participants to imagine a project has already 
+failed. This approach helped participants identify weaknesses in the plan and 
+adjustments required to improve it. The premortem approach is applied to DP 
+implementation in this exercise.
+Task
+Imagine you started a system of DP today, and you are looking back a year 
+from now. It has been a complete disaster and has failed miserably.
+* Write a detailed description of why it failed so badly and all the reasons 
+that caused the failure. Remember to write in the past tense, looking back 
+a year from now. This helps overcome futuristic optimism and the planning 
+fallacy and gives clarity on potential barriers that may be difficult to call to 
+mind when hopeful about a future plan (10 minutes).
+* Create an "if-then" guide for each potential problem your DP system may 
+face. Discuss this with a colleague or a coach or supervisor to help brainstorm 
+194 
+Malins et al.
+adaptations to your plans that would account for the barriers you are likely 
+to face (15 minutes).
+* In case these were not identified in your premortem, some of the most 
+likely barriers are described next. Spend 5 minutes checking whether the 
+plans you have made will address these issues:
+ -
+ The pull to perform:
+ It is unlikely anyone in your service will be 
+pushing you to make DP happen, but there may well be a pull to get 
+more clients seen more quickly, which could cut into DP time. How 
+would you deal with that?
+ -
+ A hard day's night:
+ As described earlier, DP is effortful and tiring, so it 
+may not be the most appetizing activity to follow a hard day, week, or 
+therapy session. The mental effort involved in DP could spoil your plans 
+when internal resources are depleted. How could you overcome that?
+ -
+ Resource restriction:
+ Professional development activities are limited 
+in almost all psychotherapy organizations and are usually focused on 
+attaining competence (or at least familiarity) with new therapeutic 
+techniques. This is unlikely to leave much room for DP, which aims to 
+be an ongoing component of professional development for all therapy 
+techniques. How would you tackle this conundrum?
+ -
+ Softening the blow (maybe too much):
+ Some supervisors or coaches 
+might feel DP is a way of being excessively self-critical. They may empha-
+size the complexity of a client's problems, say that your efforts are good 
+enough, or perhaps infer that you are nit-picking by identifying a small 
+unhelpful habit in the grand scheme of things. In general, your support 
+systems may aim to comfort you in a well-meaning manner when you 
+identify microskills for DP. There may be truth in what they say, but how 
+will you manage this dynamic to progress with DP?
+Exercise 10: The 5-Minute Version
+Spend 2 minutes imagining that your attempt to embed DP fails terribly 
+over the coming months. Spend 1 minute identifying the top three reasons 
+why this happened. Pick the most important of these three reasons and take 
+2 minutes to make at least one "if-then" plan for how you would tackle it.
+Exercise 11a: This Is Not Your First Rodeo, Part 1--Your Forgotten 
+Rodeos (15-20 minutes for each part, ideally alone initially, then reflect 
+with a coach, practice partner, or small group)
+Principle: 7
+Purpose
+This series of exercises aims to draw on your previous experience of building 
+sustainable habits (or attempts to do so) and how this can inform your plan 
+for a sustainable DP system.
+Habits 
+195
+Task
+Think through times in your personal or professional life when you have felt 
+excited, enthused, determined, or energized to try something new or different, 
+and it has not worked out. Perhaps you started but could not stick with it, or 
+nothing happened at all. With the benefit of hindsight, what got in the way 
+in each of these areas?
+* 
+Existing routine:
+ Specifically, what daily structures or habits prevented 
+this from becoming part of your normal life?
+* 
+Environment:
+ What environmental cues (or the absence of such cues) 
+might have made it harder for this habit to form?
+* 
+People:
+ Which people did you not have on board who might have helped 
+with this (or potentially obstructed habit formation because they were not 
+involved)?
+* 
+Willpower:
+ How much importance did you place on willpower in making 
+this habit work?
+Exercise 11b: This Is Not Your First Rodeo, Part 2--Your Winning 
+Rodeos (15-20 minutes)
+Principle: 7
+Purpose
+This part of the exercise aims to make use of helpful strategies established in 
+previous or existing habits that may be applied to DP.
+Task
+Think about helpful, healthy, and/or valued activities you do regularly as part 
+of your current routine at work or in your personal life.
+* Specifically identify two to five habits or routines that are important to 
+you that support aspects of your work or your life more broadly. These 
+are likely to be habits you take completely for granted and may be so deep 
+in the water that you could easily overlook them. If it is hard to think of 
+these, go through a typical day from waking up, and in 30-minute inter-
+vals, identify activities that are helpful for you.
+* What helped these habits to form? Again, be aware of the urge just to 
+shrug your shoulders and say, "Well, they just seemed to happen." If this 
+is your experience, it is just underlining that massive, long-standing bouts 
+of willpower are not the key to long-standing habit formation. This is the 
+beauty of habits: Their ability to continue is barely noticeable in terms of 
+conscious effort, but this makes it difficult to identify their mechanisms. 
+One way to do this is to track back to a time when you were not doing the 
+habit and consider how it started.
+196 
+Malins et al.
+* Think through the role played by each of the following areas in forming 
+each habit.
+ -
+ Existing routine:
+ What aspects of your existing routine (at the time 
+the habit was started) helped the new habit to form? In what way did 
+existing behaviors cue the new habit? What factors were reinforcing, 
+rewarding, reminding, or recognizing occasions of carrying out the habit?
+ -
+ Environment:
+ What was going on in your environment that cued the 
+new habit--even if in small, seemingly trivial ways, such as objects being 
+close and accessible or far away and inaccessible?
+ -
+ People:
+ Who was involved in either helping form this habit (maybe 
+you did it with someone or for someone) or supported you in forming 
+this habit? What did they do? How did you get them involved?
+ -
+ Willpower:
+ In the long term, what role did willpower play in estab-
+lishing this habit?
+Exercise 11c: This Is Not Your First Rodeo, Part 3--Your Next Rodeo 
+(15-20 minutes)
+Principle: 7
+Purpose
+The final part of this exercise uses what was learned in Parts 1 and 2 to distill 
+strategies likely to be helpful in DP, alongside possible barriers and how to 
+manage them.
+Task
+Reflect on the key themes you noticed while completing Parts 1 and 2 with a 
+coach, practice partner, or small group who have also completed the exercise.
+* Use your reflections from Parts 1 and 2 to complete Table 8.2.
+* Identify what has been helpful and unhelpful from your previous experi-
+ences of successful and unsuccessful attempts to integrate new habits into 
+your routine.
+TABLE 8.2.
+ Applying Learning From Previous Habits to a Sustainable System of DP
+Areas for rewards, reinforcers, 
+reminders, and recognition
+Unhelpful with 
+habits before
+Helpful with  
+habits before
+Helpful for DP  
+habits now
+Integrating into routine 
+Environmental cues 
+Involvement of people 
+Where willpower fits 
+Habits 
+197
+* From these elements, what do you think might help you establish a 
+sustainable system of DP? Pay particular attention to rewards, reinforcers, 
+reminders, and recognition in the way you could
+ - integrate DP into your existing routine,
+ - shape your environment to encourage DP,
+ - helpfully involve other people in your DP habits, and
+ - keep willpower in its rightful place.
+Exercise 11: The 5-Minute Version
+Spend 2 minutes identifying healthy, helpful, and/or valued activities you carry 
+out on a regular basis. Now spend 2 minutes identifying habits you wanted to 
+form but failed to do so. Take a minute to reflect on the differences between the 
+two and how this informs your approach to embedding DP sustainably.
+SUMMARY
+No matter how motivated you feel about DP right now or how strong you 
+perceive your willpower to be, the main message of this chapter is that the 
+structured systems you build around DP hold more sway in keeping you going 
+in the longer term. Specifically, this chapter outlined current evidence on using 
+rewards linked to intrinsic motivators, managing the environment to promote 
+and protect DP, finding appropriate support, and tracking progress. Perhaps most 
+important, this chapter discussed the likelihood of failure and how responses 
+to obstacles can be key in the continuation of a challenging but important 
+activity like DP. Like some sustainable practices in energy use, the activities 
+recommended in this chapter could seem to slow immediate progress and feel 
+costly, but in the long run, aim to generate their own energy, requiring less 
+motivation-related resources over time for sustaining DP.

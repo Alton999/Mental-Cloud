@@ -1,0 +1,974 @@
+10
+
+Resolution of Interpersonal 
+
+Trauma Through Adaptive 
+
+Anger
+
+T
+he preceding chapters dealt with strengthening clients' sense of self by 
+helping them work through fear, avoidance, and shame during Phase 2 of 
+emotion-focused therapy for trauma (EFTT). This is necessary before clients 
+can hold offenders accountable for harm, fully grieve losses, and thereby 
+resolve their issues with offenders and attachment figures. This chapter marks 
+the beginning of Phase 3 of EFTT, which is defined not by a particular session 
+number but by establishing a more sustained focus on resolving interpersonal 
+issues. As such, we open this chapter with a brief review of theory and research 
+related to the resolution of trauma. After that, the lion's share of this chapter 
+focuses on anger. This is because the catalyst for resolution in this phase is full 
+experience and expression of previously inhibited adaptive anger at maltreat-
+ment and sadness at loss, which lead to meaning exploration and change. Once 
+these emotions are accessed, the process of resolution typically moves forward 
+relatively quickly; this arousal and resolution phase of therapy may take only 
+a few sessions. To that end, we describe research supporting the benefits of 
+healthy anger expression and intervention principles and strategies, first for 
+reducing maladaptive anger, then for accessing adaptive anger in response to 
+maltreatment during the imaginal confrontation (IC) procedure.
+https://doi.org/10.1037/0000336-011
+Emotion-Focused Therapy for Complex Trauma: An Integrative Approach, Second Edition
+,  
+by S. C. Paivio and A. Pascual-Leone
+Copyright (c) 2023 by the American Psychological Association. All rights reserved.
+236 
+Emotion-Focused Therapy for Complex Trauma
+REVIEW OF THEORY AND RESEARCH ON THE RESOLUTION OF 
+
+INTERPERSONAL TRAUMA
+All treatments for complex trauma recognize that repeated betrayal and mal-
+treatment at the hands of caregivers and loved ones cause a more complex 
+array of disturbances than exposure to a single traumatic event (Ford & Courtois, 
+2020). EFTT is a distinct treatment approach in its emphasis not only on 
+reducing current symptom distress and self and interpersonal problems but 
+also on resolving past issues with specific attachment figures (and offenders) 
+that continue to be sources of distress.
+EFTT Definition of Relational Trauma Resolution
+Resolution of relational trauma in EFTT involves developing increased emo-
+tional competence and more adaptive views of the self and specific others  
+(i.e., perpetrators) who are the focus of therapy. More adaptive emotional pro-
+cesses include reduced negative feelings concerning the other (e.g., hurt, fear, 
+shame, anger, sadness) and an increased ability to acknowledge and attend 
+to one's needs. When the client continues to be in a relationship with past 
+offenders, it could also mean letting go of the hope that these individuals will 
+meet their needs (e.g., attention, approval, respect) and letting go of expecta-
+tions that the other will acknowledge responsibility for harm, apologize, or 
+change. However, clients do not give up on their own needs but rather find 
+alternative ways to meet them.
+Resolution also includes increased self-esteem, despite the other's opinions. 
+It involves reducing the self-blame for one's victimization and an increased 
+ability to assert and stand up for oneself. Overall, there is a growing detachment 
+or increased separation from the other and the traumatic events. Changes in 
+client perceptions of the other include a shift from globally negative views of 
+the other (the "bad object") to a more differentiated and realistic perspective,  
+a better understanding of the other's position and actions toward the client, and 
+clearly holding others responsible for the harm they have caused. The client 
+may or may not feel more positively toward the other or feel forgiving. The 
+relationship between resolution and forgiveness becomes important here and is 
+discussed in the following section. Resolving issues in relationships with attach-
+ment figures and forging a strong therapeutic relationship generalizes to reduced 
+symptom distress, increased self-esteem, and reduced general interpersonal 
+problems. These changes help cultivate or restore the capacity for interpersonal 
+connectedness that all too often was shattered by the trauma. This definition of 
+resolution in EFTT shares features with the construct of posttraumatic growth 
+(Tedeschi et al., 2018). According to this idea, after struggling to come to terms 
+with traumatic experiences, people report personal growth that exceeds their 
+pretrauma levels of functioning. Thus, out of the devastation of trauma, there 
+is the possibility of constructing something new. These new (rather than recov-
+ered) benefits include increased personal strength, greater clarity about values 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+237
+(e.g., the importance of relationships), closer connections with family and loved 
+ones, and a generally stronger sense of spirituality or personal meaning in life.
+The process of interpersonal resolution in Phase 3 of EFTT develops from 
+the process of clients fully acknowledging the damage and harm that has been 
+done to them and identifying the cause of damage and the person(s) respon-
+sible (e.g., "His rages terrified me, destroyed my mother, ruined our family, 
+made me take on a responsibility for the family that was way beyond my 
+years"). This can be accomplished only by allowing and fully expressing feel-
+ings of anger and sadness about the other and traumatic events (e.g., "I hate 
+him for what he did to me and my mother," "I feel so sad that we all missed 
+out on so much"). In EFTT, this occurs in the context of the IC procedure (or 
+alternative) whereby clients directly (or indirectly) confront imagined perpe-
+trators of harm.
+The Question of Forgiveness
+The construct of forgiveness in EFTT overlaps with but is not identical to res-
+olution and is particularly relevant to resolution through anger. Facilitating 
+forgiveness is controversial partly because it sometimes comes with moral 
+and religious imperatives that may seem distasteful to some individuals. It is 
+also unclear whether forgiveness is appropriate in situations of extreme cruelty 
+and childhood abuse and whether forgiveness, as a therapeutic outcome, 
+affords additional benefits beyond other forms of resolution (Chagigiorgis & 
+Paivio, 2006). In any case, forgiveness does not involve condoning the behavior 
+of offenders and bypassing anger but rather acknowledging offenses and 
+working through anger.
+Widely held definitions of forgiveness suggest that it requires both psycho-
+logical separation from and increased affiliation with offenders. An analysis of 
+posttherapy interviews with clients in EFTT indicated that although most clients 
+(82%) reported resolving issues with perpetrators, only a small portion (23%) 
+of those who resolved their issues also reported forgiving the perpetrators 
+(Chagigiorgis & Paivio, 2006). This is consistent with findings from a study of 
+emotion-focused therapy for the forgiveness of "emotional injuries" using the 
+empty-chair intervention (Greenberg et al., 2008). Even in that study, with a 
+nonclinical sample that explicitly aimed at forgiveness, less than half of clients 
+actually forgave offenders (more "let go" of their anger).
+In EFTT, specifically, clients more often forgave neglectful as opposed to 
+abusive others (Chagigiorgis & Paivio, 2006). These neglectful others tended 
+to be nonprotective mothers. As a case in point, recall that the client Monica 
+was able to forgive her dead mother by the end of therapy. This suggests that 
+clients may be more motivated to forgive primary attachment figures. This 
+also could be a function of more time spent on task because more time in 
+treatment was spent focusing on issues with primary attachment figures (e.g., as 
+opposed to estranged abusive fathers or nonfamily members). Research on 
+forgiveness also indicates that people's motivation to forgive is a function of 
+238 
+Emotion-Focused Therapy for Complex Trauma
+many factors, including religious or moral beliefs and the belief that forgive-
+ness will reduce personal distress (for a review, see Chagigiorgis & Paivio, 
+2006). Moreover, clients in emotion-focused therapy for couples were more 
+likely to forgive a romantic partner when they believed that partner truly 
+regretted and felt shame about the transgressions (Woldarsky Meneses & 
+McKinnon, 2019). This finding likely also applies to forgiveness of perpetrators 
+in EFTT.
+Therefore, as noted earlier, EFTT does not advocate forgiveness as a treat-
+ment goal but rather leaves this up to the individual client. If forgiveness of 
+the other has been an appropriate and desired goal for the client, this issue 
+will surface again during Phase 3 of therapy as the client moves closer to res-
+olution. Issues of forgiveness also could emerge for the first time during this 
+phase as perceptions of self and other evolve. In either case, tracking clients' 
+perspectives on this issue may be a key part of the resolution process.
+The Process of Interpersonal Trauma Resolution in EFTT
+The process of interpersonal resolution in EFTT is based on steps in the model 
+introduced in Chapter 6 and presented in Figure 6.1. This resolution process 
+also parallels the general process of change shown in Figure 3.1 of Chapter 3. 
+In both these figures, we see that pathways to resolution and change are 
+through anger and sadness or grief, which is the focus of the next chapter. Full 
+expression of adaptive anger in EFTT occurs following the reduction of fear and 
+shame (the focus of Phase 2 and the preceding chapters). At the emergence 
+of adaptive anger, clients are encouraged to reengage in the IC (or evocative 
+exploration) procedure and express anger directly to the imagined other. Again, 
+the relatively uninhibited expression of adaptive emotion to imagined offenders 
+marks the shift into Phase 3. Although resolution through anger does not 
+necessarily occur before grieving losses, the strength that comes with anger 
+frequently helps clients face the vulnerability of sadness and loss.
+ANGER AND TRAUMA ACROSS THEORETICAL PERSPECTIVES
+There is abundant literature documenting the centrality of anger in trauma. 
+Anger at violation and maltreatment is a healthy emotion that motivates self- 
+defense but becomes problematic when it is overgeneralized, underregulated, 
+used to cover more vulnerable emotional experience, or turned against the 
+self. Because areas of the brain responsible for affect regulation develop in the 
+context of secure attachment relationships, failure of brain development may 
+account for the hair-trigger anger response observed in many survivors of 
+child abuse trauma (Schore, 2003). Anger and aggression are also learned 
+responses and ways of coping. There is considerable evidence supporting a 
+link between both childhood physical abuse and exposure to violence with 
+aggressive behavior later in life (Wolfe, 2007). Anger dysregulation is a particular 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+239
+problem among war veterans who have been exposed to prolonged and 
+extreme violence (Novaco & Chemtob, 2015). Dysregulated anger is also a 
+feature of borderline personality disorder that is associated with a history of 
+childhood abuse.
+Promoting the experience and expression of anger in therapy is controversial. 
+Anger is a powerful emotion, and when accompanied by aggressive behavior, it 
+can have destructive personal, interpersonal, and societal consequences. More-
+over, most research has demonstrated that although increasing anger arousal 
+(venting or catharsis) can produce immediate relief, it does not reduce anger in 
+the long term (Fernandez, 2016). Therefore, with few exceptions, reducing mal-
+adaptive anger is the focus of most approaches to trauma therapy when anger is 
+identified as a problem (e.g., Linehan, 2015; Novaco & Chemtob, 2015). How-
+ever, some recent cognitive behavior therapy (CBT) approaches to therapy for 
+complex trauma (e.g., Jackson et al., 2020) also acknowledge fear of anger as a 
+problem. These approaches also include training in emotion awareness and 
+assertive communication skills.
+However, EFTT distinguishes among different types of anger and specifies 
+criteria for adaptive anger experience and expression, as well as the circum-
+scribed parameters under which anger intensification in therapy is appropriate. 
+Criteria for the healthy expression of adaptive anger in EFTT (described later) 
+are compatible with principles that would be applied in CBT assertiveness 
+training (e.g., Linehan, 2015)--even if those treatment theories do not explic-
+itly differentiate between different kinds of anger. When researchers examined 
+the benefit of skills training in dialectical behavior therapy for borderline 
+personality disorder, they found increases in assertive anger (rather than a 
+reduction in anger, per se) mediated the benefits of treatment (Kramer et al., 
+2016). This finding is consistent with EFTT theory. However, to promote these 
+adaptive emotional experiences, EFTT focuses more on exploring the personal 
+meaning of disavowed anger than on the behavioral aspects of skills training.
+Traditional psychodynamic approaches also focus on the meaning associated 
+with defensive anger, or "anger turned inward," and help clients acknowledge 
+the underlying feelings or express anger at the appropriate source. Meanwhile, 
+intensive short-term dynamic psychotherapy (Abbass & Town, 2013) empha-
+sizes increasing arousal to increase awareness of suppressed anger and uncon-
+scious impulses. EFTT includes anger intensification strategies under specific 
+conditions--increasing arousal is only appropriate for accessing inhibited adap-
+tive anger to access the associated adaptive information. Paradoxically, a healthy 
+anger experience can sometimes facilitate forgiveness. For example, Monica 
+had been unable to forgive her mother, who had committed suicide, largely 
+because Monica's anger at her mother had been invalidated and suppressed for 
+so many years. Once one's anger has been acknowledged, validated, assertively 
+expressed, and understood, people feel stronger and more self-confident, and 
+they are freer to focus on, empathize with, and forgive others.
+Several research studies support the benefits of adaptive anger expression 
+in EFTT and similar approaches. First, indirect support comes from outcome 
+240 
+Emotion-Focused Therapy for Complex Trauma
+and process-outcome studies that support the treatment model, in general, 
+with its emphasis on adaptive anger expression (Paivio et al., 2010; Paivio & 
+Nieuwenhuis, 2001). Similar results have been reported for comparable 
+emotion-focused therapies for other disorders (see Greenberg & Goldman, 
+2019a) in which expression of inhibited anger is a key therapy process. A host 
+of emotion-focused therapy process studies on a range of treatment concerns 
+have used observational methods to track healthy assertive anger and shown that 
+it predicts symptom reduction post-session and at the end of treatment (Pascual- 
+Leone & Kramer, 2019). One of those studies specifically examined EFTT and 
+showed that when a client's expression of assertive anger--among other primary 
+adaptive emotions--increased over the course of therapy, it more than doubled 
+the likelihood of good treatment outcome (Khayyat-Abuaita et al., 2019).
+Direct support for the benefits of anger expression comes from studies that 
+specifically examined the role of anger in EFTT. In one study (Holowaty & 
+Paivio, 2012), 50% of the episodes identified by clients as helpful had anger as 
+the most predominantly expressed emotion (followed by sadness, fear, and 
+shame). Furthermore, results indicated that emotional arousal was signifi-
+cantly higher in helpful episodes than in a group of control episodes. Another 
+study found that higher arousal during both IC and evocative exploration pre-
+dicted the outcome in EFTT, and again, the dominant emotion during these 
+episodes was anger (Ralston, 2006). Furthermore, anger expression in EFTT 
+does not appear to be simply a function of clients' compliance with their ther-
+apists' directives and the treatment model. At pretreatment, 64% of clients 
+identified anger-related problems among the three target complaints they 
+wanted to address in their therapy. Of these, the most frequently identified 
+were unresolved anger toward perpetrators of abuse and difficulties stemming 
+from limited access to anger experience (e.g., powerlessness, nonassertiveness). 
+Thus, many victims of complex trauma entered therapy with a limited capacity 
+to access anger and its associated healthy strivings.
+Another study examined the contributions of anger expression specifically in 
+the resolution of child abuse trauma in EFTT (Paivio & Carriere, 2007). Client 
+dialogues during the IC procedure were analyzed using criteria for healthy anger 
+expression. The results indicated a moderate relationship between healthy anger 
+expression and the resolution of abuse issues and interpersonal dimensions of 
+change, particularly at 12 months after treatment. Together, these results support 
+the beneficial effect of healthy anger expression during IC on treatment outcome 
+in EFTT, particularly on interpersonal dimensions of functioning.
+PROCESS DIAGNOSIS: DISTINGUISHING DIFFERENT TYPES OF ANGER
+Anger is a powerful emotion that has a profound influence on self-organization 
+and interpersonal relations. There are important societal implications con-
+cerning displays of anger and its connection to aggressive behavior that account 
+for the existing emphasis in the literature on anger regulation (Sturmey, 2017). 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+241
+Anger involves surges of adrenaline; a loud, firm voice; erect body posture; 
+and direct eye contact with the target, all of which ready a person to thrust 
+forward and attack.
+Adaptive Anger
+The following subsections describe anger that has an adaptive function and 
+specify criteria for healthy anger expression in therapy.
+Primary Adaptive Anger
+Like other basic affects, adaptive anger is an immediate and direct response to 
+real threat or infringement in the environment that is not preceded or mediated 
+by obvious cognitive or other affective components. Anger at interpersonal 
+violation and maltreatment quickly mobilizes self-protective resources and 
+action. It provides energy and a sense of power that readies the individual for 
+self-defense or to protect one's integrity and boundaries. Interpersonally, 
+anger signals others that an offense has occurred, creates separation and dis-
+tance, and signals them to back off. Difficulties here concern modulating the 
+intensity of anger, which can result in either dysregulation (i.e., too much 
+anger) or overcontrol (i.e., too little anger, when it would be appropriate and 
+adaptive). In either case, the information associated with the anger experi-
+ence is unavailable to guide adaptive action. The negative consequences of 
+overwhelming anger are obvious. Negative consequences of anger avoidance 
+include a pervasive sense of victimization, recurrent bouts of depression, diffi-
+culties with assertiveness, and problems with establishing appropriate inter-
+personal boundaries. Chronic suppression of adaptive anger can also result in 
+hypertension and instances of "bottle up-blow up" such that the tension of 
+repeated suppression eventually results in explosive outbursts of anger that 
+are disproportionate to the situation (Novaco & Chemtob, 2015).
+Criteria for Healthy Anger Expression
+EFTT defines healthy anger expression according to specific criteria that are con-
+sistent with the definition of primary adaptive emotion (Greenberg & Paivio, 
+1997; Paivio & Carriere, 2007; Pascual-Leone, 2018). These criteria inform and 
+guide interventions intended to promote anger expression--for example, when 
+confronting perpetrators of harm during IC.
+Criteria for healthy anger expression are as follows. First, the anger must be 
+directed outward toward the perpetrator rather than inward toward the self, 
+and it must concern actual and specific harms, transgressions, or violations. As a 
+guideline, if it is unclear what the angry client is fighting for and what unmet 
+needs are being asserted, it is probably not a healthy expression of anger. 
+Second, the anger must be differentiated from other emotions, such as sad-
+ness, guilt, or fear. Anger expression mixed with tears or fear, for example, 
+does not allow the individual full access to the cognitive, motivational, or 
+somatic information specifically associated with the anger experience. Third, 
+the anger is expressed assertively with the ownership of experience rather 
+242 
+Emotion-Focused Therapy for Complex Trauma
+than aggressively, passively, or indirectly. For example, clients use "I" state-
+ments rather than referring to themselves in the third person or blaming and 
+complaining or attacking or hurling insults at others. Anger that is inappropri-
+ately expressed does not have the desired effect on the environment, and  
+consequently, adaptive needs for respectful treatment or distance are not met. 
+Fourth, the intensity of anger expression must be appropriate to the situation. 
+Intense emotional expressions that are a catalyst for change are not the same 
+as catharsis, although relief and release of tension can play a role. Appro-
+priate intensity is assessed through verbal and nonverbal indicators of arousal, 
+including body posture, vocal quality, and facial expressions congruent with 
+anger and the situation. Inappropriate anger intensity includes both rage that is 
+overwhelming and anger that is lacking in conviction or energy. Again, in both 
+instances, the associated adaptive information is neither available to guide 
+one's action nor a clear social message of assertion communicated to others. 
+Finally, anger expressions must include some elaboration and exploration of 
+meaning. Healthy anger is not a verbal tirade but rather involves working with 
+anger to understand it. This is consistent with the fundamental principle 
+underlying EFTT that client experiencing is the primary source of new infor-
+mation used in promoting resolution and change.
+Problematic Anger
+Most therapeutic approaches focus on reducing maladaptive anger but typi-
+cally do not distinguish among subtypes. However, distinct kinds of problem 
+anger require different intervention strategies (Pascual-Leone et al., 2013). 
+The following subsections describe clinically relevant distinctions among sub-
+types of problematic anger.
+Primary Maladaptive Anger
+Most forms of maladaptive anger are inappropriate to the situation and long 
+lasting rather than immediate, fleeting responses to specific violations. 
+Primary 
+maladaptive anger
+ is an immediate but overgeneralized response to a perceived 
+environmental threat and is frequently associated with posttraumatic stress 
+reactions. A rape victim, for instance, might react with rage at being touched by 
+men; a survivor of child abuse, whose trust has been betrayed, might react with 
+anger to others' displays of affection. In many ways, primary maladaptive anger 
+is a characterologically entrenched style of responding that now undermines 
+effective functioning.
+Secondary Anger
+Secondary anger
+ is a response to maladaptive cognitions that produce, perpet-
+uate, or escalate the anger (e.g., erroneous attributions of malicious intent 
+or dwelling on revenge fantasies). Alternatively, secondary defensive anger 
+masks more vulnerable core emotions, such as sadness, fear, or shame. Obvious 
+examples are anger and aggression in response to the shame (i.e., humiliation 
+fury) or fear of abandonment (i.e., the rage of desperation), as observed in 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+243
+some clients with borderline personality disorder or some male perpetrators of 
+intimate violence. In these instances, secondary anger serves the maladaptive 
+function of momentarily alleviating painful feelings of vulnerability, and this is 
+reinforcing when it is repeatedly successful.
+Instrumental Anger
+When anger is used, consciously or unconsciously, to manipulate or control 
+others, it is 
+instrumental
+. Thus, the social impact of angry, aggressive behavior 
+can act as a means for attaining a desired interpersonal goal (i.e., control). 
+This, too, can be a reinforcing pattern of behavior. Aggression without affect 
+is a similar but more highly antisocial behavior, although even people without 
+personality disorders are susceptible to the instrumental function of anger.
+Complexity of Anger Processes
+The same individual can experience and express different types of anger. The 
+complexity of anger experience and its accurate assessment are illustrated in 
+the client Paul, who was described in earlier chapters. He had been physically 
+abused by his father and sexually molested by a male relative, and he fre-
+quently experienced adaptive anger and secondary defensive anger covering 
+shame. Paul also had a history of using anger and aggression to control others 
+and prove his masculinity. Moreover, he often felt betrayed and insulted by 
+his wife and held cultural beliefs that children should respect their parents, 
+blowing up at perceived signs of disrespect. Finally, he also had difficulty 
+acknowledging feelings of anger about his father's abuse because he feared this 
+would jeopardize their current relationship, which he had worked so hard to 
+achieve. Each of these distinct anger processes required different intervention 
+strategies.
+Feelings of contempt and disgust also are related to anger experience. Like 
+anger, these are maladaptive when directed at the self (as discussed in the 
+preceding chapter) but can be adaptive when directed at others in response to 
+legitimate moral transgressions and despicable behaviors (e.g., sexual abuse). 
+Contempt
+ involves looking down on an object with a sneer or curled lip of disdain 
+("You worm!"), whereas 
+disgust
+ involves wanting to rid oneself of the object by 
+revulsion or throwing up ("You make me sick!"). Although similar principles 
+apply, accurate intervention with anger, contempt, and disgust involves accu-
+rate perception and empathically responding to the nuances in meaning asso-
+ciated with these different emotions.
+INTERVENTION PRINCIPLES
+Many of the intervention principles discussed in earlier chapters also apply to 
+working with anger. In the following sections, we present examples of the 
+specific ways these principles are implemented in the context of this specific 
+emotion.
+244 
+Emotion-Focused Therapy for Complex Trauma
+Regulation
+Clients may inhibit their legitimate anger toward abusive or neglectful others 
+for a variety of reasons, including fear of losing control, fear of being like the 
+offender, or concern about unfairly blaming the other. In these cases, EFTT 
+interventions validate client concerns and, at the same time, promote acknowl-
+edgment of legitimate angry feelings and model, shape, and teach appropriate 
+and assertive expression of these feelings.
+However, anger that is underregulated does not serve an adaptive function, 
+even if the anger itself is a legitimate and adaptive response to harm. High levels 
+of arousal overwhelm both the angry individual and the person being con-
+fronted with that anger. As emotional arousal increases, the specificity of 
+meaning the client can attend to deteriorates, so what may have been productive 
+loses its focus (Pascual-Leone et al., 2013). Similarly, chronic defensive anger 
+covering a more vulnerable experience of hurt, sadness, or shame cuts the person 
+off from the information associated with that more primary experience.
+Gradual Engagement
+When clients are afraid of, deny, or believe that anger is socially unacceptable, 
+the change principle resembles that of gradual exposure to or engagement 
+with threatening experience. Intervention involves successive approximations 
+of the experience (e.g., moves from "I don't like . . ." to "feeling annoyed or 
+resentful" to "feeling angry" to "feeling outraged and furious" at the extreme 
+end). When clients deny feeling angry at situations that normally would evoke 
+anger, therapists must use empathic responses, questions, or challenges to 
+elicit a reaction or open a door for acknowledging the experience (e.g., "Sounds 
+like you thought that was pretty unfair," "Did you like what she did?" "I would 
+have been so pissed off!"). Here, clients are also implicitly learning the range 
+and appropriate modulation of anger experience, where lived experience 
+helps to challenge maladaptive beliefs that all anger is dangerous. At other 
+times, intervention can focus on client actions that emerge spontaneously and 
+then encourage them to put words to these actions (e.g., "What does that type 
+of voice say--'how dare you'?"). Similarly, a therapist might ask the client to 
+put words and meaning to their body posture, as in "I notice your fist is 
+clenched as you speak. . . . Can you put words to that?" Secondary emotions 
+that cover anger (e.g., guilt, fear, defeat, helplessness) are bypassed or implicitly 
+discouraged by making selective reflections. Instead, the therapist validates 
+and supports the client's authentic, spontaneous expression of anger at injustice, 
+unfairness, or maltreatment.
+A good example of gradual engagement with anger is in the client John, 
+presented in previous chapters, who, following the death of his mother, was 
+sent to an orphanage where he was physically and sexually abused. Initially, 
+he was completely resistant to acknowledging any anger about his life expe-
+riences. Intervention first needed to explore the client's resistance ("It isn't 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+245
+'Christian' to be angry . . . I just want to be a good person"), then educate him 
+about anger, and eventually used successive approximations to help him 
+acknowledge his anger.
+THERAPIST:
+When you think now about those things [
+beatings, sexual moles-
+tation
+] happening to other young boys, like maybe your nephew, 
+how do you feel?
+CLIENT:
+Well, I don't like it. It bothers me.
+THERAPIST:
+I'm sure it does. Can you stay with that? Say more--what 
+bothers you about it?
+Eventually, John was able to say that the abusive priests in his residential 
+school "shouldn't have done what they did; it wasn't right. They are to blame 
+for all the emotional problems I've had." He was able to acknowledge his 
+anger at "the system" for putting him in an orphanage and depriving him of 
+his family and Indigenous culture and his anger at individual priests for 
+abusing him.
+Anger expression, especially toward parents, also is prohibited in certain cul-
+tures. In many Asian cultures, for example, strong social norms exist about 
+respecting parents and elders. In these instances, intervention involves educa-
+tion about the role of adaptive anger, validating the client's desire to be 
+respectful, and distinguishing parental intentions to discipline and wanting the 
+best for their children from what crossed the line into cruelty and abuse. For 
+example, the therapist might ask, "Do you think he had your best interests at 
+heart?" The principle of gradual engagement is relevant here--from "It was not 
+right," "It was too extreme," "It was cruel" to "I hated it," "I did not deserve 
+that," to "It was abusive." The actual label of "anger" is not as important as 
+generating sufficient arousal to activate the emotion scheme and associated 
+adaptive information. For example, one client of Chinese heritage felt uncom-
+fortable using the word "anger" during IC with his rageful, harshly critical 
+father. His confrontations during the procedure were initially measured and 
+controlled and focused on "correct" assertive communication. The therapist 
+validated his discomfort and provided information about "healthy anger"  
+(vs. his father's "rage") and explicit directives for engaging in IC ("This is not 
+about the perfect response. What do you really feel inside imagining him railing 
+at you like that? What do you want to say--from your gut?"). The client imme-
+diately said to his imagined father, "Back off! Leave me alone!" The therapist 
+helped him elaborate on this response ("Say more; tell him what is so toxic 
+about his behavior") and eventually set boundaries (e.g., "What are you willing 
+or not willing to put up with from him, your 'line in the sand?'").
+Explore Secondary Anger
+Secondary anger typically needs to be changed. On the one hand, anger gener-
+ated by maladaptive thought processes is changed by accessing, exploring, and 
+246 
+Emotion-Focused Therapy for Complex Trauma
+restructuring these maladaptive cognitions. Thus, working with secondary 
+anger can have a more rational or cognitive intervention style (i.e., "But is this 
+really working for you?"). On the other hand, if possible, changing anger that 
+masks more vulnerable feelings is best accomplished by simply bypassing the 
+angry, blaming reaction. This is because the goal ultimately is to access more core 
+emotional experience and associated information as quickly and efficiently as 
+possible. When defensive anger cannot be easily bypassed, it needs to be explic-
+itly explored again to access core primary experiences. The client who rou-
+tinely expresses anger at signs of interpersonal slight, for example, needs to 
+gain awareness of the underlying feelings of hurt, rejection, or sadness that 
+likely give rise to the defensive anger.
+Identify the Instrumental Function of Anger
+Appropriate intervention for instrumental anger involves confronting and 
+interpreting the instrumental function of this anger and teaching more adap-
+tive ways of getting one's needs met. Both secondary and instrumental anger 
+can be problematic at the level of intensity, and, in this case, intervention needs 
+to include teaching anger regulation strategies. All the types of anger can be 
+problematic at the level of chronicity or frequency, such that anger might be 
+the dominant emotion some clients experience or express. These individuals 
+typically have limited awareness or experience of other (subdominant) feel-
+ings, and therapeutic intervention requires emotion awareness training. This 
+consists of empathic responses that direct client attention to and help them 
+accurately label their other feelings. It can also can include structured exercises 
+that explicitly teach emotion awareness skills (see Linehan, 2015). In many 
+ways, instrumental emotion is addressed by reflecting on the narrative and 
+social context of the client's emotional experience--for example, their need to 
+control or overpower others in their life to ensure that their wants and needs are 
+met (Pascual-Leone, Paivio, & Harrington, 2016).
+Symbolize Meaning
+Through exploring the experience of anger, clients come to understand their 
+anger--its associated values and needs, the effects maltreatment or injustice 
+has had on them, perceptions of self and offending others, and so on. This 
+new information is used to construct new personal meaning. In cases of mal-
+adaptive or secondary anger, the maladaptive meaning (e.g., misattributions 
+of hostile intent) can be examined and modified.
+INTERVENTIONS FOR CHANGING MALADAPTIVE ANGER
+The following subsections describe EFTT's approach to reducing maladaptive 
+anger, beginning with reducing dysregulated anger and aggression.
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+247
+Regulating Anger
+Before turning our attention to the process of resolving interpersonal trauma 
+through the promotion of healthy anger experiences, it is important first to 
+clarify what types of anger not to promote and how to work with them. As noted 
+earlier, chronic and underregulated anger are frequently associated with expo-
+sure to trauma, particularly complex interpersonal trauma. Problems with 
+anger dysregulation and associated aggressive behavior can be difficult to 
+change (Novaco & Chemtob, 2015; Pascual-Leone et al., 2013) because they 
+might be reinforcing and part of the individual's personality style. Just as in 
+recovery from phobia, neural pathways never completely disappear, but 
+motivated clients can carve out more preferred pathways, and old responses 
+can fade with time and disuse (Lane & Nadel, 2020; LeDoux, 2012). Maladaptive 
+anger interferes with interpersonal trauma resolution; the client is stuck in an 
+earlier stage of emotional processing, characterized by hostile blaming and 
+rejecting anger (refer to Figures 3.1 and 6.1).
+Although EFTT has an affinity with CBT strategies with respect to this area, 
+EFTT is not an anger management therapy. Rather, strategies for regulating or 
+reducing this type of anger must be integrated into the resolution process; it 
+should be part of the personal meaning-making process, not an isolated skill 
+for reducing the intensity of a specific emotion. In many instances, it will be 
+more important for clients with chronic anger problems to focus on grief and 
+sadness expression (instead of anger) as a route to the resolution of complex 
+trauma. However, the dilemma is that anger in response to injustice, violation, 
+and maltreatment also has legitimacy and should not be avoided. Therapy 
+must validate clients' experiences of adaptive anger and find ways to help them 
+express it appropriately.
+Moving Beyond Secondary Anger
+The first step in working with chronic anger in EFTT is assessing the client's 
+capacity to attend to and identify the internal experiences associated with 
+anger and the factors (internal and external) that contribute to escalating and 
+perpetuating anger. Limited awareness must be increased for clients to gain 
+control of their anger experience (e.g., the therapist might say, "So, when you 
+think your kids don't respect you and dwell on that; you feel yourself getting 
+more and more angry"). The next step is to help clients distinguish between 
+different types of anger experience, so they know when to accept, express, 
+modulate, or bypass their anger and attend to more core vulnerable experi-
+ence. If necessary, intervention will include strategies for downregulating 
+emotion, such as breathing, relaxation, time-out, or distraction, that have 
+been well articulated in the CBT literature. Memory evocation strategies, 
+such as those described in the preceding chapters, can be used to help clarify 
+the triggers for problematic anger reactions. In instances of secondary anger, 
+the underlying cognitive-affective processes need to be brought into aware-
+ness and maladaptive aspects changed. Of course, EFTT characteristically 
+248 
+Emotion-Focused Therapy for Complex Trauma
+focuses more on exploring meaning than directly challenging maladaptive 
+cognitions (e.g., the therapist might ask the client, "What's that all about, this 
+sense that disrespect from your teenage kids is so intolerable?"). Anger at 
+perceived disrespect, as in the case of Paul, discussed earlier, also could be 
+understood as a defense against hurt or shame, in which case the therapist 
+directs client attention to the core experience (e.g., "So it triggers some sense 
+that you're a bad father, incompetent? That must hurt a lot. Let's stay with 
+that; it's important").
+In terms of confronting offenders in the IC procedure, anger intensification 
+is avoided with clients who have a history of problems with anger control. 
+However, the therapist models and sometimes directly teaches appropriate 
+assertive expression skills, using the guidelines for healthy anger expression 
+presented earlier. For the client whose dominant emotion is anger, resolution 
+of past trauma will include acknowledging appropriate anger at abuse, but 
+resolution may largely occur through accessing hurt and sadness, which is 
+less available.
+An example of this is Paul, who had a history of anger and aggression 
+problems. He recognized that his violent father had been a bad role model and 
+that he, himself, used anger to feel powerful and control others. He was moti-
+vated to change this behavior but still was quick to anger, and anger experi-
+ence initially dominated therapy sessions.
+Early in therapy, the therapist observed that Paul's anger dominated and 
+threatened to derail the therapy process. She collaborated with him on shifting 
+this focus from anger to accessing more vulnerable feelings. Paul was able to 
+attend to his internal experience and had learned strategies for deescalating 
+anger arousal, so he was able to explore the thoughts and feelings that contrib-
+uted to his anger and its escalation. Different types of anger and underlying 
+vulnerable experience were identified and explored as they emerged in ses-
+sions ("hot" processing). Over time, the client allowed himself to be vulnerable 
+with the therapist. Resolution of past trauma finally involved the client acknowl-
+edging his contribution to his pain through maladaptive anger and grieving 
+the many losses he had endured. In particular, he was able to acknowledge 
+and express, both in session and to his aging father in real life, the deep sadness 
+he felt at having missed out on a healthy and supportive relationship with his 
+father when he was growing up. This, in turn, strengthened his current rela-
+tionship with his father.
+INTERVENTION FOR PROMOTING PRIMARY ADAPTIVE ANGER
+Unlike problematic anger that needs to be reduced, difficulties with anger also 
+concern its constriction. In short, sometimes the problem is not enough healthy 
+anger. This problem is frequently addressed in the context of resolving issues 
+with perpetrators of abuse and neglect.
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+249
+Model of Resolution Using Imaginal Confrontation in Phase 3
+The model of resolution using IC was presented in Chapter 6 (see Figure 6.1). 
+We review it here, focusing on later stages in the process and the specific role 
+of adaptive anger in the resolution process. Recall that IC is initially intro-
+duced around Session 4 at the end of Phase 1 once a safe therapeutic relation-
+ship has been established. It is then used in conjunction with other procedures 
+throughout Phase 2 of therapy (i.e., memory work, working through self- 
+interruption, self-criticism). The frequency of client participation in IC over 
+the course of therapy will vary depending on individual client processes and 
+treatment needs.
+As fear and shame are worked through and clients come to tolerate working 
+with trauma material, client difficulties with confronting imagined perpetra-
+tors during the IC procedure gradually diminish. Clients become more able to 
+freely express previously inhibited feelings directly to the imagined other. 
+Then, Phase 3 of EFTT begins with the clear and uninhibited expressions of 
+adaptive emotion--in this case, anger at the maltreatment they have suffered. The 
+Degree of Resolution Scale presented in Appendix C can be used to track client 
+progress and set session-by-session process goals. The following example of a 
+client, "Julie," working through sexual abuse in EFTT, illustrates the three stages 
+in the model. Because the process of resolution is a dynamic and reiterative one, 
+later sessions (e.g., in Phase 3) sometime recapitulate aspects of the previous 
+phases. This excerpt shows such rapid recapitulation of previous work and then 
+advances through steps in the resolution process (see Figure 6.1).
+CLIENT:
+He [
+her father
+] is such a disgusting pig! Who treats their own 
+daughter like that?
+THERAPIST:
+I hear how much you hate him, despise him. Tell him over 
+there [
+points to chair
+] what you hate. Make him understand.
+CLIENT:
+Yes, I hate the way you manipulated and corrupted me for 
+your own selfish needs. You perverted everything. I was inno-
+cent, and you ruined my childhood; you made sex disgusting. 
+I hope you rot in hell! [
+sighs, withdraws
+]
+THERAPIST:
+What happened just now, Julie--you sigh and kind of collapse?
+CLIENT:
+I don't like it. I sound just like him.
+THERAPIST:
+But you're not him; you're nothing like him. You're justifiably 
+angry, and you want to see him punished for his despicable 
+behavior, for his crimes. Tell him.
+CLIENT:
+Yes, I do want to see you punished. You deserve to be pun-
+ished for all the harm you've done. You fucked me up royally. 
+My life has been such a mess, but I'm not going to let you ruin 
+my life anymore.
+250 
+Emotion-Focused Therapy for Complex Trauma
+THERAPIST:
+How do you feel saying that?
+CLIENT:
+It feels right. He was the adult; I was just a little kid. I deserved 
+love and security, not the twisted life he imposed on me.
+THERAPIST:
+How do you imagine your father over there would react if he 
+knew how you felt--defensive, remorseful, blaming and 
+angry . . .?
+CLIENT:
+It's funny. He used to seem so huge and powerful; now, I see 
+just a pathetic old man. I don't think he's capable of under-
+standing, but it doesn't matter anymore. I know the truth.
+In this example, therapist interventions supported the client's anger and entitle-
+ment to justice and helped her begin to articulate the effects of the abuse and 
+hold the perpetrator accountable for harm.
+One of the goals here is for clients to develop a more realistic perspective of 
+the other. An important step toward this is to elicit the client's understanding of 
+the imagined perpetrator's response to such a confrontation. Enacting or imag-
+ining the other can elicit clients' empathic resources. This can be particularly 
+important when healing attachment relationships is appropriate and important 
+for the client. For example, a client may come to understand that one or both 
+parents had themselves been victims and would have regretted their behavior 
+with respect to the client. In contrast, when healing the attachment relation-
+ship is not appropriate, as in the example of Julie, helping clients imagine (and 
+perhaps even enacting) the other's response can help them view the other as 
+more human and less powerful.
+Therapist Operations During IC: Anger Expression in  
+Phase 3 of Therapy
+The following discussion focuses on specific steps in the model of resolution 
+using the IC intervention that occurs during Phase 3 of EFTT (as outlined in 
+Chapter 6, Figure 6.1). This section describes interventions that facilitate pro-
+cesses in both self and other chairs. Difficulties with resolution, in general, are 
+discussed in Chapter 12 in the context of termination. Before anger can be 
+expressed assertively, it must be differentiated from other emotions. Thera-
+pists must decide which, among the different specific emotional constituents 
+a client presents, should be focused on first. At this stage, the client has made 
+considerable progress in working through self-related issues (and the mal-
+adaptive emotions of fear and shame), but the trauma is not yet resolved. The 
+decision to now focus on anger, therefore, is based on verbal and nonverbal 
+indicators that anger is the most salient client experience in the moment and 
+needs to be fully experienced and expressed. In the context of memory work 
+or exploring self-critical process in two-chair enactments (Phase 2), the client 
+might have spontaneously expressed anger at a parent for harsh criticism or 
+other forms of abuse. This serves as a marker for switching to express that 
+anger to the imagined parent in IC. Frequently, however, the therapist's decision 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+251
+concerns which adaptive emotion--anger or sadness--to focus on when both 
+emotions are present and expressed at the same time (e.g., anger mixed with 
+tears). This choice is based on previous in-session processes, the individual 
+client's history, and treatment goals. Repeated client concerns with issues of 
+autonomy, justice, fairness, and respect are indicators for promoting the expres-
+sion of adaptive anger. Historical information about the client also informs 
+clinical judgment as to whether increasing empowerment or accessing vul-
+nerability will be the most transformative. In general, therapists are attuned 
+to and focus on the affect and meaning that has been least available or least 
+salient (subdominant) in the client's repertoire.
+Assuming that anger is the most appropriate emotion to activate, interven-
+tions direct the client's attention to microsignals of anger (e.g., "Lots of feelings 
+here. For now, let's focus on your anger; stay in touch with that"). If the client 
+shifts back to feelings of fear, guilt, shame, or hurt, the therapist again explicitly 
+redirects the client's attention to anger. Notice that this oscillation between 
+emotions is the client moving "two steps forward and one step back" in the 
+sequence described in Figure 3.1 (for empirical research on that pattern, see 
+Pascual-Leone, 2009). In the example of Julie, the therapist directly challenged 
+the client's fear that she was like her father, and this was enough to help her 
+push past her fear. In other instances, a therapist might say, "If you can, let's not 
+go there. Try to stay away from your hurt feelings for now; stay with your 
+anger," or "So, her criticism really hurts your feelings, but I also hear you saying 
+it borders on abuse, is out of line--and that it makes you angry." Assuming the 
+client agrees, the therapist would continue to encourage adaptive anger expres-
+sion, "Okay, well that's worth saying too! Tell her how angry you are."
+Throughout the process, interventions facilitate client enactment or vivid 
+experiential memories of the imagined other to evoke anger experience and 
+track a client's shifting perceptions of the other (top of Figure 6.1). As clients 
+become more self-aware and assertive, they also begin to see the other in a 
+different light. The following steps in the IC procedure are characteristic of 
+Phase 3 in therapy (as outlined in Figure 6.1).
+Promote Expression of Adaptive Anger Toward the Other
+Guidelines for promoting anger expression during IC are based on the criteria 
+presented earlier in the chapter. Anger is usually first expressed concerning 
+the specific damaging actions or behaviors of the other. Moreover, fully and 
+quickly activating anger and its associated meaning is only possible when the 
+verbal and nonverbal elements of emotional expression are congruent with 
+the presenting situation or context. Although therapists need to avoid being 
+overly directive and concerned about "appropriate" expression, clients can be 
+encouraged to look at the imagined other (or therapist) and to sit up straight, 
+with their feet planted firmly on the floor, and speak firmly from the belly 
+(not the throat).
+In terms of appropriate levels of arousal, traumatic experiences vary in 
+severity, and the intensity of associated anger will similarly vary, from rage 
+over rape to resentment over invalidation and neglect. Likewise, clients differ 
+252 
+Emotion-Focused Therapy for Complex Trauma
+in expressive style and their history of emotion regulation problems. For 
+clients who tend to be overcontrolled, intensification strategies are useful 
+and appropriate, but they are contraindicated for clients with anger control 
+problems. Ideally, markers of clients' self-doubt about anger experience can 
+be bypassed, but if not, they need to be further processed by returning to 
+treatment principles from Phase 2.
+Dealing with revenge fantasies can be a problem both for clients who find 
+them disturbing and avoid them as well as for clients who perseverate and 
+ruminate on them. Clients are encouraged to disclose their revenge fantasies 
+to therapists rather than keep them secret but not to dwell on them. For most 
+clients, these angry fantasies need to be validated as normal reactions to injustice 
+and maltreatment, reframed as unresolved hurt and anger and a desire for 
+justice. Next, therapists need to provide reassurance that working through 
+and resolving one's trauma will reduce these feelings of tension and the desire 
+to hurt the other. It is important to note that in many instances of childhood 
+abuse, the offender's behavior was, in fact, criminal, and this also needs to be 
+communicated to clients to help validate the severity of the maltreatment and 
+entitlement to justice.
+The expression of assertive anger should include the use of "I" language 
+and the specification of wants, needs, and expectations regarding the other, as 
+well as preferred alternative behaviors and articulating the positive effects 
+that these would have had. For example, the client might say, "I was your 
+daughter. You should have believed me, so I didn't have to spend a lifetime 
+second-guessing myself. This would have made such a difference." Healthy 
+expression of assertive anger also can involve explicitly setting limits and 
+boundaries, particularly in current relationships. This is a central part of pro-
+moting a client's sense of entitlement to previously unmet needs, which is an 
+essential processing step toward resolution.
+Again, the EFTT approach to assertiveness "training" involves gradually 
+shaping client behavior through modeling and successive approximations 
+rather than by explicit teaching. In the initial activation stage of IC, the client 
+should not be concerned about "saying it right." Indeed, such a preoccupation 
+can interfere with clients acknowledging the complexity of their feelings.  
+As clients are chastising or telling the other off (e.g., "You cared more about 
+your bottle and your boyfriends than you did about me, your own daughter!"), 
+the therapist should instead promote ownership of anger experience and 
+symbolization of meaning (e.g., "Yes, so furious about all the damage she 
+caused; tell her more about what makes you so angry"). In this final phase of 
+therapy, clients who do not spontaneously shift to more assertive expressions 
+can be explicitly directed and coached to do so (e.g., "Try saying 'I hated it when 
+you . . .'"). In any case, it is essential that interventions help clients use clear and 
+specific anger words. Interventions that hint at or imply anger are not specific 
+enough and may tacitly reinforce the inhibition of anger and rumination.
+Finally, healthy anger expression requires interventions that promote 
+experiencing (see the guidelines in Chapter 5). To that end, it is essential to 
+help the client maintain a balance between outward expression and inward 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+253
+attention to the bodily referents of emotion. Verbal expression should emerge 
+from authentic experience (rather than the performativity of scripted, rehearsed, 
+or premeditated expressions). Because of the expressive and interactional 
+nature of IC, a common pitfall of novice therapists is to neglect the experi-
+encing part of this process. Some therapists also get carried away and derailed 
+by the drama of anger expression. An effective EFTT therapist looks for con-
+gruence between the client's internal experience and outward expression and 
+frequently asks the client to "check inside" to ensure that verbal expressions 
+still fit with their internal experience. Interventions that help promote anger 
+exploration focus on the impact of the other's behavior on the self. This is like 
+formulating a victim impact statement but one that also includes affective 
+arousal in vivo. Sometimes clients ask whether they could formally prepare 
+such a statement for homework or write a letter to the perpetrator (but not 
+send it). These exercises can be effective when they are read aloud by the client 
+in session, and their experience of doing this is explored. Such in-session expe-
+riences typically are quite evocative.
+Promote Expression of Unmet Needs
+An essential component of meaning exploration is the clear expression of 
+unfulfilled needs and expectations in relation to the other. In the case of 
+anger, these include the need for autonomy or personal control, to defend 
+oneself against threat or harm, and to correct injustices, as well as expecta-
+tions concerning fair and respectful treatment from others. These needs are 
+motivating and move the process forward. Clients, therefore, are explicitly 
+directed to attend to and tell the other what they wanted or needed (or still 
+want and need) and did not get. Sometimes expressing unmet needs leaves 
+the client feeling vulnerable vis-a-vis the other, particularly when it is a cruel 
+or callous perpetrator. In that situation, the client can be pulled out of the 
+imaginal enactment and encouraged to explore their unmet needs with the 
+therapist. Nonetheless, this includes identifying what was damaging about 
+the other's actions toward them, how clients feel they should have been 
+treated, and why. For example, the therapist might say to a client, "Instead of 
+your rages and criticism and living in constant fear, tell him what you needed 
+as a child," or "Tell her how important it would have been if she had actually 
+shown some interest in you."
+Track Perceptions of Self and Other
+Interventions highlight the quality of client expressions toward or regarding 
+the imagined other (e.g., "You sound pretty clear," or "It's still not easy to stand 
+up to him, is it?"). These client expressions are also markers for eliciting a 
+response from the other (e.g., the therapist might ask, "How do you imagine he 
+would respond to your demands?"). The quality of this relational process serves 
+as a behavioral index of internalized object relations, which evolve as the client 
+becomes increasingly able to express authentic feelings and needs. It is essential 
+to track these evolving perceptions as indicators of the client's stage in the 
+resolution process (see the Degree of Resolution Scale in Appendix C). The 
+254 
+Emotion-Focused Therapy for Complex Trauma
+purpose of this tracking is for therapists to offer metacognitive reflections about 
+the client's process and also as an ongoing assessment of treatment change.
+Promote an Increased Sense of Entitlement to Unmet Needs
+The goal here is to help a client not only identify unmet needs but also under-
+stand the self in terms of legitimate wants and needs. Ultimately, there is a shift 
+from client self-doubt (e.g., "Maybe I did something to bring it on?") and the 
+sense that their needs are unrealistic or unattainable to a sense of conviction. 
+Clients come to believe that, like everyone, they deserve to be treated fairly and 
+with respect, to be protected, and to have had a childhood of freedom and 
+innocence, regardless of the opinions, behaviors, or limitations of the other 
+(e.g., "I may not have been the easiest kid, but I was still just a kid! I needed 
+guidance"). Such healthy entitlement helps the client hold the other account-
+able (e.g., "You were the adult! You should have provided this regardless!") and 
+motivates efforts to get needs met in current life and relationships.
+Markers for promoting entitlement are clients' assertive expressions of need 
+(e.g., "I needed encouragement, not those constant put-downs") or expecta-
+tion from others (e.g., "I deserve to be treated with respect, just like anyone 
+else"). Interventions validate these client assertions (e.g., "Yes, of course, all 
+people need and deserve this") and then direct them to express these clearly to 
+the imagined other. Working with anger in a way that promotes entitlement 
+typically includes the use of verbs such as "will," "will not," "insist," and 
+"refuse." Once again, it is essential to have clients check whether these expres-
+sions fit with their internal experience. If the client is still uncertain about how 
+deserving they are, therapy needs to spend more time exploring and working 
+this through by exploring the raw experience of an unmet need and what it 
+means to be deserving or not. Fully experiencing entitlement to protection, 
+dignity, love, care, and so forth (as opposed to superficial self-affirmations) 
+strengthens self-confidence and self-esteem.
+Support Clients' Emerging New View of Self
+As treatment approaches resolution, interventions associated with anger expe-
+rience promote and support self-empowerment and gradual separation from 
+the other, letting go of unmet needs and expectations. Clients' enmeshment 
+with perpetrators is evident in the attention they focus on the other or their 
+dwelling on past injustices and offenses. In situations in which there is current 
+and ongoing interaction with the other, the client may engage in extra-
+ordinary efforts to please these others, have difficulty asserting themselves for 
+fear of offending them, or try to force the other to apologize, admit they were 
+wrong, or change.
+Interventions should first heighten client awareness of enmeshment, victim-
+ization, and powerlessness (e.g., "It's like you can never be happy; unless she 
+changes, you are doomed!") or exaggerate a client's maladaptive efforts to 
+force the other to change (e.g., "Try saying, 'I will force you to apologize;  
+I demand that you apologize'," or "Try saying, 'I cannot live until you respect 
+me'"). Alternatively, the therapist might role-play the imagined other's response 
+Resolution of Interpersonal Trauma Through Adaptive Anger 
+255
+to promote a client's letting go of unmet needs (e.g., "And so, what if the 
+response is like, 'It doesn't matter what you do; you can turn yourself into a 
+pretzel, but I will never give you what you want'?"). These are obviously 
+paradoxical interventions that can help a client react to the feared outcome in 
+concrete ways or perhaps abandon the fruitless hope the other will change. 
+Through this kind of enactment or imagining, clients eventually come to see 
+that they cannot force the other to change or acknowledge wrongdoing.
+Letting go emerges partly from fully experiencing a sense of deserving or 
+entitlement to unmet needs in an earlier step. Here, clients no longer feel like 
+defenseless children and no longer seek the other's approval to feel good about 
+themselves. For instance, one client who was taken from his family, stripped 
+of his language and culture, and sexually and physically abused in an "Indian 
+residential school" for Indigenous children naturally wanted official recogni-
+tion and an apology from the church, government, and individual perpetra-
+tors. Partly through the expression of his anger and then validation from the 
+therapist, this client began to feel that an apology was owed and deserved, 
+even though he may never get one. Many clients also become more aware of 
+how important issues of justice and respect are to them and resolve to promote 
+these values in their current life. For example, another client who had been 
+abused as a child decided to become a lawyer, another volunteered to work for 
+Victim Services, and yet another vowed to become a better parent.
+Support the Emerging New View of the Other and Relationship
+In the early phase of therapy and IC, the other is perceived narrowly and 
+negatively--one client viewed her physically abusive and rejecting mother as 
+"the devil." However, at this step, people can see the other more realistically, 
+partly because their own feelings and needs have been expressed and vali-
+dated. Thus, as the client gets closer to resolution, the goal of enacting the 
+imagined other shifts. Rather than using the imagined other strictly as a stim-
+ulus for evoking feelings in the client, the emphasis now is more on promoting 
+experiencing while the client is in the "other" chair. This helps flesh out the 
+imagined other's perspectives, feelings, and motives. Ultimately, this process 
+draws on clients' capacity for empathy. Therapists can ask clients, for example, 
+how they imagine the other would feel "on the inside" or "in their heart," even 
+if they cannot imagine the other expressing remorse or directly apologizing. 
+Clients develop an increasingly rich understanding of the other and may develop 
+an appreciation of the limitations and frailties of those who have mistreated 
+them. Whether or not clients feel compassion toward the other, they come to 
+see their perpetrators as more human, life-sized, and less powerful.
+Importantly, compassion and forgiveness of the other come through acknowl-
+edging and expressing legitimate anger and its associated meaning, not through 
+denying anger. In the ideal situation, the client might imagine that the other 
+regrets and takes responsibility for the harm done (or feels regret but could 
+never admit it). In these cases, resolution is more likely to be accompanied by 
+forgiveness. As we have discussed, this is particularly true when the other is 
+or was a neglectful primary attachment figure with whom the client wishes 
+256 
+Emotion-Focused Therapy for Complex Trauma
+to restore relations. In other instances, clients begin to accept that the other 
+will never respond to their feelings and needs--the other does not have what 
+is required. Some clients come to perceive the other as mentally ill or pathetic. 
+In any case, forgiveness, as we define it, is not excusing or condoning the 
+other's behavior, instead clearly and appropriately holding the other account-
+able for harm.
+End Contact With the Imagined Other and Process the Meaning of 
+
+the IC Experience
+These last two steps take place at the end of each IC and are particularly important 
+aspects of the final IC and therapy termination. However, it also is essential to 
+identify and accept the degree of resolution achieved in each session, whatever 
+it is. If issues with the other remain unfinished, clients should be encouraged to 
+say so and state their intention to return to the issue in the next session. 
+Resolution is a cyclical and reiterative process, so therapists can use the Degree 
+of Resolution Scale (Appendix C) to evaluate a client's progress and set process 
+goals for the next session.
+In this chapter, we reviewed the model of interpersonal trauma resolution 
+that is the basis for EFTT. This model specifies experience and expression of 
+adaptive emotion as the catalyst for change. We also reviewed the model with 
+a particular focus on the role of anger in resolution. The next chapter focuses 
+on the role of sadness in resolution.

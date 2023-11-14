@@ -1,0 +1,792 @@
+9
+
+TRAUMA-INFORMED 
+
+INTERVENTION WITH 
+
+SURVIVORS OF HUMAN 
+
+TRAFFICKING
+KELLY KINNISH AND ELIZABETH K. HOPPER
+As a result of the complex and often severe psychological impacts of sex and
+labor trafficking (see Chapter 8, this volume), mental health intervention is
+a significant need for survivors. Current approaches to clinical intervention
+with trafficking survivors include utilization of evidence-based treatments
+(EBTs) targeting the primary mental health impacts of trafficking (e.g., posttraumatic stress disorder [PTSD], complex posttraumatic stress disorder
+[C-PTSD], depression, anxiety, substance use problems, suicidal ideation,
+and self-harm) and other evidence-informed or promising practices, often
+augmented by a range of adjunctive treatments and strategies to best meet
+client needs. Unfortunately, treatment outcome research with trafficking survivors is sparse (O’Brien et al., 2022; although see O’Callaghan et al., 2013;
+Robjant et al., 2017), especially with regard to labor trafficking.
+A growing body of research suggests that engagement and completion
+of treatment with survivors of trafficking, regardless of treatment approach
+or type of trafficking experienced, may be especially challenging (Albright
+et al., 2020; Barnert et al., 2019; Bath et al., 2020; Ijadi-Maghsoodi et al.,
+2018; Mumey et al., 2021; Robitz et al., 2020); thus, survivors are less likely
+to receive the very services needed to ameliorate the impacts of trafficking
+and other forms of trauma. To achieve effective engagement with trafficking 
+survivors, excellence in core clinical skills, utilization of engagement and 
+motivational enhancement strategies, and adherence to principles of trauma- 
+informed care are essential. Moreover, the complexity of the client history 
+and clinical presentation amplifies the importance of skilled trauma- and 
+trafficking-informed psychological assessment to guide case conceptual-
+ization and treatment planning (Hopper, 2018; Lurie et al., 2020). Finally, 
+effective treatments that target primary mental health impacts of trafficking 
+and are tailored to the unique needs of trafficking survivors are foundational 
+to meaningful trafficking intervention. This chapter reviews engagement, 
+assessment, and treatment approaches and highlight recommendations for 
+further development in trauma-informed intervention with survivors of human 
+trafficking.
+ENGAGEMENT AND THE THERAPEUTIC ALLIANCE
+Engagement of a client in services and the establishment of a therapeutic alli-
+ance are among the first goals of mental health treatment (Horvath & Greenberg,  
+1994). Numerous studies conducted with trafficking survivors and mental  
+health providers have identified an array of challenges and barriers to achiev-
+ing these goals.
+1
+ Survivor shame, stigma regarding mental health care, fear of  
+judgment, and cultural barriers feature especially prominently, as well as fears 
+of a range of other potential negative and harmful impacts such as reprisals 
+from traffickers and consequences of mandated reporting (e.g., criminal justice  
+and child welfare involvement, involuntary hospitalization, or deportation; 
+Aberdein & Zimmerman, 2015; Albright et al., 2020; Contreras et al., 2017; 
+Ijadi-Maghsoodi et al., 2018; Mumey et al., 2021; Powell et al., 2018). Immi-
+grants who have experienced trafficking may face unique challenges in access 
+and engagement with mental health services, including linguistic barriers,  
+stigma and misunderstanding of mental health services, lack of provider 
+knowledge related to the individual's and family's cultural beliefs and prac-
+tices, disparate worldviews between the individual, their family members, and  
+1  
+There are many "concrete" logistical or practical barriers (transportation, funding, 
+child care, interpretation or translation services) that are not the focus of this chapter. 
+However, it is often critically important that mental health providers collaborate 
+with other professionals (e.g., case managers, navigators) to ensure a comprehensive 
+needs assessment is conducted and collaborative case management services are 
+provided to address these barriers (e.g., Gibbs et al., 2015; Hopper, 2017a, 2018). 
+See also Chapter 11 of this volume regarding multidisciplinary approaches.
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+201
+mental health practitioners, and prioritization of stressors related to resettle-
+ment (Albright et al., 2020; Ellis et al., 2020). Male survivors may encounter 
+gender-related stigma and stereotypes regarding emotional expression, sexual  
+orientation, acknowledgement of "victimization," and acceptance of help seek-
+ing, while the lack of tailored services creates further barriers to access and 
+engagement (National Human Trafficking Training and Technical Assistance 
+Center, n.d.).
+Many challenges to engagement in mental health care are related to the 
+survivor's trafficking experiences, past interpersonal experiences, and, per-
+haps most powerfully, current and past negative experiences with mental 
+health providers and formal service systems (Barnert et al., 2019; Bath et al., 
+2020; Contreras et al., 2017; Ijadi-Maghsoodi et al., 2018; Powell et al., 
+2018). In a qualitative interview study with youth who had experienced 
+commercial sexual exploitation, Ijadi-Maghsoodi et al. (2018) identified 
+fear of judgment or feeling judged as a primary barrier for youth engage-
+ment in mental health treatment, as well as perceptions and experiences of 
+generally low-quality mental health care (see also Mumey et al., 2021). In  
+a systematic review of facilitators and barriers to services, Albright et al.  
+(2020) noted that one of the most commonly identified barriers to service 
+was "providers' poor interactional approach with patients (e.g., judgmental, 
+insensitive, dismissive, not trauma-informed)" (p. 18). Distrust of mental 
+health providers is further grounded in past experiences of deception, manip-
+ulation, and violation by traffickers and others (caregivers, systems profes-
+sionals), as well as prior negative experiences specifically with mental health 
+providers such as delays breaches of confidentiality or unexpected and some-
+times unexplained termination of the therapeutic relationship (Albright et al., 
+2020; Barnert et al., 2019, Bath et al., 2020; Contreras et al., 2017).
+Beyond identifying barriers, many of these studies also highlight factors 
+that may facilitate engagement, including approaches that emphasize collab-
+oration, power sharing and autonomy granting, honoring survival, and rejec-
+tion of victim labeling in service delivery. Research into the perspectives on 
+health care of commercially sexually exploited girls and young women iden-
+tified a core theme of "fierce autonomy," noting that participants' past expe-
+riences of coercion and lack of control led them to strongly value autonomy 
+regarding health care decision making (Barnert et al., 2019; Godoy et al., 
+2020). Sahl and Knoepke (2018) specifically drew from applications of shared- 
+decision-making models in other health contexts, incorporating it into service 
+delivery with youth who have experienced commercial sexual exploitation 
+in order to promote agency, support the therapeutic alliance, respect indi-
+vidual preference and competence, and encourage development of autonomy. 
+202
+ * Kinnish and Hopper
+The role of provider knowledge of trafficking and culture- and gender- 
+responsive care in facilitating survivor engagement in services has been high-
+lighted (Batley et al., 2021; Powell et al., 2018). The importance of cultural 
+humility and linguistically and culturally responsive care is especially ampli-
+fied in service engagement of survivors of labor trafficking (Owens et al., 
+2014). This may include acknowledging different non-Western perspectives 
+and worldviews, utilization of language consistent with the person's identity 
+(gender, sexual orientation, other aspects of identity relevant to the person), 
+consideration of utilization of cultural brokers to enhance communication 
+and understanding, and recognizing multiple and intersecting dimensions of 
+identity. Especially pivotal to engagement of survivors of human trafficking 
+in treatment is the establishment of a collaborative working relationship or 
+therapeutic alliance. This involves factors such as empathetic communi-
+cation, trust and connection between client and practitioner, agreement 
+about the goals and tasks of therapy, and hope and positive expectations 
+about treatment. Research suggests that common factors (characteristics 
+shared across psychotherapies, also referred to as nonspecific factors) such 
+as the therapeutic alliance have a greater influence over outcomes than any 
+particular therapy technique (Kidd et al., 2017; Wampold, 2015), underscor-
+ing the primacy of these skills in delivering effective services with trafficking 
+survivors. Clinician self-awareness and self-care lay an important founda-
+tion for the prospect of a stable therapeutic relationship (Corbett-Hone & 
+Johnson, 2022). In addition, there are a number of conceptual models and 
+treatment approaches that can help support the development of a strong 
+therapeutic alliance and encourage self-determination with survivors of traf-
+ficking. These include principles of trauma-informed care, the transtheoret-
+ical model of behavior change (also known as "stages of change"), harm 
+reduction, and motivational interviewing (MI).
+Trauma-Informed Care
+Survivor experiences of trauma and adversity are often at the heart of both 
+the need for mental health treatment and the common reluctance or inability 
+to engage in treatment. Meaningful strategies necessary to overcome these 
+obstacles are captured especially succinctly by the principles of trauma- 
+informed care, a service delivery approach that focuses on an understanding of, 
+and responsiveness to, trauma-related impacts (Substance Abuse and Mental  
+Health Services Administration, 2014). Specifically, survivor experiences of 
+physical and emotional threat, fear, and harm (prior to, while being, and after 
+trafficking) are the foundation for the first principle of trauma-informed care, 
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+203
+establishing physical and psychological 
+safety
+. Experiences of deception and 
+profound violations of trust, by traffickers but also more broadly by others 
+who had responsibilities of care and support, elevate the importance of 
+trust-
+worthiness and transparency
+. The multiple and often highly complex strategies 
+of coercion and control prior to and while being trafficked accentuate the 
+essentiality of 
+empowerment
+, 
+voice
+, 
+and choice
+ and 
+collaboration and mutuality
+as principles of care. Additionally, incorporation of 
+peer support
+ serves as a 
+powerful instrument against stigma and isolation experienced by survivors. 
+Finally, the complex sociocultural and historical factors, especially the multiple 
+and intersecting vulnerabilities of gender, sexual orientation, race/ethnicity  
+in trafficking vulnerability, mental health impacts, and mental health service 
+access, amplify the importance of 
+cultural, historical, and gender issues
+ in  
+trauma-informed mental health care with trafficking survivors.
+The Transtheoretical Model of Behavior Change
+The transtheoretical model of behavioral change (Prochaska & Norcross, 
+2002), also known as the "stages of change" model, can be a beneficial frame-
+work for practitioners in understanding change as a complex process and 
+in supporting clinician regulation and attunement to the client. It may be 
+especially helpful for clinicians who struggle with feelings of frustration, 
+worry, and helplessness when engaging with clients who are not ready to 
+exit a trafficking situation, who relapse with substance use or other high-risk 
+behaviors, or who return to their exploiter multiple times. This approach is 
+responsive to survivors in all stages in the change process represented in 
+the model, including precontemplation (not considering change), contem-
+plation (considering change), preparation (getting ready for action), action 
+(active movement toward change), and maintenance (sustaining behavioral 
+changes); and it acknowledges relapse as an expected part of the change 
+process for many risk behaviors (Lloyd, 2018). This model is grounded in 
+the notion that working with a person at their current stage of readiness for 
+change will increase engagement and receptiveness to intervention and may 
+also enhance outcomes.
+Safety and Harm Reduction
+Many people impacted by trafficking face significant ongoing threats to 
+safety and risk of harm, such as engaging in unsafe sexual practices or 
+working in unsafe work environments, using substances that are directly 
+harmful or that result in risky or dangerous behavior, leaving placements 
+204
+ * Kinnish and Hopper
+("running away"), and experiencing revictimization (e.g., returning to the 
+identified exploiter; engaging in commercial sex to meet basic needs; or being 
+targeted by other exploiters due to ongoing risk factors such as homeless-
+ness, lack of a supportive caregiving system and environment, immigration- 
+related vulnerabilities, mental health symptoms, or substance use disorders). 
+Harm reduction is an evidence-based approach that proactively works to 
+reduce negative personal and public health impacts of risk behaviors (Logan 
+& Marlatt, 2010; Marlatt, 1996). Harm reduction was originally designed 
+to address the negative individual and community impacts of alcohol and 
+other substance use. One of the key principles of harm reduction in public 
+health is a nonjudgmental approach, in which providers acknowledge that 
+high-risk behaviors may continue and should not be an impediment to the 
+provision of services. Instead, providers offer options for decreasing harms 
+and protecting the safety of others (e.g., condoms, needle exchanges, safety 
+planning) and provide information and support when ready to change. Con-
+sistent with the transtheoretical model of behavior change, harm reduction  
+incorporates a range of strategies that meet people "where they are" in their 
+change process, potentially creating a pathway to prevention, treatment, and 
+recovery services. Harm reduction approaches may be beneficial to reduce 
+detriments associated with ongoing sex or labor trafficking and other risk 
+behaviors (e.g., substance use, self-injury; Hickle & Hallett, 2016; Pierce, 
+2012; Preble, 2018).
+Motivational Interviewing
+MI (W. R. Miller & Rollnick, 2013) is an evidence-based intervention that is  
+highly regarded and widely recommended for work with trafficking survi-
+vors (e.g., Gerassi & Esbensen, 2021; Knott et al., 2021). A particular strength  
+of MI in working with trafficking survivors is the set of principles ("spirit") 
+that values autonomy and self-determination. Instead of applying pressure 
+or using other coercive methods to induce change, this collaborative, person- 
+centered approach works to identify and explore ambivalence, eliciting and 
+strengthening a person's motivation for change in ways that are consistent 
+with their values, beliefs, and wishes. This is important in countering the 
+loss of power often experienced in conditions of human trafficking. Its utility 
+is recognized on several fronts: ambivalence regarding engagement in ser-
+vices, broadly, engagement in mental health treatment, specifically, ambiv-
+alence regarding leaving a relationship with an identified exploiter, and/or 
+cessation of engagement in commercial sex (leaving "the life") or exploit-
+ative labor conditions in general, especially in partnership with the "stages of 
+change" conceptualization of trafficking described previously (Lloyd, 2018). 
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+205
+MI has been utilized extensively in substance abuse and addiction treatment 
+and, therefore, also has benefit in addressing substance use with trafficking 
+survivors.
+2
+TRAUMA-INFORMED PSYCHOLOGICAL ASSESSMENT AND 
+
+TREATMENT PLANNING
+A hallmark of quality clinical intervention is skilled psychological assessment 
+and case conceptualization that drives treatment planning and execution. 
+Consistent with a trauma-informed approach, psychological assessment and 
+treatment planning with trafficking survivors should be strengths based, col-
+laborative, culturally responsive, and led with an emphasis on establishing 
+physical and psychological safety (Hopper, 2018).
+Unfortunately, survivors often have assessment and treatment planning 
+experiences that are not aligned with the principles of trauma-informed 
+care. Survivors may be engaged in multiple systems (e.g., criminal justice 
+or juvenile justice, immigration, child welfare, health care, and behavioral 
+health and psychiatry) with proscriptive practices, contributing to a sense of 
+disempowerment and mistrust. For instance, a young person may be sched-
+uled for multiple assessments, taken to different treatment providers, and 
+moved from placement to placement, without having a say in the treatment 
+planning process. This can lead to treatment noncompliance or refusal, 
+leaving placement, relapse, and revictimization. Likewise, early emphasis 
+on extensive paperwork can be alienating. Instead, early interactions should 
+be focused on engagement, identification of internal and external resources, 
+and collaboration that enables the person who has experienced trafficking 
+to receive some immediate benefit, whether it be information, connection, 
+the experience of being heard, a sense of hope, symptom relief, or concrete 
+resources (Hopper, 2018; Kerig, 2013). In particular, survivors should be 
+involved in setting goals and making decisions about their own treatment to 
+the extent possible. Even addressing safety (including legal mandates and 
+ethical obligations) should be approached with consideration of relational 
+impacts, utilizing trauma-informed safety assessment and planning strate-
+gies that best preserve and even enhance engagement. A social-ecological 
+framework is beneficial in assessment and treatment planning because of 
+2  
+A note of caution: The parallels of the utility of "stages of change" harm reduction 
+and MI with substance use do not extend to conceptualization of engagement 
+in commercial sex as a form of "sex addiction." Such a mischaracterization is 
+potentially quite harmful to survivors.
+206
+ * Kinnish and Hopper
+its emphasis on the person in context, leading to recommendations for the 
+individual and also addressing relationships with peers, families, and com-
+munities (Hopper, 2017a).
+Core components of psychological assessment with trafficking survivors 
+include rapport building and informed consent, a clinical interview with the 
+survivor (and caregiver, if the survivor is a minor and there is an identified 
+supportive caregiver available) and standardized measures to obtain a full 
+picture of client history and vulnerability factors, trauma history, and traf-
+ficking experiences (including elements of force, fraud, and coercion), as 
+well as an understanding of basic needs and safety, psychological symptoms 
+and diagnoses, and client strengths and coping. Because of the breadth and 
+complexity of emotional and behavioral impacts, standardized broadband 
+and trauma-specific instruments are especially important in psychological 
+assessment. In addition, screening and assessment of substance use, suicidal 
+ideation, and self-injury are also crucial given the strong presence of these 
+concerns among survivors (Hopper, 2018; Moore et al., 2020). Assessment 
+of cognitive-developmental functioning may also be beneficial, due to the 
+associated exploitation risk (Nichols & Heil, 2022; Reid, 2018; Reid et al., 
+2018) and relevance for treatment planning.
+Beyond its primary function of information gathering, psychological assess-
+ment conducted by a skilled clinician can facilitate client engagement and 
+alliance building. A positive experience of talking with someone about their 
+experiences and emotions can relieve the burden of secrecy, decrease shame, 
+and instill hope. Survivors may then be less fearful of mental health care and 
+more open to further intervention. Opportunistic incorporation of psycho-
+education (deriving from the survivor's focus, needs, and interests) transfers 
+knowledge to the survivor and demonstrates possible utility of mental health 
+treatment. As part of the assessment process, education about trauma can 
+normalize and destigmatize many mental health "symptoms," framing these 
+as psychological, biological, and behavioral coping responses to repeated or 
+chronic trauma (Herman, 1997; van der Kolk, 1994). Opportunities to build 
+regulatory capacities may also be incorporated, including education about 
+regulation and teaching and practice of basic regulatory skills (Hopper, 2018). 
+Careful attention to pacing, drawing on therapist attunement and coregulation 
+skills, is important throughout the assessment.
+As articulated previously, it is essential that the assessment is appropri-
+ately paced, with engagement and relational impacts prioritized over assess-
+ment completion objectives. A completed assessment is of no benefit if the 
+client disengages from treatment or continues to attend but no longer trusts 
+the therapist or believes treatment can be of benefit. As much as organi-
+zational requirements will allow, it is often helpful to conduct assessment 
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+207
+over multiple sessions with strategies embedded to enhance the therapeutic 
+relationship and build regulatory capacities, titrating assessment tasks with 
+careful attunement to client regulation and the strength of the therapeutic 
+relationship.
+TREATMENT APPROACHES WITH SURVIVORS OF TRAFFICKING
+The American Psychological Association Presidential Task Force on Evidence- 
+Based Practice (2006) defined 
+evidence-based practice
+ as "the integration of 
+the best available research with clinical expertise in the context of patient 
+characteristics, culture and preferences." This amplifies the importance of 
+research, clinician's skills, as well as individualized culturally responsive care 
+and client empowerment, voice, and choice, consistent with principles of 
+trauma-informed care, in treatment delivery. An 
+evidence-based treatment
+ is  
+an intervention proven in a field of research as effective in treating a particular 
+disorder, symptom, or problem in a specific population and is generally con-
+sidered the gold standard of clinical care. Trafficking survivors are deserving 
+of the best care available, utilizing treatment approaches with the strongest 
+evidence of their effectiveness at ameliorating the specific symptoms and dif-
+ficulties that survivors experience. Unfortunately, there is a limited body of 
+empirical treatment outcome research conducted with trafficking survivors. 
+There are, however, EBTs for analogous or overlapping populations (e.g., 
+sexual abuse and domestic violence survivors) that address common psycho-
+logical impacts and mental health concerns experienced by trafficking sur-
+vivors. These are potentially important intervention tools for people impacted 
+by trafficking and exploitation (O'Brien et al., 2022; Salami et al., 2018). 
+In addition, an array of "promising practices" and adjunctive interventions 
+may also offer benefit to survivors. Due to the prevalence of traumatic expe-
+riences and high rates of PTSD, C-PTSD, and other trauma-related impacts, 
+trauma-focused treatments are especially prioritized in trafficking response 
+(Powell et al., 2018), and trauma treatments with an evidence base, specif-
+ically with trafficking survivors, are described first here.
+Trauma-Focused Treatments
+Trauma-focused treatments address the effects of traumatic experiences and 
+have as their goal the amelioration of trauma-related symptoms. They typically 
+involve some combination of establishing physical and psychological safety, 
+building regulatory capacities, learning about trauma, addressing relational 
+208
+ * Kinnish and Hopper
+impacts, and direct processing of the traumatic experiences through cognitive, 
+exposure-based, and/or narrative strategies.
+Trauma-Focused EBTs With Trafficking-Related Outcome Research
+Trauma-focused cognitive behavioral therapy (TF-CBT; Cohen et al., 2017) 
+is an EBT for children and adolescents impacted by trauma. It uses a phase-
+based approach that includes safety, psychoeducation, coping skills, cog-
+nitive processing, and gradual exposure in a trauma narration phase, as 
+well as a strong emphasis on caregiving and support (for parents and/or 
+other supportive adults). TF-CBT has been used with trafficked children in 
+an array of settings globally. In a randomized controlled trial (O'Callaghan 
+et al., 2013), 52 girls recovered from a brothel in the Democratic Republic 
+of Congo were assigned to TF-CBT or a waitlist control group. The TF-CBT 
+treatment was delivered in a 15-session culturally modified group format by 
+nonclinical lay facilitators. There was a significant reduction in posttraumatic  
+stress (PTS) symptom scores for youth in TF-CBT treatment compared with 
+the waitlist control group. There were also significant improvements in 
+symptoms of depression, anxiety, conduct problems, and prosocial behavior 
+in the TF-CBT group. In a contemporaneous study with former child soldiers in  
+the Democratic Republic of Congo (McMullen et al., 2013), boys in the 
+TF-CBT group treatment similarly reported significant reductions in PTS 
+symptoms compared with the waitlist control group, as well as improvements 
+in depression, anxiety, conduct problems, psychosocial distress, and pro social 
+behavior. In both studies, effects were sustained at 3-month follow-up. TF-CBT 
+has also been successfully implemented with trafficked girls in Cambodia 
+(Bass et al., 2011), Haiti (Wang et al., 2016), and the United States (Kinnish 
+et al., 2020). TF-CBT treatment applications have been developed specifically 
+for minors who have experienced commercial sexual exploitation, with spe-
+cialized training and an implementation guide available for clinicians certified  
+in TF-CBT (Kinnish et al., 2020, 2021).
+Narrative exposure therapy (NET; Schauer et al., 2011) is a trauma-focused  
+EBT that has been found to be effective at reducing trauma symptoms in 
+both adult and minor survivors of human trafficking (Brady et al., 2021; Ertl  
+et al., 2011; Robjant et al., 2017, 2019). NET is a short-term EBT developed 
+specifically for individuals who have experienced multiple traumas, often in  
+complex sociopolitical and cultural contexts. It involves development of a 
+life narrative with a focus on traumatic experiences and associated thoughts, 
+feelings, and sensory experiences, actively guided by a therapist toward 
+reprocessing and integration. In a study of child soldiers in Uganda, children 
+were randomly assigned to NET, an academic catch-up program, or waitlist 
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+209
+control. Those receiving NET experienced reduced trauma symptoms com-
+pared with the other conditions (Ertl et al., 2011). Robjant et al. (2017) 
+reported significant improvement in PTS symptoms pre- and posttreatment, 
+which were sustained at 3-month follow-up, in a small sample (
+N
+=
+ 10) of 
+sex-trafficked women. All participants reported clinically meaningful change, 
+with symptom scores in the severe range pretest and in the mild or moderate 
+range posttest and at follow-up. In a more recent randomized clinical trial 
+feasibility study, Brady et al. (2021) similarly reported significant reductions 
+in PTS symptoms or PTSD, depression, and anxiety in a mixed sample of 
+survivors of sex and labor trafficking.
+Cognitive processing therapy (CPT; Resick et al., 2016) is an EBT for adults 
+and youth that aids clients in identifying beliefs and thought processes that 
+interfere with posttraumatic recovery. Clients learn to identify their "stuck 
+points" (negative thoughts created to deal with trauma) and consider more 
+balanced perspectives. A feasibility study was conducted of modified group  
+CPT with 10 adolescent survivors of commercial sexual exploitation in 
+Cambodia. Participants in the pilot study reported high satisfaction and atten-
+dance, as well as reductions in PTS and depression symptoms posttreatment 
+and at 3-month follow-up, with no incidents of suicidal behavior or non-
+suicidal self-injury during the group or at follow-up (Clemans et al., 2021).
+Trauma-Focused EBTs for PTSD
+Current gold standard treatments for adults with PTSD include CPT (Resick 
+et al., 2016), cognitive therapy (Beck, 2005), eye movement desensitization 
+and reprocessing (EMDR; Shapiro, 2018), individual cognitive behavioral 
+therapy (CBT) with a trauma focus (Monson & Shnaider, 2014), and pro-
+longed exposure (PE; Foa et al., 2007; International Society for Traumatic 
+Stress Studies, 2018c). The most strongly recommended EBTs for children 
+and adolescents with PTSD are CBT with a trauma focus (with caregiver and 
+child or with child alone) and EMDR (International Society for Traumatic 
+Stress Studies, 2018c). These approaches all have a substantial evidence base 
+and have been utilized effectively with adults and youth in a range of treat-
+ment settings and locales and with individuals with an array of trauma expe-
+riences, including trauma exposures that may overlap with the experiences 
+of trafficking survivors (e.g., Edmond, 2018; Foa et al., 2013; LoSavio et al., 
+2021; Rodenburg et al., 2009); however, outcome research specifically with 
+trafficking survivors is lacking for these approaches. Their value and specific 
+cautions in implementation with trafficking survivors have been thoughtfully 
+reviewed elsewhere (Salami et al., 2018; see also O'Brien et al., 2022). Specific 
+concerns identified include the limitations of exposure-based interventions 
+210
+ * Kinnish and Hopper
+to address stigma and shame, potential poorer retention of PE compared 
+with CPT, and impacts of low literacy for CPT (ameliorated by the omission 
+of a written trauma account in CPT-C [cognitive therapy only]). Challenges 
+of impaired recall and concerns regarding dissociative responses when expo-
+sure is not preceded by skillful preparation (including grounding, mindful-
+ness, or other coping and regulation skills) were also identified. If exposure 
+is not sufficiently supported, modulated, or titrated, there may also be risk of 
+harm associated with unsafe behaviors (e.g., substance use, running away) 
+that are attempts to cope with dysregulation elicited by trauma reminders.
+Dialectical behavioral therapy (DBT; Linehan, 1993) is another EBT 
+that may be especially helpful in treatment with trafficking survivors. DBT 
+is a cognitive behavioral therapy originally developed to address suicidal  
+ideation in individuals diagnosed with borderline personality disorder, and 
+not designed as a trauma-focused treatment; however, protocols have been 
+developed to address trauma (see DBT-PTSD [Bohus et al., 2013] and DBT-PE 
+[Harned, 2022]). DBT has also been adapted to be more developmentally 
+appropriate for adolescents who struggle with emotional dysregulation and 
+self-harm (A. L. Miller et al., 2007). It is of high potential value with trafficking 
+survivors due to its effectiveness in reducing suicidal ideation and self-harm, 
+and enhancing coping, regulation, and interpersonal effectiveness (McCauley 
+et al., 2018), all of which are prioritized concerns with trafficking survivors.
+C-PTSD Treatments
+As described in the previous chapter, early research has identified a high 
+incidence of C-PTSD symptoms in survivors of human trafficking. Based on 
+evidence supporting the 
+International Classification of Diseases 11th
+Revi-
+sion
+ (
+ICD-11
+; World Health Organization, n.d.) distinction between PTSD 
+and C-PTSD (Brewin et al., 2017; see Chapter 8, this volume), there are 
+limitations to the direct application of existing outcome literature on PTSD 
+to trauma survivors with C-PTSD (Karatzias et al., 2019), including traf-
+ficking survivors who have C-PTSD. A key feature of C-PTSD treatment is 
+a phase-based approach that includes a sequence of stabilization and skills 
+building, followed by trauma processing, and concluding with consolida-
+tion of treatment gains and integration into everyday life (Cloitre et al., 
+2012). Trafficking survivors with C-PTSD may benefit from multicomponent 
+treatments delivered in a phased approach that directly address the core 
+impacts of C-PTSD, including affect dysregulation, negative self-concept,  
+and disturbances in relationships (Hopper, 2017a). Early emphasis in treat-
+ment on development of coping and regulation skills is likely to be especially 
+important for trafficking survivors, many of whom continue to live under  
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+211
+conditions of chronic stress even after exiting trafficking. Treatment for C-PTSD 
+is also likely to be lengthier than for PTSD due to the need for stabilization 
+work involving the development of safety, a strong treatment alliance, and 
+emotional regulation skills, as well as the need to address a greater number 
+of trauma experiences and symptoms (International Society for Traumatic 
+Stress Studies, 2018a, 2018b). In fact, the need for greater length and/or 
+frequency of treatment with trafficking survivors is commonly noted in the 
+literature (Cohen, Mannarino, & Kinnish, 2017; Judge et al., 2018; Kinnish 
+et al., 2020; Ottisova et al., 2018). In a study comparing the electronic 
+health records of trafficked compared with nontrafficked youth in mental 
+health services in England, treatment length was 56% greater for youth who 
+had experienced trafficking (Ottisova et al., 2018).
+Evidence-informed treatments targeting C-PTSD are of significant poten-
+tial benefit to this population. For instance, treatment outcome studies on 
+interventions such as skills training in affective and interpersonal regulation/ 
+narrative therapy (STAIR-NT; Cloitre et al., 2002) have included both partici-
+pants with PTSD and C-PTSD. STAIR actively targets C-PTSD impacts, includ-
+ing affective regulation skills, interpersonal functioning, and self-efficacy and 
+can be combined with trauma processing interventions (narrative therapy or 
+others) that target the core symptoms of PTSD. Narrative exposure therapy 
+(described previously) has been utilized with trauma survivors with poly-
+traumatization and has protocols for dissociation, a common C-PTSD symptom  
+(Chessell et al., 2019).
+Regarding C-PTSD approaches with children and adolescents, the attach-
+ment, regulation, and competency (ARC) framework (Blaustein & Kinniburgh, 
+2018) has shown significant reductions in social, emotional, and behavioral out-
+comes for complex trauma-impacted youth in community-based (Fehrenbach  
+et al., 2021) and residential (Hodgdon et al., 2013) settings. Preliminary out-
+come data on the integrative treatment of complex trauma for adolescents 
+approach have likewise shown promising impacts on socially marginalized, 
+multiply traumatized children and adolescents (Briere & Lanktree, 2013). 
+Systematic efforts to tailor these models and evaluate their effectiveness with 
+trafficking survivors are a clear priority.
+Although TF-CBT (described earlier) was not initially developed as a 
+treatment targeting C-PTSD, C-PTSD applications have been developed for 
+TF-CBT that incorporate the identified core features of C-PTSD intervention, 
+specifically a phased-based approach prioritizing safety, stabilization and 
+skills building and greater length of treatment, among other enhancements 
+(Cohen et al., 2012; Kliethermes & Wamser, 2012). In a study utilizing these 
+C-PTSD modifications, youth in foster care and at high risk of placement 
+212
+ * Kinnish and Hopper
+disruption showed significantly greater improvement in emotional and 
+behavioral problems and PTSD symptoms as well as less placement disrup-
+tion and running away compared with treatment as usual (Weiner et al., 
+2009). Even unmodified TF-CBT has demonstrated effectiveness addressing 
+core symptoms of reexperiencing, avoidance, and sense of threat with youth 
+diagnosed with C-PTSD comparable to its impacts with PTSD-diagnosed 
+youth, as well improvements in emotional regulation, self-concept, and inter-
+personal problems (Sachser et al., 2017).
+Adjunctive Interventions
+Many existing therapeutic programs for trafficking survivors integrate a 
+range of adjunctive treatments, including practices as varied as mindful-
+ness, yoga, and expressive arts interventions. A growing body of literature 
+suggests the value of experiential therapies to build and promote better 
+regulatory capacities, emotional expression and communication, increased 
+self-awareness, and improved self-concept with survivors of trafficking 
+(Hopper et al., 2018; Namy et al., 2022; Sanar Wellness Institute and Polaris 
+Project, 2015).
+Mind-body interventions (e.g., meditation, visualization/guided imagery, 
+breathing techniques, and body-based therapies) have been found to impact 
+trauma-related symptoms (Gene-Cos et al., 2016; Gordon et al., 2008; 
+Wahbeh et al., 2014; Warner et al., 2014) and should be further explored 
+as adjunctive treatments for trafficking survivors. For instance, mindfulness 
+(e.g., mindfulness-based stress reduction) has been shown to decrease symp-
+toms of PTS and depression in survivors of interpersonal violence (Boyd 
+et al., 2018; Follette et al., 2015; Kelly & Garland, 2016; Ortiz & Sibinga, 
+2017) and has been explored for trafficking survivors (McCaw, 2019). Yoga 
+has gained increasing attention as an intervention for trauma (van der Kolk 
+et al., 2014), and a pilot study of yoga with adult women who had experienced 
+sex trafficking in Uganda showed reductions in symptoms of depression and 
+improvements in self-rated emotional and physical health. This method was 
+suggested as viable within low-resource settings such as shelters (Namy et al., 
+2022). Mind-body interventions may be utilized independently or incorpo-
+rated into EBTs to facilitate development of coping and regulation skills.
+Expressive arts interventions (e.g., visual arts, music, journaling and 
+poetry, dance or movement) are commonly used with trafficking survivors. 
+Current evidence regarding application of these approaches for trafficking 
+survivors primarily involves case studies and small qualitative investigations 
+(Schrader & Wendland, 2012; Tan, 2012). A qualitative study of therapists 
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+213
+incorporating expressive arts interventions with adult survivors of commer-
+cial sexual exploitation found that these modalities allow a strengths-based, 
+client-centered approach with a range of benefits, including establishment of 
+the therapeutic alliance, installation of hope, connection to others, trauma 
+exploration, release of emotions, and development of identity and self (Lee, 
+2019). Hopper et al. (2018) described the positive impacts of an experien-
+tial group intervention that incorporated theater games or expressive arts 
+activities to address C-PTSD in a sample of sex-trafficked women and girls. In 
+qualitative analyses, participants reported impacts of the group in the areas 
+of trust and relationships, regulation, self-awareness, and future orientation. 
+Trauma-focused or trauma-informed experiential interventions are of signifi-
+cant potential benefit, especially as braided or sequenced with EBTs.
+Treatment for Substance Use Problems and Other Comorbid Conditions
+Due to the high rates of substance use and intersecting trauma among traf-
+ficking survivors, integrated trauma and substance use treatments are essential 
+in trafficking response. Unfortunately, there are few EBTs that target trauma 
+and substance abuse and no outcome studies conducted with trafficking  
+survivors. Seeking safety (Najavits, 2002) is especially highly regarded for its 
+evidence base and concurrent focus on trauma and substance use (National 
+Human Trafficking Training and Technical Assistance Center, 2021). It has 
+both adult and youth applications, can be delivered in individual and group 
+formats, uses professional and lay facilitators, and is flexible and adaptive, 
+with 25 possible modules that can be delivered in any order. Risk reduction 
+through family therapy (RRFT; Danielson et al., 2010, 2020) is a model of 
+particular relevance for intervention with adolescents in that it addresses 
+both trauma and substance use and includes components to address family 
+communication, risky sexual behaviors, cognitive coping and trauma-specific 
+cognitive processing, all of which are prioritized needs of trafficked youth. 
+These interventions may be used in conjunction with other treatment modal-
+ities targeting substance use, including other cognitive behavioral interventions, 
+12-step programming, and medication-assisted therapy (Hopper, 2017b). It 
+is noted that, in addition to the treatment engagement challenges previously 
+outlined, there are specific barriers related to substance use intervention, 
+especially requirements of complete abstinence from substance use in order 
+to access services (Gerassi, 2018).
+Although EBTs for trauma broadly target associated symptoms such as 
+trauma-related anxiety and depression, trafficking survivors may have pri-
+mary diagnoses other than PTSD or comorbid conditions that require addi-
+tional treatment (Cary et al., 2016; Oram et al., 2015; Stoklosa et al., 2017). 
+214
+ * Kinnish and Hopper
+Given the range, heterogeneity, and comorbidity among trafficking survi-
+vors, common elements and transdiagnostic approaches may have partic-
+ular value. For example, modular approaches to therapy for children with 
+anxiety, depression, trauma, and conduct problems (MATCH-ADTC; Chorpita 
+& Weisz, 2009) may have utility with trafficked youth. The common elements 
+treatment approach (CETA) likewise targets the common impacts of PTSD,  
+depression, anxiety, and substance use and has the added advantage of 
+application in low-resource settings and successful utilization with non-
+professionals (Murray et al., 2014, 2018).
+Serious mental illness includes primary depressive disorders that persist 
+following trauma treatment, bipolar disorder, or disorders that produce psy-
+chotic symptoms such as schizophrenia or schizoaffective disorder. For traf-
+ficking survivors whose symptom picture is further complicated by serious 
+mental illness, treatment planning should also include interventions specific 
+to these conditions, including therapy as well as consideration of psycho-
+pharmacological intervention (Cary et al., 2016; Oram et al., 2015).
+Group Interventions
+At least in part because of the shame, stigma, and isolation they often expe-
+rience, group treatments may be especially beneficial for trafficking sur-
+vivors (McMullen et al., 2013; O'Callaghan et al., 2013; Usacheva et al., 
+2022). Groups may serve psychoeducational, psychotherapeutic, and support  
+functions and may create a motivating factor to remain in treatment and 
+prevent return to the trafficker (Countryman-Roswurm & Bolin, 2014; 
+Hickle & Roe-Sepowitz, 2014; Kenny et al., 2018). Ending the Game(tm) is 
+a group intervention that targets shame, isolation, regulation of emotion 
+and behavior, maladaptive cognitions, identity disturbance, and dissociation 
+and has demonstrated positive trends in improving regulation, relational 
+capacity, sense of self, and future orientation (Usacheva et al., 2022). The 
+STARS experiential group (previously described) was similarly developed 
+specifically for trafficking survivors, targeting complex trauma impacts and 
+utilizing experiential strategies (Hopper et al., 2018). EBTs may also be 
+delivered in a group format. For instance, the TF-CBT treatment in the pre-
+viously described RCTs (McMullen et al., 2013; O'Callaghan et al., 2013) 
+were delivered in a group setting. Moreover, the skills training component of 
+DBT is often, and perhaps preferentially with trafficking survivors, delivered 
+in a group setting. Group treatments may also address resource challenges 
+in low-resource settings.
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+215
+Relationship Development and Community Reintegration
+Interpersonal connections are often central to the recovery of human traffick-
+ing survivors. Intervention should incorporate opportunities to establish or 
+reestablish healthy supportive relationships and connection with family, close 
+relationships, and community, if and when it is safe to do so (Brunovskis & 
+Surtees, 2013).
+Family Engagement and Intervention
+As previously discussed, many trafficking survivors come from complex family 
+environments marked by financial stress, violence, abuse, or neglect, sub-
+stance use, and/or chronic stress which may have directly contributed to 
+trafficking victimization. Therefore, family attitudes regarding the victim-
+ization vary widely. Responses may range from active support of the survivor 
+to lack of awareness of the exploitation, disengagement or helplessness to 
+intervene, blaming the survivor, or even active support of, or direct involve-
+ment in, the trafficking. Family and caregiver perspectives that may con-
+tribute to shame and stigma are especially important considerations for this 
+population (Cohen, Mannarino, & Kinnish, 2017; Kiss et al., 2015).
+For trafficked youth, involvement of a safe and supportive caregiver can 
+be particularly pivotal. Engagement of caregivers is highly individualized and 
+considers survivors' pre-trafficking circumstances, features of the relation-
+ship that contributed to trafficking vulnerability, specific trafficking experi-
+ences, as well as, and perhaps most importantly, the caregiver(s) current 
+functioning. When considering family engagement, it is important to note 
+that "caregivers" may include members of the family of origin, a new care-
+giving relationship, a close mentoring relationship, or adults within formal 
+caregiving systems (foster parents, congregate care staff). Intervention can 
+include caregiver education and support, individual counseling for caregivers, 
+and dyadic or family therapy. Many of the therapies described earlier include 
+one or more of these elements (e.g., TF-CBT, ARC, RRFT).
+Parenting Support
+Trauma-related impacts on survivors' parenting of their own children can 
+include lack of confidence in parenting abilities, overprotective parenting and 
+avoidance of socialization with other children or adults, and emotional dis-
+connection from children when the caregiver is struggling with chronic stress 
+and/or mental health symptoms (Marti Castaner et al., 2021). Thus, parent-
+child interventions (e.g., child-parent psychotherapy, parent-child interaction 
+therapy, ARC-based parenting support) or family therapy (e.g., ecologically 
+216
+ * Kinnish and Hopper
+based family therapy; Murnan et al., 2018) may be important therapeutic 
+modalities for some trafficking survivors. Research is needed on applications 
+of these models for families affected by trafficking.
+Survivor Mentoring and Community Supports
+Peer support and mentoring, especially connection to a survivor mentor, 
+can be beneficial in building safe, supportive relationships and reducing 
+shame and stigma (Ijadi-Maghsoodi et al., 2018; National Human Traffick-
+ing Training and Technical Assistance Center, 2021; Rothman et al., 2020). 
+Community supports, including case management services, may mitigate 
+some of the negative long-term impacts of human trafficking. Successful 
+community integration has been shown to indirectly ameliorate PTSD symp-
+toms through an influence on perceived social support (Okech et al., 2018). 
+Especially promising are comprehensive service models that establish levels 
+of care based on individualized needs and incorporate significant case man-
+agement and survivor mentoring or coaching. For example, the CHANCE 
+(Citrus Helping Adolescents Negatively impacted by Commercial Exploita-
+tion) program (Landers et al., 2017) provides individual and group ther-
+apy for trafficked youth and their caregivers to reduce shame and isolation 
+and teach practical skills, individual TF-CBT treatment to address trauma  
+impacts, specialized placement, life coaches with lived experiences of com-
+mercial sexual exploitation, intensive case management, and 24/7 youth and 
+caregiver support access. Other helpful programs provide training or oppor-
+tunities for advancement in leadership and advocacy and scaffolded devel-
+opment of autonomy, confidence, and leadership (e.g., Elevate Academy, My 
+Life My Choice Youth Leadership Corps).
+CONCLUSION AND RECOMMENDATIONS
+The complex interplay of vulnerabilities and experiences prior to and while 
+being trafficked often result in significant mental health effects for survivors. 
+Effective mental health intervention requires trauma- and trafficking-informed  
+application of a full continuum of intervention skills. It begins with engage-
+ment and establishment of a quality therapeutic alliance that especially priori-
+tizes safety, trust, empowerment, and collaboration, to counter the trafficking 
+survivor's previous experiences of threat, harm, coercion, manipulation, 
+and deception. Trauma-informed psychological assessment with trafficking 
+survivors utilizes conventional approaches and tools to better understand 
+a client's current functioning and to guide treatment planning, as well as  
+Trauma-Informed Intervention With Survivors of Human Trafficking * 
+217
+enhances client engagement and promotes self-awareness and effective copings.  
+Treatment with trafficking survivors should be trauma-informed, culturally 
+responsive, developmentally adapted, collaborative, and responsive to indi-
+vidual client needs and preferences, while being informed by the best avail-
+able research to guide treatment decision making. This includes evidence 
+regarding the effectiveness of specific treatment approaches with trafficking  
+survivors as well as the effectiveness of interventions addressing primary mental 
+health impacts (e.g., PTSD symptoms and other trauma-related impacts) with 
+related populations.
+The development, application, adaptation, and evaluation of interven-
+tions to address complex human problems and support positive change is 
+perhaps clinical psychology's greatest potential contribution to the traf-
+ficking field. There are a number of mental health interventions with an 
+emerging evidence base with survivors of trafficking and many treatment 
+models and intervention strategies that show promise in addressing the 
+needs of this population. However, more work is needed in the development 
+of effective interventions, and more outcome research is needed on existing 
+treatment approaches. This includes more outcome research utilizing EBTs 
+specifically with survivors of trafficking, greater study of trafficking-specific 
+adaptations of these approaches, and more refined approaches to identi-
+fying factors that contribute to better outcomes to inform treatment decision 
+making. Interventions addressing the person in context, including treatments 
+addressing relationships and interventions focusing on community reintegra-
+tion, as well emerging strategies that incorporate mental health treatment 
+into a broad array of services and supports, are also important and warrant 
+further study.
+Finally, additional research is needed that focuses on intervention with 
+underserved populations, including those who have experienced labor traf-
+ficking, men and boys, persons who identify as LGBTQ
++
+, especially trans-
+gender, survivors, individuals with substance use disorders, people from 
+different racial and ethnic groups (Native American, Alaska Native, Black, 
+Hispanic and Latino, Asian, and Pacific Islander survivors), immigrant, 
+refugee, or forcibly displaced persons, individuals with disabilities, and 
+those with comorbid severe mental illness, among others. As noted else-
+where in this volume, much less is known about the experiences of labor 
+trafficking survivors compared with survivors of sex trafficking. This is per-
+haps especially true of their mental health treatment needs, experiences, 
+and outcomes. There are multiple common features across various forms of 
+trafficking, including commodification, coercive control, shame, and expe-
+riences of trauma prior to, during, and subsequent to trafficking; therefore,  
+218
+ * Kinnish and Hopper
+there are significant overlapping treatment needs between survivors of labor 
+and sex trafficking. This is especially true regarding trauma impacts and 
+treatment addressing these impacts, which is a primary focus of this chapter. 
+However, research is needed to affirm these commonalities and to iden-
+tify and articulate areas of divergence within and across trafficking experi-
+ences, highlighting unique treatment needs. Policy changes are needed to 
+increase funding to support development and evaluation of effective treat-
+ment approaches for all survivors of human trafficking.
