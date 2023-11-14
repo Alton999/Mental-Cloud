@@ -6,8 +6,27 @@ Welcome to the Mental Cloud repository. Here we are aiming to revoluntionaise th
 # Steps to run 
 First you will need to close the repository
 ```
-git clone <URL>
+git clone https://github.com/Alton999/Mental-Cloud.git
 ```
+
+Next you will need to install the relevant packages.
+In the terminal navigate to the Mental-Cloud repository
+```
+npm install
+``` 
+You will then need to add the needed API keys.
+Create a file 
+```
+.env.local
+```
+
+And add the following keys:
+```
+OPENAI_API_KEY="***"
+PINECONE_API_KEY="***"
+PINECONE_ENVIRIONMENT="***"
+```
+
 
 First, run the development server:
 
