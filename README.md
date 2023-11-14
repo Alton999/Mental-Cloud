@@ -1,5 +1,5 @@
 # Mental Cloud
-Welcome to the Mental Cloud repository. Here we are aiming to revoluntionaise the mental healthcare industry with the use of AI. Please note this prototype is not intended to replace the need for real life human interactions and professional help.
+Welcome to the Mental Cloud repository. Here we are aiming to revolutionise the mental healthcare industry with the use of AI. Please note this prototype is not intended to replace the need for real life human interactions and professional help.
 
 ## Steps to run 
 First you will need to clone the repository
