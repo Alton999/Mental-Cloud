@@ -13,7 +13,7 @@ In the terminal navigate to the Mental-Cloud repository
 npm install
 ``` 
 You will then need to add the needed API keys.
-Create a file 
+Create .env.local file in the root directory.
 ```
 .env.local
 ```
