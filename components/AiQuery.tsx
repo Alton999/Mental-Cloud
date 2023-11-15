@@ -86,12 +86,12 @@ const AiQuery = () => {
 				</div>
 			)}
 
-			<button
+			{/* <button
 				className="px-7 py-1 bg-white text-black mt-2 mb-2"
 				onClick={createIndexAndEmbeddings}
 			>
 				Create index and embeddings
-			</button>
+			</button> */}
 		</section>
 	);
 };

@@ -107,11 +107,11 @@ export const queryPineconeVectoreStoreAndQueryLLM = async (
 
 			Create a healthcare plan for 5 weeks
 			
-			week(Number): Maps for each week. In the maps, do not put in any words or phrases that are scientific or technical. There also cannot be a week that focuses on seeking professional help or professional support. Each week needs to contain the following::
+			Maps for each week. In the maps, do not put in any words or phrases that are scientific or technical. There also cannot be a week that focuses on seeking professional help or professional support. Each week needs to contain the following::
 			
 			- weekTitle: Title summary for the week
 			- strategies: A paragraph for strategies laid out in detail. Elaborate on the strategy/strategies in as much detail as possible. 
-			- techniques: List some practical techniques listed in the resources that the patient can use to help them with their mental health. Give 3 techniques for each week. No additional details are required for the techniques.
+			- techniques: List some practical techniques listed in the resources that the patient can use to help them with their mental health. Give 3 techniques for each week. Just give the technique names, NO additional details are required for the techniques.
 
 			Follow this example template:
 			{
